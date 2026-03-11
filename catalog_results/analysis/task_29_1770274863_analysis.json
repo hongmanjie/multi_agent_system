@@ -1,0 +1,283 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 32.0,
+      "duration": 32.0,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_29_1770274863_scene_0.jpg",
+      "sceneSummary": "视频片段展示了三组从不同角度拍摄的军舰画面，均呈现一艘大型灰色军舰在深蓝色海面上航行的情景。军舰上层建筑高耸，装备雷达和炮塔，甲板上有警示线和防护设施，背景为灰蓝色天空与广阔海域，整体氛围庄重肃穆，展现军事力量的威严。",
+      "smartRead": "视频中军舰在海上高速航行，画面显示其上层建筑、雷达罩、炮塔及甲板设施。语音内容简短，发言人确认上级命令“高速前出战斗”，并回应“对对对”及“不用的”，表明正在进行战斗准备或行动指令传达。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 4.0
+        },
+        {
+          "startTime": 6.0,
+          "endTime": 11.0
+        },
+        {
+          "startTime": 19.0,
+          "endTime": 24.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_29_1770274863_ship_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 12.0,
+          "endTime": 15.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_29_1770274863_person_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter",
+      "tagValue": "直升机",
+      "tagTrack": [
+        {
+          "startTime": 19.0,
+          "endTime": 21.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_29_1770274863_helicopter_475.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重肃穆",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "海上航行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军舰",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "开阔海域",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "国防",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "战斗准备",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "战争时期",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "多角度",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "仰视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事力量",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "战斗部署",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "战略行动",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "正式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "军事化",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "指挥官视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "高速前出",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "战斗准备",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "执行命令",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频片段以三个不同角度拍摄的军舰画面开场，展示了一艘大型灰色军舰在深蓝色海面上高速航行的情景。军舰的上层建筑高耸，配备雷达罩和炮塔，甲板上有明显的警示线和防护设施。背景是灰蓝色的天空和广阔的海域，整体氛围庄重肃穆，凸显了军事力量的威严与紧张感。",
+  "introSummary": "该视频以军舰在海上高速航行的画面为主，结合简短的语音内容，展现了军事行动的紧张氛围。通过多角度拍摄，军舰的外形和功能被清晰呈现，突出其作为作战单位的威严和战略意义。语音内容简短有力，体现了指挥官对上级命令的迅速响应，同时也暗示了任务的紧迫性。",
+  "keyPoints": [
+    "视频通过多个拍摄角度展示军舰的外观和航行状态，突出其军事力量和战术部署的严肃性。",
+    "军舰上层建筑、雷达、炮塔等设施的展示，强化了其作为作战单位的功能性和战略地位。",
+    "背景中的广阔海域和灰蓝色天空，配合军舰的高速航行，营造出一种紧张而庄重的氛围，暗示可能正在进行战斗准备或军事行动。",
+    "画面中甲板上的警示线和防护设施，突显出军舰在执行任务时的安全性和防御性。",
+    "整体视觉风格统一，强调军事题材的严肃性和专业性，符合视频所传达的战斗氛围。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "发言人spk_0表示‘上级令我舰高速前出战斗’，并回应‘对对对’和‘不用的’，表明正在执行上级命令，进入战斗准备状态，显示出对命令的服从和对任务的积极响应。"
+    },
+    {
+      "speaker": "speaker_1",
+      "summary": "发言人的语气简短有力，反映出军事环境中直接、果断的沟通方式，体现出指挥链的高效运作。"
+    },
+    {
+      "speaker": "speaker_2",
+      "summary": "‘不用的’这一回应可能暗示着对上级命令的某些质疑或对任务的不完全确认，但整体仍保持服从态度，显示出军人在执行任务时的纪律性与责任感。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [
+    {
+      "startTime": 7.99,
+      "endTime": 17.4,
+      "audioText": "上级令我舰高速前出战斗嗯，"
+    },
+    {
+      "startTime": 17.4,
+      "endTime": 17.71,
+      "audioText": "对对对，"
+    },
+    {
+      "startTime": 21.2,
+      "endTime": 21.77,
+      "audioText": "不用的。"
+    }
+  ],
+  "textVectors": []
+}

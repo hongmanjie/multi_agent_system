@@ -1,0 +1,771 @@
+nohup: 忽略输入
+INFO:     Started server process [2666615]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:9990 (Press CTRL+C to quit)
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个飞机视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个飞机视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:59524 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 千问
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：千问
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- ...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:48106 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 1
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：1
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- 动...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:58708 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 飞机
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：飞机
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- ...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:58712 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 1
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：1
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- 动...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:53558 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 飞机
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：飞机
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- ...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:35916 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个导弹袭击的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个导弹袭击的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- ...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:41216 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个跟导弹袭击相关的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个跟导弹袭击相关的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:45676 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 1
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：1
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- 动...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:45996 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个跟导弹袭击相关的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个跟导弹袭击相关的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:58470 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个跟飞机相关的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个跟飞机相关的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:60894 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 1
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：1
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+- 动...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:45828 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个飞机视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个飞机视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:36836 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个飞机视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个飞机视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:35238 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个坦克视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个坦克视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:56298 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个飞机视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个飞机视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:46364 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个飞机视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个飞机视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:35942 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 撒贝宁
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：撒贝宁
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:58328 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找撒贝宁的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找撒贝宁的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:56282 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 撒贝宁
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：撒贝宁
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:59570 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找撒贝宁的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找撒贝宁的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:58142 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找撒贝宁的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找撒贝宁的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:59630 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 测试日志输出
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：测试日志输出
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:47396 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找撒贝宁的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找撒贝宁的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:40688 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 找出一个军事演习的视频片段
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：找出一个军事演习的视频片段
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:40980 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 找出一个军事演习的视频片段
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：找出一个军事演习的视频片段
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:46230 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 找出一个军事演习的视频片段
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：找出一个军事演习的视频片段
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:49658 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 找出一个飞机的视频片段
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：找出一个飞机的视频片段
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:38476 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 找出一个飞机的视频片段
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：找出一个飞机的视频片段
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:60428 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 帮我找几个飞机的视频
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：帮我找几个飞机的视频
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     127.0.0.1:49054 - "POST /agent/analyze HTTP/1.1" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 正在起飞的飞机
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：正在起飞的飞机
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- ...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:42112 - "POST /agent/analyze HTTP/1.0" 200 OK
+=== 开始使用LangChain进行意图分析 ===
+1. 开始使用LangChain的PromptTemplate处理查询: 运20
+   ✓ 成功生成提示词: 
+你是一个专业的搜索意图分析器，负责分析用户的搜索查询并识别其意图。
+
+请分析以下用户搜索查询：
+
+查询：运20
+
+可能的意图类型包括：
+- 人物
+- 音乐
+- 电影
+- 剧集
+- 体育
+- 新闻
+-...
+2. 开始调用Qwen3模型...
+开始调用Qwen3模型...
+调用URL: http://localhost:8010/nlp/qwen3_4b/predict
+发送请求到MaaS服务...
+收到响应，状态码: 404
+调用Qwen3模型失败: 404 Client Error: Not Found for url: http://localhost:8010/nlp/qwen3_4b/predict
+   ✗ 模型返回空结果
+INFO:     172.21.0.3:33052 - "POST /agent/analyze HTTP/1.0" 200 OK

@@ -1,0 +1,604 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 104.0,
+      "duration": 104.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_217/scene_image/scene_0.jpg",
+      "sceneSummary": "在一间明亮的教室里，一位女教师站在讲台前，面对坐在课桌前的学生们授课。教室前方设有投影屏幕和黑板，屏幕上显示着多张蓝天白云的图片。教师身着粉色上衣和灰色裤子，手持教具，边走边讲解，学生们专注地聆听。教室布置整洁，墙上挂有中国国旗和“福”字装饰，窗户旁有窗帘，整体环境为典型的中小学课堂场景。",
+      "smartRead": "教师引导学生欣赏投影屏幕上的蓝天图片，询问学生对蓝天的感受，并通过提问引发学生思考空气质量问题。她提到2020年天气晴朗、蓝天频现，进而引导学生讨论“空气质量好不好”的判断标准，强调不能仅凭照片判断，而应结合具体数据。学生参与互动，有学生回应“有时很好，有时不好”，教师肯定其观点并进一步引导学生思考如何科学评估空气质量。视觉上，教师在教室中移动讲解，学生认真听讲，课堂氛围活跃，教学目标聚焦于通过视觉素材引发对环境数据的思考。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 105.0,
+      "endTime": 163.0,
+      "duration": 58.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_217/scene_image/scene_1.jpg",
+      "sceneSummary": "在一间明亮的教室里，一位女教师站在讲台前，面对着坐在课桌前的学生们授课。教室前方设有投影屏幕和黑板，屏幕上显示着多张图片，黑板上写有“收集数据”和“整理数据”字样。学生们穿着校服，专注地面向教师，部分学生正在低头记录或抬头聆听。教师手持纸张，边走动边讲解，动作自然，与学生互动。教室布置整洁，窗户旁挂着窗帘，墙上悬挂中国国旗和“福”字装饰，营造出典型的课堂教学氛围。",
+      "smartRead": "教师正在回顾学生之前收集的2020年10月空气质量数据，并引导学生回忆整理数据的过程。她提到学生昨天用自己喜欢的方式整理数据，并指出老师已为三份学生作品编号（一号、二号、三号），以便展示和讨论。教师边走动边引导学生观察并分析这些作品，鼓励学生表达自己的理解，尤其提到“特别自信”的学生，暗示课堂氛围鼓励参与和表达。视觉上，教师手持材料，与学生互动，教室环境支持教学活动，黑板和投影内容与语音内容高度对应，体现教学流程的连贯性。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 164.0,
+      "endTime": 210.0,
+      "duration": 46.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_217/scene_image/scene_2.jpg",
+      "sceneSummary": "在一间教室里，一名女教师站在讲台前，面对着坐在课桌前的学生们。教室前方有一块投影屏幕和一块黑板，黑板上贴有图表和文字。一名男学生站在黑板前，似乎正在讲解或展示内容，教师在一旁引导。学生们专注地看着前方，部分学生举手或低头记录。教室布置整洁，有窗帘、空调、国旗和装饰物，整体氛围是课堂教学场景。",
+      "smartRead": "教师引导男学生讲解黑板上的统计表，男学生自信地向全班展示内容，教师点头肯定。男学生解释统计表分为“质量等级”和对应的“优、良、轻度污染、中度污染”四类，具体天数分别为10天、14天、5天、2天。教师询问学生是否同意该说法，学生回应“同意”，教师称赞“真棒”。随后，教师引导学生反思是否清楚整理的数据，指出班级中许多同学曾用类似表达，并询问是否为“课时”，男学生澄清“不是的”，教师最后肯定“统计表挺好的”。整个过程体现教师引导学生主动参与、分析数据的教学互动。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 5.0
+        },
+        {
+          "startTime": 9.0,
+          "endTime": 37.0
+        },
+        {
+          "startTime": 41.0,
+          "endTime": 100.0
+        },
+        {
+          "startTime": 105.0,
+          "endTime": 111.0
+        },
+        {
+          "startTime": 116.0,
+          "endTime": 160.0
+        },
+        {
+          "startTime": 164.0,
+          "endTime": 210.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_217/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "积极",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "互动",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "兴奋",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "自信",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "教室",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "课堂",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "教育",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "环境科学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "2020年",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "中景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "空气质量数据",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "数据整理",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "教学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "互动式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "教师视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "讲解",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "学生展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "在一间明亮的教室里，一位女教师站在讲台前，面对着坐在课桌前的学生们授课。教室前方有投影屏幕和黑板，屏幕上显示着多张蓝天白云的图片，黑板上贴有数据图表。教师身着粉色上衣和灰色裤子，正在讲解内容。学生们穿着校服，专注地听讲，部分学生举手或参与互动。教室布置整洁，墙上挂着中国国旗和“福”字装饰，窗帘半开，自然光透过窗户照亮教室。",
+  "introSummary": "视频展示了一堂生动的环境科学课，教师通过展示蓝天照片引导学生思考空气质量数据，并鼓励学生分享自己整理的数据。课堂氛围积极互动，学生积极参与讨论和展示，教师给予肯定和引导。整个场景发生在明亮的教室中，体现了教育领域中数据整理与分析的教学实践。",
+  "keyPoints": [
+    "课堂互动: 教师引导学生讨论空气质量数据，鼓励学生分享观点。",
+    "数据展示: 黑板上展示不同空气质量等级的统计表，包括优、良、轻度污染、中度污染的天数。",
+    "学生参与: 一名学生被点名上台展示自己的数据整理成果，并自信地讲解统计表内容。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "教师引导学生思考蓝天照片背后的数据含义，强调空气质量数据的重要性，并回顾学生课前收集和整理的数据。"
+    },
+    {
+      "speaker": "发言人1",
+      "summary": "学生自信地讲解自己整理的数据统计表，说明不同空气质量等级的天数，并得到教师的肯定。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"空气质量数据教学课堂深度解析\",\n  \"children\": [\n    {\n      \"name\": \"课堂导入与话题引发环节\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"教师展示蓝天图片引发学生对于天气状况的直观感受与讨论\",\n          \"children\": [\n            { \"name\": \"视觉素材：蓝天白云照片\" },\n            { \"name\": \"核心问题：空气质量好不好\" },\n            { \"name\": \"学生反馈：有时好有时不好\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"数据收集与整理过程回顾\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"回顾二零二零年十月空气质量数据的收集与整理活动\",\n          \"children\": [\n            { \"name\": \"时间范围：二零二零年十月\" },\n            { \"name\": \"前置任务：收集并整理数据\" },\n            { \"name\": \"展示方式：学生作品编号展示\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"统计表展示与数据分析\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"学生讲解一号作品统计表，分类统计不同质量等级天数\",\n          \"children\": [\n            { \"name\": \"图表类型：质量等级统计表\" },\n            { \"name\": \"质量等级优：共计十天整\" },\n            { \"name\": \"质量等级良：共计十四天\" },\n            { \"name\": \"轻度污染天数：共计五天\" },\n            { \"name\": \"中度污染天数：共计两天\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"教学互动与结论总结\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"教师引导学生确认数据准确性并肯定统计表整理方式\",\n          \"children\": [\n            { \"name\": \"互动形式：学生讲解教师引导\" },\n            { \"name\": \"全班反馈：一致同意说法\" },\n            { \"name\": \"教学结论：统计表方式挺好\" }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.48,
+      "endTime": 2.54,
+      "audioText": "朋友都在晒着蓝天，"
+    },
+    {
+      "startTime": 2.8,
+      "endTime": 4.96,
+      "audioText": "我们一起来上欣赏一下好吗？"
+    },
+    {
+      "startTime": 11.4,
+      "endTime": 11.92,
+      "audioText": "这哪呢？"
+    },
+    {
+      "startTime": 11.92,
+      "endTime": 21.95,
+      "audioText": "大家知道从州州外呀正在等北的前门直接拉去嗯，"
+    },
+    {
+      "startTime": 21.99,
+      "endTime": 26.29,
+      "audioText": "去清华哦啊不对对，"
+    },
+    {
+      "startTime": 26.35,
+      "endTime": 30.95,
+      "audioText": "天天天儿味儿好好了，"
+    },
+    {
+      "startTime": 31.23,
+      "endTime": 33.89,
+      "audioText": "看了这么多图片，"
+    },
+    {
+      "startTime": 34.35,
+      "endTime": 35.535,
+      "audioText": "你有什么感受？"
+    },
+    {
+      "startTime": 36.82,
+      "endTime": 40.25,
+      "audioText": "你说说天好蓝呢，"
+    },
+    {
+      "startTime": 40.31,
+      "endTime": 41.825,
+      "audioText": "是那给你打叫呢，"
+    },
+    {
+      "startTime": 42.42,
+      "endTime": 48.01,
+      "audioText": "感觉那几天是不是大家都有这样的感受啊，"
+    },
+    {
+      "startTime": 48.01,
+      "endTime": 48.71,
+      "audioText": "对不对？"
+    },
+    {
+      "startTime": 48.73,
+      "endTime": 49.59,
+      "audioText": "天空湛蓝，"
+    },
+    {
+      "startTime": 49.59,
+      "endTime": 51.79,
+      "audioText": "湛蓝的特别的漂亮，"
+    },
+    {
+      "startTime": 51.91,
+      "endTime": 53.97,
+      "audioText": "是啊这是二零二零年的天气。"
+    },
+    {
+      "startTime": 54.31,
+      "endTime": 60.185,
+      "audioText": "于是很多人都说二零二零年的空气质量很好，"
+    },
+    {
+      "startTime": 60.94,
+      "endTime": 61.725,
+      "audioText": "你们认为吗？"
+    },
+    {
+      "startTime": 63.01,
+      "endTime": 63.85,
+      "audioText": "有时很好，"
+    },
+    {
+      "startTime": 63.85,
+      "endTime": 64.75,
+      "audioText": "有时候你说说哎，"
+    },
+    {
+      "startTime": 64.75,
+      "endTime": 66.39,
+      "audioText": "你说说什么意思？"
+    },
+    {
+      "startTime": 66.47,
+      "endTime": 67.37,
+      "audioText": "有时很好。"
+    },
+    {
+      "startTime": 67.37,
+      "endTime": 68.13,
+      "audioText": "有时不好，"
+    },
+    {
+      "startTime": 68.13,
+      "endTime": 73.75,
+      "audioText": "因为是他们拍下来的是好的那个时间段如果坏的时间段，"
+    },
+    {
+      "startTime": 73.75,
+      "endTime": 76.87,
+      "audioText": "有时会轻度污染或中度污染或重度污染。"
+    },
+    {
+      "startTime": 76.91,
+      "endTime": 77.11,
+      "audioText": "哎，"
+    },
+    {
+      "startTime": 77.11,
+      "endTime": 77.75,
+      "audioText": "挺好的，"
+    },
+    {
+      "startTime": 77.79,
+      "endTime": 80.01,
+      "audioText": "那你就是说我们想判断一个天气好不好？"
+    },
+    {
+      "startTime": 80.07,
+      "endTime": 81.7,
+      "audioText": "你需要热知道点什么？"
+    },
+    {
+      "startTime": 83.83,
+      "endTime": 84.22,
+      "audioText": "你好，"
+    },
+    {
+      "startTime": 85.29,
+      "endTime": 91.56,
+      "audioText": "那我们的话也就是空气质量的情况是这样的吧，"
+    },
+    {
+      "startTime": 91.56,
+      "endTime": 93.34,
+      "audioText": "是不是这样的一些数据，"
+    },
+    {
+      "startTime": 93.46,
+      "endTime": 96.4,
+      "audioText": "而是不仅仅通过这些照片来知道了，"
+    },
+    {
+      "startTime": 96.4,
+      "endTime": 96.82,
+      "audioText": "对吗？"
+    },
+    {
+      "startTime": 97.12,
+      "endTime": 97.36,
+      "audioText": "哎，"
+    },
+    {
+      "startTime": 97.5,
+      "endTime": 97.94,
+      "audioText": "真棒。"
+    },
+    {
+      "startTime": 98.06,
+      "endTime": 99.74,
+      "audioText": "所以呀课前的时候，"
+    },
+    {
+      "startTime": 99.82,
+      "endTime": 105.96,
+      "audioText": "咱们是不是一起收集了二零二零年十月的空气质量情况，"
+    },
+    {
+      "startTime": 106.08,
+      "endTime": 106.74,
+      "audioText": "还记得吗？"
+    },
+    {
+      "startTime": 107.18,
+      "endTime": 110.14,
+      "audioText": "咱们先经历了一个收集的数据。"
+    },
+    {
+      "startTime": 110.22,
+      "endTime": 110.46,
+      "audioText": "对，"
+    },
+    {
+      "startTime": 110.66,
+      "endTime": 114.66,
+      "audioText": "然后是不是昨天让大家用你们最喜欢的方式怎么样分才数据？"
+    },
+    {
+      "startTime": 114.66,
+      "endTime": 114.9,
+      "audioText": "哇，"
+    },
+    {
+      "startTime": 115.48,
+      "endTime": 115.72,
+      "audioText": "对，"
+    },
+    {
+      "startTime": 115.94,
+      "endTime": 117.06,
+      "audioText": "整理了出来。"
+    },
+    {
+      "startTime": 117.3,
+      "endTime": 117.66,
+      "audioText": "是的，"
+    },
+    {
+      "startTime": 117.66,
+      "endTime": 120.72,
+      "audioText": "我们实际上我们又进行了整理数据。"
+    },
+    {
+      "startTime": 121.059,
+      "endTime": 121.64,
+      "audioText": "然后呢，"
+    },
+    {
+      "startTime": 121.64,
+      "endTime": 126.34,
+      "audioText": "老师教大家整理的数据发现了有这样的三种不同的情况。"
+    },
+    {
+      "startTime": 126.54,
+      "endTime": 131.385,
+      "audioText": "我们一起来看一看咱们同学的想法，"
+    },
+    {
+      "startTime": 133.58,
+      "endTime": 137.775,
+      "audioText": "为了方便老师提前给大家给给这个三个作品编了个号，"
+    },
+    {
+      "startTime": 139.42,
+      "endTime": 140.235,
+      "audioText": "一号二，"
+    },
+    {
+      "startTime": 142.5,
+      "endTime": 145.625,
+      "audioText": "还有三行作品。"
+    },
+    {
+      "startTime": 151.35,
+      "endTime": 151.59,
+      "audioText": "好，"
+    },
+    {
+      "startTime": 151.69,
+      "endTime": 152.745,
+      "audioText": "我们一起来看看，"
+    },
+    {
+      "startTime": 154.29,
+      "endTime": 157.81,
+      "audioText": "这是一号同学咱们班谁的想法，"
+    },
+    {
+      "startTime": 157.81,
+      "endTime": 159.965,
+      "audioText": "你能看明这你能看明白他的想法，"
+    },
+    {
+      "startTime": 162.61,
+      "endTime": 164.925,
+      "audioText": "给男说出来特自信这种人，"
+    },
+    {
+      "startTime": 168.82,
+      "endTime": 171.46,
+      "audioText": "这是一个表格统计表，"
+    },
+    {
+      "startTime": 172.06,
+      "endTime": 174.7,
+      "audioText": "它的它分为两类，"
+    },
+    {
+      "startTime": 174.96,
+      "endTime": 176.659,
+      "audioText": "一个是质量等级，"
+    },
+    {
+      "startTime": 177.12,
+      "endTime": 180.52,
+      "audioText": "然后后面有优良轻度污染和中度污染。"
+    },
+    {
+      "startTime": 180.52,
+      "endTime": 181.56,
+      "audioText": "这几个等级，"
+    },
+    {
+      "startTime": 181.76,
+      "endTime": 184.74,
+      "audioText": "还有天数优的天数有十天，"
+    },
+    {
+      "startTime": 184.98,
+      "endTime": 186.46,
+      "audioText": "良的天数有十四天，"
+    },
+    {
+      "startTime": 186.64,
+      "endTime": 187.48,
+      "audioText": "轻度污染，"
+    },
+    {
+      "startTime": 187.58,
+      "endTime": 188.26,
+      "audioText": "有五天，"
+    },
+    {
+      "startTime": 188.46,
+      "endTime": 189.995,
+      "audioText": "中度污染有两天。"
+    },
+    {
+      "startTime": 190.97,
+      "endTime": 192.57,
+      "audioText": "大家同意我的说法吗？"
+    },
+    {
+      "startTime": 192.81,
+      "endTime": 194.64,
+      "audioText": "同意真棒，"
+    },
+    {
+      "startTime": 194.8,
+      "endTime": 198.175,
+      "audioText": "他说清楚咱们整理的你们整理的数据了吗？"
+    },
+    {
+      "startTime": 199.77,
+      "endTime": 200.05,
+      "audioText": "对吧？"
+    },
+    {
+      "startTime": 200.05,
+      "endTime": 201.81,
+      "audioText": "我发现昨班有好多同学都说这种话，"
+    },
+    {
+      "startTime": 201.81,
+      "endTime": 203.05,
+      "audioText": "这这是什么方式？"
+    },
+    {
+      "startTime": 203.05,
+      "endTime": 205.06,
+      "audioText": "你们知道对，"
+    },
+    {
+      "startTime": 205.32,
+      "endTime": 206.42,
+      "audioText": "是是课时吗？"
+    },
+    {
+      "startTime": 206.46,
+      "endTime": 207.8,
+      "audioText": "不是的，"
+    },
+    {
+      "startTime": 207.8,
+      "endTime": 209.97,
+      "audioText": "统计表表挺好的。"
+    }
+  ],
+  "textVectors": []
+}

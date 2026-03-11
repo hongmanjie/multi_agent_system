@@ -1,0 +1,70 @@
+nohup: 忽略输入
+nohup: 无法运行命令 'qwen3vl_video_service_api.py': 没有那个文件或目录
+nohup: 忽略输入
+nohup: 无法运行命令 'qwen3vl_video_service_api.py': 没有那个文件或目录
+nohup: 忽略输入
+INFO:     Started server process [1791092]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+nohup: 忽略输入
+INFO:     Started server process [1836695]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     192.168.86.113:52772 - "POST /analyze-video-by-frames HTTP/1.1" 200 OK
+INFO:     192.168.86.113:58566 - "POST /analyze-video-by-frames HTTP/1.1" 200 OK
+INFO:     192.168.86.113:46508 - "POST /analyze-video-by-frames HTTP/1.1" 200 OK
+INFO:     192.168.86.113:46508 - "POST /analyze-video HTTP/1.1" 200 OK
+INFO:     192.168.86.113:34052 - "POST /analyze-video-by-frames HTTP/1.1" 200 OK
+INFO:     192.168.86.113:34052 - "POST /analyze-video HTTP/1.1" 200 OK
+INFO:     192.168.86.113:57434 - "POST /analyze-video HTTP/1.1" 404 Not Found
+INFO:     192.168.86.113:39510 - "POST /analyze-video-by-frames HTTP/1.1" 200 OK
+INFO:     192.168.86.113:33206 - "POST /analyze-video HTTP/1.1" 200 OK
+INFO:     192.168.86.113:49700 - "POST /analyze-video-by-frames HTTP/1.1" 200 OK
+INFO:     192.168.86.113:38102 - "POST /analyze-video HTTP/1.1" 200 OK
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:54578 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+INFO:     192.168.86.113:37224 - "POST /analyze-video-by-frames HTTP/1.1" 500 Internal Server Error
+错误详情: Traceback (most recent call last):
+  File "/data_ssd/smart_catalog_release_v1.1/qwen3_video_server/qwen3vl_video_service_api.py", line 168, in analyze_video
+    completion = client.chat.completions.create(
+  File "/home/xtxk/miniconda3/lib/python3.10/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+  File "/home/xtxk/miniconda3/lib/python3.10/site-packages/openai/resources/chat/completions/completions.py", line 1192, in create
+    return self._post(
+  File "/home/xtxk/miniconda3/lib/python3.10/site-packages/openai/_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/xtxk/miniconda3/lib/python3.10/site-packages/openai/_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'message': 'The free tier of the model has been exhausted. If you wish to continue access the model on a paid basis, please disable the "use free tier only" mode in the management console.', 'type': 'AllocationQuota.FreeTierOnly', 'param': None, 'code': 'AllocationQuota.FreeTierOnly'}, 'id': 'chatcmpl-3e0676c6-cea2-9b17-a773-aac098b486d7', 'request_id': '3e0676c6-cea2-9b17-a773-aac098b486d7'}
+
+INFO:     192.168.86.113:37224 - "POST /analyze-video HTTP/1.1" 500 Internal Server Error
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1836695]

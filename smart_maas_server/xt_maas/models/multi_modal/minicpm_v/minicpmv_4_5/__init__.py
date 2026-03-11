@@ -1,0 +1,1 @@
+from .model import MiniCPM_V_Model

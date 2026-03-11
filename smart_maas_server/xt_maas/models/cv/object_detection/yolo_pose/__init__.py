@@ -1,0 +1,1 @@
+from .yolov12x_onnx import YOLOv12_ONNX_POSE

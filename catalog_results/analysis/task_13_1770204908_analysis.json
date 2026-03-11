@@ -1,0 +1,256 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 32.0,
+      "duration": 32.0,
+      "imageUrl": "/data_ssd/auto_catalog/catalog_results/object_image/task_13_1770204908_scene_0.jpg",
+      "sceneSummary": "视频片段展示了三组不同视角下的一艘大型军舰在海上航行的场景。画面中军舰造型硬朗，装备齐全，包括雷达、炮塔、防护网等军事设施，背景为广阔海洋与阴沉天空，整体氛围庄重而威严，展现出现代海军的强大力量与技术先进性。",
+      "smartRead": "视频呈现了军舰从高空俯瞰、船头及船尾三个视角的航拍画面。军舰船体庞大，甲板上设有大型炮塔、雷达罩、天线等设备，船尾有白色浪花，背景为深蓝海洋与阴沉天空，整体展现了一艘现代化军舰在海上高速航行的庄严景象。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 4.0
+        },
+        {
+          "startTime": 6.0,
+          "endTime": 11.0
+        },
+        {
+          "startTime": 19.0,
+          "endTime": 24.0
+        }
+      ],
+      "imageUrl": "/data_ssd/auto_catalog/catalog_results/object_image/task_13_1770204908_ship_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 12.0,
+          "endTime": 15.0
+        }
+      ],
+      "imageUrl": "/data_ssd/auto_catalog/catalog_results/object_image/task_13_1770204908_person_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter",
+      "tagValue": "直升机",
+      "tagTrack": [
+        {
+          "startTime": 19.0,
+          "endTime": 21.0
+        }
+      ],
+      "imageUrl": "/data_ssd/auto_catalog/catalog_results/object_image/task_13_1770204908_helicopter_475.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "威严",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "肃穆",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "震撼",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "敬畏",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "海上航行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军舰甲板",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "深蓝海洋",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "海军",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事科技",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "国防",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "高科技",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "高空俯瞰",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "船头",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "船尾",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军舰展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事力量",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "航拍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "多角度",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "航行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "黑夜",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频片段以三组不同视角展示了现代大型军舰在海上航行的场景。画面中军舰造型硬朗，装备齐全，包括雷达、炮塔、防护网等军事设施，背景为广阔海洋与阴沉天空，整体氛围庄重而威严，展现了现代海军的强大力量与技术先进性。镜头从高空俯瞰、船头及船尾依次切换，呈现出军舰在海面上高速前进的动态美感，船尾有白色浪花飞溅，深蓝海洋与阴沉天空形成强烈对比，强化了军舰的威严感与科技感。",
+  "introSummary": "本视频通过多视角航拍手法，生动展现了现代大型军舰在海上航行的庄严景象。视频画面中，军舰造型硬朗、装备齐全，背景为广阔海洋与阴沉天空，整体氛围庄重而威严，突出了现代海军的强大力量与技术先进性。视频通过高空俯瞰、船头及船尾三个视角的切换，展现了军舰庞大的体积和精密的军事设施，强化了其作为国家军事力量象征的地位。整体视觉风格写实，风格肃穆，传递出对军事力量的敬畏与尊重。视频所传达的主题是军舰作为现代国防的重要组成部分，其在国际局势中的战略意义不容忽视。",
+  "keyPoints": [
+    "视频通过多视角展示，突出军舰的规模与装备，展现现代海军的技术先进性和军事力量。",
+    "画面中阴沉的天空与深蓝色海洋形成强烈对比，强化了军舰的庄严与威严感。",
+    "航拍镜头与动态画面结合，展现出军舰在海上高速航行时的动感与震撼力。",
+    "军舰上的雷达、炮塔、天线等设施清晰可见，凸显其作为现代战争工具的高科技属性。",
+    "视频整体氛围严肃且具有威慑力，传递出军事力量的不可忽视性。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "说话人1认为军舰是现代海军的核心力量，体现了国家的国防实力和技术水平。"
+    },
+    {
+      "speaker": "speaker_1",
+      "summary": "说话人2强调军舰在海上航行时的庄严与威严，以及其在国际局势中的战略地位。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [],
+  "textVectors": []
+}

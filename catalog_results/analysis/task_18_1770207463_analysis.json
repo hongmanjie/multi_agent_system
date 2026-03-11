@@ -1,0 +1,177 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 32.0,
+      "duration": 32.0,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_18_1770207463_scene_0.jpg",
+      "sceneSummary": "视频展现了一艘大型灰色战舰在海上高速航行的画面。画面从高处俯瞰，显示战舰流线型船体、尖锐舰首及白色航迹，甲板上布满雷达、天线和武器系统，背景为广阔海洋与蓝天，整体呈现庄重威严的军事氛围。",
+      "smartRead": "视频中，一艘军舰在海上高速前行，舰体庞大，装备齐全，甲板上设有雷达罩、防护网及军事设施。语音内容显示，上级命令舰艇快速前出战斗，对话简短且坚定，体现出作战指令的紧迫性与执行的迅速性。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 4.0
+        },
+        {
+          "startTime": 6.0,
+          "endTime": 11.0
+        },
+        {
+          "startTime": 19.0,
+          "endTime": 24.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_18_1770207463_ship_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 12.0,
+          "endTime": 15.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_18_1770207463_person_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter",
+      "tagValue": "直升机",
+      "tagTrack": [
+        {
+          "startTime": 19.0,
+          "endTime": 21.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_18_1770207463_helicopter_475.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重威严",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧张严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "海上高速航行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事作战",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代战争",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "高空俯视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "战舰作战准备",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "冷峻",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "客观叙述",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "战舰高速前进",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频开始展示一艘大型灰色战舰在海上高速航行，画面从高处俯瞰，呈现出战舰流线型的船体设计，尖锐的舰首和白色航迹清晰可见。战舰甲板上布满了雷达、天线和各种武器系统，背景是广阔的海洋和蓝天，整体氛围庄重而威严。",
+  "introSummary": "该视频以高速俯视镜头展示了现代战舰在海上高速航行的壮观场面，视觉上突出其流线型设计、密集的军事装备以及冷峻的军事氛围。语音内容简短有力，传达出上级下达紧急作战指令的信息，体现作战指挥的紧迫性与执行力。视频整体风格冷峻写实，场景设定在现代战争背景下，通过白天的明亮光线强化了战舰的威严与力量感。视频通过视觉与语音的结合，营造出一种紧张而肃穆的军事氛围，突显战舰在海上作战中的重要地位和强大战斗力。",
+  "keyPoints": [
+    "视频通过高速俯视镜头展现了战舰的庞大与军事化特征，突出了其作为战斗单位的强大力量。",
+    "战舰上的雷达、天线和武器系统布置密集，表明其具备高度的作战能力和防御能力。",
+    "背景中的广阔海洋与蓝天强化了战舰在海上作战环境中的孤立感和战略重要性。",
+    "画面整体氛围冷峻、肃穆，传递出军事行动的紧迫性和严肃性。",
+    "战舰高速航行的动态画面增强了视觉冲击力，表现出其强大的机动性能。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "发言人spk_0认为上级下达了紧急作战指令，要求战舰迅速前出战斗，语言简短而坚定，体现了作战指挥的高效与紧迫性。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [
+    {
+      "startTime": 7.99,
+      "endTime": 17.4,
+      "audioText": "上级令我舰高速前出战斗嗯，"
+    },
+    {
+      "startTime": 17.4,
+      "endTime": 17.71,
+      "audioText": "对对对，"
+    },
+    {
+      "startTime": 21.2,
+      "endTime": 21.77,
+      "audioText": "不用的。"
+    }
+  ],
+  "textVectors": []
+}

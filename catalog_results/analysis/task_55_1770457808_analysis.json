@@ -1,0 +1,168 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 0.0,
+      "duration": 0.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/scene_image/task_55_1770457808_scene_0.jpg",
+      "sceneSummary": "视频片段展示了一组五名身穿迷彩服、手持武器的军人正在沿倾斜的金属结构向上攀登的画面。画面采用剪影效果，突出人物轮廓，背景为日落时分的天空，呈现金黄色至蓝色的渐变，营造出壮丽而充满力量的氛围。画面右下角标注了“中国军网 www.81.cn”，表明该视频为中国军队的宣传或训练内容。整体画面动感强烈，展现了军人的坚毅与团队协作精神。",
+      "smartRead": "视频中，五名军人身着迷彩服，手持武器，正沿着倾斜的金属结构向上攀登。画面采用剪影效果，人物轮廓清晰，背景是日落时分的天空，呈现出从金黄到蓝色的渐变色彩，营造出壮丽而充满力量的氛围。画面右下角标注了“中国军网 www.81.cn”，表明该视频为中国军队的相关宣传或训练场景。整体构图动感十足，突出军人的坚毅和团队协作精神。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "壮丽",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "充满力量",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "坚毅",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "团队协作",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "金属结构",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "日落天空",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事训练",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军队宣传",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "剪影",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军人精神",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "团队协作",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "宣传",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "客观叙述",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "攀登",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "训练",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "黑夜",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了五名身穿迷彩服、手持武器的军人正在沿倾斜的金属结构向上攀登的画面，画面采用剪影效果，突出人物轮廓，背景是日落时分的天空，呈现出从金黄到蓝色的渐变色彩，营造出壮丽而充满力量的氛围。画面右下角标注了‘中国军网 www.81.cn’，表明该视频为中国军队的宣传或训练内容，整体画面动感强烈，展现了军人的坚毅与团队协作精神。",
+  "introSummary": "视频展现了一组五名军人在倾斜的金属结构上攀爬的场景，画面采用剪影效果，背景为日落时分的天空，营造出壮丽而充满力量的氛围。视频右下角标注了‘中国军网 www.81.cn’，表明其为军队宣传或训练内容。整体画面动感强烈，突出了军人的坚毅与团队协作精神，体现了军事训练中的纪律性和战斗力。",
+  "keyPoints": [
+    "军事行动展示: 五名军人在金属结构上攀登，表现出军事训练或作战场景。",
+    "战争残酷性刻画: 虽未直接表现战斗，但通过军人的坚韧和环境的壮丽，暗示了战争中的挑战与勇气。",
+    "团队协作精神: 军人共同完成攀登任务，体现出团队合作的重要性。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "无实质观点"
+    },
+    {
+      "speaker": "发言人1",
+      "summary": "无实质观点"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [],
+  "textVectors": []
+}

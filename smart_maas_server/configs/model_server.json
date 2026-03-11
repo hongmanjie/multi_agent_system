@@ -1,0 +1,242 @@
+[
+  {
+    "model_id": "rex_omni",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.rex_omni.rex_omni_model",
+    "class": "RexOmniModel",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/Rex-Omni-AWQ",
+      "device_map": "cuda:3",
+      "enable_cuda": true
+    }
+  },
+    {
+    "model_id": "damo_yolo_helmet",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.damo_yolo",
+    "class": "DAMOYOLO_ONNX_HELMET",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/root/wanjie-data/maas_models/damoyolo_helmet.onnx",
+      "device": "cuda:2",
+      "enable_cuda": true,
+      "class_names": [],
+      "obj_thresh": 0.3,
+      "nms_thresh": 0.5
+    }
+  },
+  {
+    "model_id": "yolo_person",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.yolo_person",
+    "class": "YOLOv12_ONNX_PERSON",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/best_1120_l.onnx",
+      "device": "cuda:2",
+      "enable_cuda": true,
+      "class_names": [],
+      "obj_thresh": 0.3,
+      "nms_thresh": 0.5
+    }
+  },
+  {
+    "model_id": "yolo_helmet",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.yolo_helmet",
+    "class": "YOLOv12_ONNX_HELMET",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/helmet_yolo_v8s.onnx",
+      "device": "cuda:2",
+      "enable_cuda": true,
+      "class_names": [],
+      "obj_thresh": 0.3,
+      "nms_thresh": 0.5
+    }
+  },
+    {
+    "model_id": "yolo_pose",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.yolo_pose",
+    "class": "YOLOv12_ONNX_POSE",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/yolo11l-pose.onnx",
+      "device": "cuda:2",
+      "enable_cuda": true,
+      "class_names": [],
+      "obj_thresh": 0.3,
+      "nms_thresh": 0.5
+    }
+  },
+  {
+    "model_id": "grounding_dino_v1",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.grounding_dino",
+    "class": "GroundingDINO",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/GD_base",
+      "device": "cuda:2",
+      "enable_cuda": true,
+      "text_prompt": [["person", "airplane", "tank", "helicopter", "ship", "armored vehicle", "missile", "radar"]],
+      "box_threshold": 0.35,
+      "text_threshold": 0.25
+    }
+  },
+  {
+    "model_id": "grounding_dino_v2",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.grounding_dino",
+    "class": "GroundingDINO",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/GD_base",
+      "device": "cuda:3",
+      "enable_cuda": true,
+      "text_prompt": [["fire", "smoke", "puddle", "sand pile"]],
+      "box_threshold": 0.3,
+      "text_threshold": 0.25
+    }
+  },
+  {
+    "model_id": "sam3",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.object_detection.sam3",
+    "class": "SAM3Model",
+    "enabled": true,
+    "model_config": {
+      "model_path": "/weight/Sam3/sam3.pt",
+      "device": "cuda:3",
+      "enable_cuda": true,
+      "box_threshold": 0.5,
+      "text_threshold": 0.25
+    }
+  },
+  {
+    "model_id": "qwen2_5_vl",
+    "model_type": "multi_modal",
+    "module": "xt_maas.models.multi_modal.qwen_vl.qwen2_5_vl.model",
+    "class": "Qwen2_5VL_Model",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/root/wanjie-data/hf_weights/Qwen2_5_VL",
+      "device_map": "auto"
+    }
+  },
+  {
+    "model_id": "minicpmv_4_5",
+    "model_type": "multi_modal",
+    "module": "xt_maas.models.multi_modal.minicpm_v.minicpmv_4_5.model",
+    "class": "MiniCPM_V_Model",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/MiniCPM_VL",
+      "device_map": "auto"
+    }
+  },
+  {
+    "model_id": "qwen3_vl",
+    "model_type": "multi_modal",
+    "module": "xt_maas.models.multi_modal.qwen3_vl.qwen3_vl.model",
+    "class": "Qwen3VL_Model",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/root/wanjie-data/hf_weights/Qwen3_VL",
+      "device_map": "auto"
+    }
+  },
+  {
+    "model_id": "dfn5b_clip",
+    "model_type": "multi_modal",
+    "module": "xt_maas.models.multi_modal.clip.dfn5b_clip.model",
+    "class": "DFN5B_CLIP",
+    "enabled": false,
+    "model_config": {
+      "clip_path": "/weight/Clip_model",
+      "opus_path": "/weight/Opus_model",
+      "device": "cuda:2"
+    }
+  },
+    {
+    "model_id": "retinaface_detection",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.face_detection.retinaface.detection",
+    "class": "RetinaFaceDetection",
+    "enabled": false,
+    "model_config": {
+      "config_path": "/weight/cv_resnet50_face-detection_retinaface/configuration.json",
+      "device": "cuda:2",
+      "enable_cuda": true
+    }
+  },
+  {
+    "model_id": "arcface_recognition",
+    "model_type": "cv",
+    "module": "xt_maas.models.cv.face_recognition.arcface.recognition",
+    "class": "ArcFaceRecognition",
+    "enabled": false,
+    "model_config": {
+      "model_path": "/weight/cv_ir50_face-recognition_arcface/pytorch_model.pt",
+      "device": "cuda:2",
+      "enable_cuda": true
+    }
+  },
+  {
+    "model_id": "qwen2_5_llm",
+    "model_type": "nlp",
+    "module": "xt_maas.models.nlp.qwen.qwen2_5.qwen2_5_transformer",
+    "class": "Qwen2_5_TransformerModel",
+    "enabled": false,
+    "model_config": {
+      "device_map": "auto"
+    }
+  },
+  {
+    "model_id": "qwen3_llm",
+    "model_type": "nlp",
+    "module": "xt_maas.models.nlp.qwen.qwen3.qwen3_transformer",
+    "class": "Qwen3_TransformerModel",
+    "enabled": false,
+    "model_config": {
+      "device_map": "auto"
+    }
+  },
+  {
+    "model_id": "qwen2_5_llm_vllm",
+    "model_type": "nlp",
+    "module": "xt_maas.models.nlp.qwen.qwen2_5.qwen2_5_vllm",
+    "class": "Qwen2_5_VllmModel",
+    "enabled": false,
+    "model_config": {
+      "tensor_parallel_size": 1
+    }
+  },
+  {
+    "model_id": "qwen3_4b",
+    "model_type": "nlp",
+    "module": "xt_maas.models.nlp.qwen.qwen3.qwen3_transformer",
+    "class": "Qwen3_TransformerModel",
+    "enabled": false,
+    "model_config": {
+      "model_name": "/weight/Qwen3-4B",
+      "device_map": "cuda:2"
+    }
+  },
+  {
+    "model_id": "funasr_asr",
+    "model_type": "audio",
+    "module": "xt_maas.models.audio.funasr.funasr_model",
+    "class": "FunASRModel",
+    "enabled": false,
+    "model_config": {
+      "device": "cuda:3",
+      "model": "paraformer-zh",
+      "vad_model": "fsmn-vad",
+      "spk_model": "cam++",
+      "punc_model": "ct-punc-c"
+    }
+  }
+]

@@ -1,0 +1,195 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 32.0,
+      "duration": 32.0,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_31_1770284814_scene_0.jpg",
+      "sceneSummary": "视频片段展示了一艘大型灰色军舰在广阔海面上高速航行的情景。军舰船体笔直，劈开深蓝海水，留下白色航迹，甲板上装备齐全，包括雷达、天线、炮塔和防撞垫，背景为晴朗天空与灰蓝海面，整体呈现庄重而充满力量感的海上战斗场景。",
+      "smartRead": "视频中军舰正以高速向前航行，舰体劈开海水，甲板上装备繁多，包括白色炮塔、橙色防撞垫及雷达装置。语音内容显示，上级命令舰艇高速前出战斗，说话者确认并回应，语气温沉，体现战斗准备中的紧张氛围。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 4.0
+        },
+        {
+          "startTime": 6.0,
+          "endTime": 11.0
+        },
+        {
+          "startTime": 19.0,
+          "endTime": 24.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_31_1770284814_ship_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 12.0,
+          "endTime": 15.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_31_1770284814_person_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter",
+      "tagValue": "直升机",
+      "tagTrack": [
+        {
+          "startTime": 19.0,
+          "endTime": 21.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_31_1770284814_helicopter_475.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "紧张庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧迫",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "海上战斗准备",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事行动",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代战争",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯视或中景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军舰战斗准备",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称或指挥官视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "军舰高速航行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "装备检查",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频开头展示了一艘大型灰色军舰在广阔的海面上高速航行，军舰船体笔直，劈开深蓝色的海水，留下白色的航迹，展现出强大的动力和速度。甲板上装备齐全，包括雷达、天线、炮塔和防撞垫，背景为晴朗的天空与灰蓝色的海面，整体画面庄重而充满力量感，呈现出一种紧张而严肃的海上战斗氛围。",
+  "introSummary": "该视频通过高速航行的军舰和严谨的装备布局，展现了现代战争中军舰战斗准备的紧张氛围。视频中，军舰在晴朗的天空下劈开海水，留下白色航迹，甲板上装备齐全，显示出其随时准备投入战斗的状态。语音内容中，上级命令军舰高速前出战斗，说话者确认并回应，语气温沉，进一步强化了战斗的紧迫性。整个画面色调冷峻，风格写实，视角为指挥官或第一人称，营造出严肃而紧张的战斗氛围。视频的主题围绕军事行动展开，强调了军舰在战斗前的准备状态和紧迫感，反映了现代战争中军事力量的高效运作和严肃性。",
+  "keyPoints": [
+    "军舰高速航行，展现其强大的动力和战斗准备状态。",
+    "甲板上装备齐全，包括雷达、天线、炮塔和防撞垫，表明军舰处于战斗待命状态。",
+    "背景为晴朗天空和灰蓝色海面，整体画面庄重而充满力量感，营造出紧张的战斗氛围。",
+    "语音内容显示上级下达命令，说话者确认并回应，语气温沉，体现出战斗准备中的紧张气氛。",
+    "视频通过高速航行的军舰和严谨的装备布局，传达出军事行动的严肃性和紧迫性。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "发言人spk_0认为上级命令军舰高速前出战斗，表示确认并回应，语气温沉，体现出战斗准备中的紧张氛围和服从命令的态度。"
+    },
+    {
+      "speaker": "speaker_1",
+      "summary": "无其他说话人出现，仅有一个说话人spk_0参与对话，其观点集中于确认上级命令并表达战斗准备的状态。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [
+    {
+      "startTime": 7.99,
+      "endTime": 17.4,
+      "audioText": "上级令我舰高速前出战斗嗯，"
+    },
+    {
+      "startTime": 17.4,
+      "endTime": 17.71,
+      "audioText": "对对对，"
+    },
+    {
+      "startTime": 21.2,
+      "endTime": 21.77,
+      "audioText": "不用的。"
+    }
+  ],
+  "textVectors": []
+}

@@ -1,0 +1,257 @@
+nohup: 忽略输入
+2026-02-25 11:54:55,829 - CatalogCallbackServer - INFO - 已启用回调数据持久化，文件路径：catalog_callback_records.json
+2026-02-25 11:54:55,865 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-02-25 11:54:55,865 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [139397]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-02-25 14:55:05,184 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 142 | 状态: completed | 耗时: 319.36秒
+INFO:     127.0.0.1:51634 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-25 14:55:06,282 - CatalogCallbackServer - INFO - 任务ID: 142 发送到分析接口成功（重试 1/3）
+2026-02-25 16:40:06,125 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 143 | 状态: completed | 耗时: 80.99秒
+2026-02-25 16:40:06,125 - CatalogCallbackServer - ERROR - 任务ID: 143 的result持久化失败 | 异常: [Errno 2] No such file or directory: 'catalog_callback_records.json'
+INFO:     127.0.0.1:49144 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-25 16:40:06,202 - CatalogCallbackServer - INFO - 任务ID: 143 发送到分析接口成功（重试 1/3）
+2026-02-25 17:45:26,274 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 144 | 状态: completed | 耗时: 89.64秒
+2026-02-25 17:45:26,274 - CatalogCallbackServer - ERROR - 任务ID: 144 的result持久化失败 | 异常: [Errno 2] No such file or directory: 'catalog_callback_records.json'
+INFO:     127.0.0.1:48812 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-25 17:45:26,320 - CatalogCallbackServer - INFO - 任务ID: 144 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [139397]
+2026-02-26 10:46:44,175 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-02-26 10:46:44,175 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [1391364]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-02-26 10:55:58,850 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 145 | 状态: completed | 耗时: 89.71秒
+INFO:     127.0.0.1:41734 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-26 10:55:58,900 - CatalogCallbackServer - INFO - 任务ID: 145 发送到分析接口成功（重试 1/3）
+2026-02-26 11:29:24,551 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 146 | 状态: completed | 耗时: 349.62秒
+INFO:     127.0.0.1:33202 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-26 11:29:24,687 - CatalogCallbackServer - INFO - 任务ID: 146 发送到分析接口成功（重试 1/3）
+2026-02-26 18:27:39,999 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 147 | 状态: completed | 耗时: 281.53秒
+INFO:     127.0.0.1:57052 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-26 18:27:40,136 - CatalogCallbackServer - INFO - 任务ID: 147 发送到分析接口成功（重试 1/3）
+2026-02-26 18:41:05,843 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 148 | 状态: completed | 耗时: 271.83秒
+INFO:     127.0.0.1:46498 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-26 18:41:05,956 - CatalogCallbackServer - INFO - 任务ID: 148 发送到分析接口成功（重试 1/3）
+2026-02-26 18:47:00,296 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 149 | 状态: completed | 耗时: 122.43秒
+INFO:     127.0.0.1:36100 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-26 18:47:00,341 - CatalogCallbackServer - INFO - 任务ID: 149 发送到分析接口成功（重试 1/3）
+2026-02-27 10:54:31,838 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 150 | 状态: completed | 耗时: 313.09秒
+INFO:     127.0.0.1:40058 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 10:54:31,951 - CatalogCallbackServer - INFO - 任务ID: 150 发送到分析接口成功（重试 1/3）
+2026-02-27 11:07:27,618 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 151 | 状态: completed | 耗时: 106.31秒
+INFO:     127.0.0.1:52314 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 11:07:27,639 - CatalogCallbackServer - INFO - 任务ID: 151 发送到分析接口成功（重试 1/3）
+2026-02-27 11:14:01,667 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 152 | 状态: completed | 耗时: 87.02秒
+INFO:     127.0.0.1:35308 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 11:14:01,728 - CatalogCallbackServer - INFO - 任务ID: 152 发送到分析接口成功（重试 1/3）
+2026-02-27 11:16:40,986 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 153 | 状态: completed | 耗时: 102.8秒
+INFO:     127.0.0.1:43320 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 11:16:41,019 - CatalogCallbackServer - INFO - 任务ID: 153 发送到分析接口成功（重试 1/3）
+2026-02-27 11:28:40,884 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 154 | 状态: completed | 耗时: 75.06秒
+INFO:     127.0.0.1:48062 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 11:28:40,945 - CatalogCallbackServer - INFO - 任务ID: 154 发送到分析接口成功（重试 1/3）
+2026-02-27 11:34:57,568 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 155 | 状态: completed | 耗时: 81.07秒
+INFO:     127.0.0.1:51172 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 11:34:57,595 - CatalogCallbackServer - INFO - 任务ID: 155 发送到分析接口成功（重试 1/3）
+2026-02-27 11:43:28,354 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 156 | 状态: completed | 耗时: 77.61秒
+INFO:     127.0.0.1:34994 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 11:43:28,398 - CatalogCallbackServer - INFO - 任务ID: 156 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1391364]
+2026-02-27 13:22:56,629 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-02-27 13:22:56,629 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [696079]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-02-27 13:28:13,381 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 157 | 状态: completed | 耗时: 170.98秒
+INFO:     127.0.0.1:41050 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 13:28:13,458 - CatalogCallbackServer - INFO - 任务ID: 157 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [696079]
+2026-02-27 13:33:55,481 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-02-27 13:33:55,481 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [757973]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-02-27 13:58:28,554 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 158 | 状态: completed | 耗时: 155.69秒
+INFO:     127.0.0.1:51200 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 13:58:28,602 - CatalogCallbackServer - INFO - 任务ID: 158 发送到分析接口成功（重试 1/3）
+2026-02-27 14:20:39,462 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 160 | 状态: completed | 耗时: 339.91秒
+INFO:     127.0.0.1:54780 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 14:20:39,497 - CatalogCallbackServer - INFO - 任务ID: 160 发送到分析接口成功（重试 1/3）
+2026-02-27 14:54:38,767 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 161 | 状态: completed | 耗时: 619.09秒
+INFO:     127.0.0.1:34254 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 14:54:38,830 - CatalogCallbackServer - INFO - 任务ID: 161 发送到分析接口成功（重试 1/3）
+2026-02-27 16:09:29,209 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 162 | 状态: completed | 耗时: 274.06秒
+INFO:     127.0.0.1:36814 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 16:09:29,238 - CatalogCallbackServer - INFO - 任务ID: 162 发送到分析接口成功（重试 1/3）
+2026-02-27 16:17:10,020 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 163 | 状态: completed | 耗时: 241.57秒
+INFO:     127.0.0.1:33788 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 16:17:10,052 - CatalogCallbackServer - INFO - 任务ID: 163 发送到分析接口成功（重试 1/3）
+2026-02-27 16:34:33,506 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 164 | 状态: completed | 耗时: 647.9秒
+INFO:     127.0.0.1:34074 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 16:34:33,529 - CatalogCallbackServer - INFO - 任务ID: 164 发送到分析接口成功（重试 1/3）
+2026-02-27 17:03:18,380 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 165 | 状态: completed | 耗时: 1215.71秒
+INFO:     127.0.0.1:44938 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 17:03:18,416 - CatalogCallbackServer - INFO - 任务ID: 165 发送到分析接口成功（重试 1/3）
+2026-02-27 17:21:22,903 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 166 | 状态: completed | 耗时: 596.46秒
+INFO:     127.0.0.1:50308 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 17:21:22,936 - CatalogCallbackServer - INFO - 任务ID: 166 发送到分析接口成功（重试 1/3）
+2026-02-27 17:57:37,548 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 168 | 状态: completed | 耗时: 793.1秒
+INFO:     127.0.0.1:38228 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-02-27 17:57:37,591 - CatalogCallbackServer - INFO - 任务ID: 168 发送到分析接口成功（重试 1/3）
+2026-03-02 10:44:10,443 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 169 | 状态: completed | 耗时: 478.94秒
+INFO:     127.0.0.1:47290 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-02 10:44:10,818 - CatalogCallbackServer - INFO - 任务ID: 169 发送到分析接口成功（重试 1/3）
+2026-03-02 10:47:07,724 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 170 | 状态: completed | 耗时: 595.11秒
+INFO:     127.0.0.1:52926 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-02 10:47:07,738 - CatalogCallbackServer - INFO - 任务ID: 170 发送到分析接口成功（重试 1/3）
+2026-03-02 11:00:08,628 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 171 | 状态: completed | 耗时: 636.98秒
+INFO:     127.0.0.1:34112 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-02 11:00:08,713 - CatalogCallbackServer - INFO - 任务ID: 171 发送到分析接口成功（重试 1/3）
+2026-03-02 14:50:49,481 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 172 | 状态: completed | 耗时: 303.45秒
+INFO:     127.0.0.1:44294 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-02 14:50:49,578 - CatalogCallbackServer - INFO - 任务ID: 172 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [757973]
+2026-03-02 15:32:11,532 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-03-02 15:32:11,533 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [3270343]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-03-02 15:41:05,361 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 173 | 状态: completed | 耗时: 388.52秒
+INFO:     127.0.0.1:39968 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-02 15:41:05,497 - CatalogCallbackServer - INFO - 任务ID: 173 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3270343]
+2026-03-02 18:44:07,197 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-03-02 18:44:07,197 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [3658621]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-03-03 10:02:26,493 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 174 | 状态: completed | 耗时: 205.95秒
+INFO:     127.0.0.1:52038 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 10:02:26,538 - CatalogCallbackServer - INFO - 任务ID: 174 发送到分析接口成功（重试 1/3）
+2026-03-03 10:36:26,955 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 175 | 状态: completed | 耗时: 245.09秒
+INFO:     127.0.0.1:49446 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 10:36:26,987 - CatalogCallbackServer - INFO - 任务ID: 175 发送到分析接口成功（重试 1/3）
+2026-03-03 14:09:41,306 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 176 | 状态: completed | 耗时: 570.31秒
+INFO:     127.0.0.1:52992 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:09:41,347 - CatalogCallbackServer - INFO - 任务ID: 176 发送到分析接口成功（重试 1/3）
+2026-03-03 14:13:34,312 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 177 | 状态: completed | 耗时: 669.07秒
+INFO:     127.0.0.1:41538 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:13:34,353 - CatalogCallbackServer - INFO - 任务ID: 177 发送到分析接口成功（重试 1/3）
+2026-03-03 14:25:46,191 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 180 | 状态: completed | 耗时: 363.85秒
+INFO:     127.0.0.1:47834 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:25:46,221 - CatalogCallbackServer - INFO - 任务ID: 180 发送到分析接口成功（重试 1/3）
+2026-03-03 14:27:48,242 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 179 | 状态: completed | 耗时: 526.68秒
+INFO:     127.0.0.1:44214 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:27:48,270 - CatalogCallbackServer - INFO - 任务ID: 179 发送到分析接口成功（重试 1/3）
+2026-03-03 14:29:50,741 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 178 | 状态: completed | 耗时: 680.95秒
+INFO:     127.0.0.1:52184 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:29:50,765 - CatalogCallbackServer - INFO - 任务ID: 178 发送到分析接口成功（重试 1/3）
+2026-03-03 14:30:42,005 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 181 | 状态: completed | 耗时: 295.81秒
+INFO:     127.0.0.1:37556 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:30:42,033 - CatalogCallbackServer - INFO - 任务ID: 181 发送到分析接口成功（重试 1/3）
+2026-03-03 14:35:49,423 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 182 | 状态: completed | 耗时: 240.88秒
+INFO:     127.0.0.1:47782 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:35:49,457 - CatalogCallbackServer - INFO - 任务ID: 182 发送到分析接口成功（重试 1/3）
+2026-03-03 14:38:51,808 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 184 | 状态: completed | 耗时: 418.3秒
+INFO:     127.0.0.1:54900 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:38:51,835 - CatalogCallbackServer - INFO - 任务ID: 184 发送到分析接口成功（重试 1/3）
+2026-03-03 14:43:08,896 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 183 | 状态: completed | 耗时: 677.48秒
+INFO:     127.0.0.1:35934 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:43:08,943 - CatalogCallbackServer - INFO - 任务ID: 183 发送到分析接口成功（重试 1/3）
+2026-03-03 14:44:46,285 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 185 | 状态: completed | 耗时: 536.86秒
+INFO:     127.0.0.1:54900 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:44:46,316 - CatalogCallbackServer - INFO - 任务ID: 185 发送到分析接口成功（重试 1/3）
+2026-03-03 14:45:39,834 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 186 | 状态: completed | 耗时: 408.02秒
+INFO:     127.0.0.1:41190 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:45:39,860 - CatalogCallbackServer - INFO - 任务ID: 186 发送到分析接口成功（重试 1/3）
+2026-03-03 14:46:07,404 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 187 | 状态: completed | 耗时: 178.51秒
+INFO:     127.0.0.1:37714 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:46:07,423 - CatalogCallbackServer - INFO - 任务ID: 187 发送到分析接口成功（重试 1/3）
+2026-03-03 14:59:58,334 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 188 | 状态: completed | 耗时: 752.08秒
+INFO:     127.0.0.1:52686 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 14:59:58,377 - CatalogCallbackServer - INFO - 任务ID: 188 发送到分析接口成功（重试 1/3）
+2026-03-03 15:43:37,215 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 189 | 状态: completed | 耗时: 777.75秒
+INFO:     127.0.0.1:40998 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 15:43:37,271 - CatalogCallbackServer - INFO - 任务ID: 189 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3658621]
+2026-03-03 18:27:07,569 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-03-03 18:27:07,570 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [1234216]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-03-03 18:42:45,735 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 190 | 状态: completed | 耗时: 607.05秒
+INFO:     127.0.0.1:57504 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 18:42:45,749 - CatalogCallbackServer - INFO - 任务ID: 190 发送到分析接口成功（重试 1/3）
+2026-03-03 18:57:43,980 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 191 | 状态: completed | 耗时: 376.68秒
+INFO:     127.0.0.1:47982 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 18:57:43,996 - CatalogCallbackServer - INFO - 任务ID: 191 发送到分析接口成功（重试 1/3）
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1234216]
+2026-03-03 19:13:17,894 - CatalogCallbackServer - INFO - 启动视频编目全局回调服务 | 端口: 10001 | 回调接口: http://localhost:10001/catalog-callback
+2026-03-03 19:13:17,894 - CatalogCallbackServer - INFO - 分析接口地址配置为: http://localhost:8081/api/v1/analysis/callback/result
+INFO:     Started server process [1395264]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:10001 (Press CTRL+C to quit)
+2026-03-03 19:22:17,422 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 192 | 状态: completed | 耗时: 348.39秒
+INFO:     127.0.0.1:49758 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 19:22:17,476 - CatalogCallbackServer - INFO - 任务ID: 192 发送到分析接口成功（重试 1/3）
+2026-03-03 19:33:44,260 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 193 | 状态: completed | 耗时: 351.83秒
+INFO:     127.0.0.1:46834 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-03 19:33:44,309 - CatalogCallbackServer - INFO - 任务ID: 193 发送到分析接口成功（重试 1/3）
+2026-03-04 09:52:14,071 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 194 | 状态: completed | 耗时: 344.19秒
+INFO:     127.0.0.1:34966 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-04 09:52:14,117 - CatalogCallbackServer - INFO - 任务ID: 194 发送到分析接口成功（重试 1/3）
+2026-03-04 09:56:47,400 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 195 | 状态: completed | 耗时: 614.09秒
+INFO:     127.0.0.1:46316 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-04 09:56:47,428 - CatalogCallbackServer - INFO - 任务ID: 195 发送到分析接口成功（重试 1/3）
+2026-03-04 09:59:20,925 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 196 | 状态: completed | 耗时: 379.37秒
+INFO:     127.0.0.1:42688 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-04 09:59:20,953 - CatalogCallbackServer - INFO - 任务ID: 196 发送到分析接口成功（重试 1/3）
+2026-03-04 14:13:51,511 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 197 | 状态: completed | 耗时: 144.95秒
+INFO:     127.0.0.1:56660 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-04 14:13:51,545 - CatalogCallbackServer - INFO - 任务ID: 197 发送到分析接口成功（重试 1/3）
+2026-03-04 15:53:34,196 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 198 | 状态: completed | 耗时: 158.41秒
+INFO:     127.0.0.1:36380 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-04 15:53:34,245 - CatalogCallbackServer - INFO - 任务ID: 198 发送到分析接口成功（重试 1/3）
+2026-03-04 16:20:59,473 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 199 | 状态: completed | 耗时: 385.28秒
+INFO:     127.0.0.1:60576 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-04 16:20:59,501 - CatalogCallbackServer - INFO - 任务ID: 199 发送到分析接口成功（重试 1/3）
+2026-03-05 15:22:22,840 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 200 | 状态: completed | 耗时: 337.12秒
+INFO:     127.0.0.1:37030 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-05 15:22:22,876 - CatalogCallbackServer - INFO - 任务ID: 200 发送到分析接口成功（重试 1/3）
+2026-03-05 16:01:18,991 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 201 | 状态: completed | 耗时: 11.73秒
+INFO:     127.0.0.1:45604 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-05 16:01:19,030 - CatalogCallbackServer - INFO - 任务ID: 201 发送到分析接口成功（重试 1/3）
+2026-03-05 16:27:06,710 - CatalogCallbackServer - INFO - 收到全局回调通知 | 任务ID: 202 | 状态: completed | 耗时: 178.23秒
+INFO:     127.0.0.1:36748 - "POST /catalog-callback HTTP/1.1" 200 OK
+2026-03-05 16:27:06,745 - CatalogCallbackServer - INFO - 任务ID: 202 发送到分析接口成功（重试 1/3）

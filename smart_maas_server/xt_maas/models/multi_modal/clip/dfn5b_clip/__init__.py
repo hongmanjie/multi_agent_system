@@ -1,0 +1,1 @@
+from .model import DFN5B_CLIP

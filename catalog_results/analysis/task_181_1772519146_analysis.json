@@ -1,0 +1,262 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 32.5,
+      "duration": 32.5,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/scene_image/scene_0.jpg",
+      "sceneSummary": "在一个空旷的室内空间，几名身着军装的士兵与一位穿着职业装的女性围坐成圈。女性佩戴口罩，手持剪贴板和笔，专注记录；一名年轻士兵坐在白色折叠椅上，双手交叠，神情专注；其他士兵或坐或半蹲，部分面向中心人物，似乎在参与讨论或聆听。背景为简约的白色墙壁和木质长椅，顶部可见通风管道，整体氛围严肃而有序。",
+      "smartRead": "画面中无语音内容，但视觉上呈现一场正式的军事会议或心理辅导场景。女性记录者可能为心理顾问或军方官员，士兵们围坐交流，暗示正在进行小组讨论、心理疏导或任务复盘。环境简洁、氛围专注，表明活动具有正式性和严肃性，可能涉及士兵心理健康或战后复原议题。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 7.5,
+          "endTime": 10.0
+        },
+        {
+          "startTime": 12.5,
+          "endTime": 17.5
+        },
+        {
+          "startTime": 20.83,
+          "endTime": 24.17
+        },
+        {
+          "startTime": 26.67,
+          "endTime": 32.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/face_image/person_0_225.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_3",
+      "tagTrack": [
+        {
+          "startTime": 5.0,
+          "endTime": 6.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/face_image/person_3_150.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_5",
+      "tagTrack": [
+        {
+          "startTime": 3.33,
+          "endTime": 6.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/face_image/person_5_100.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_6",
+      "tagTrack": [
+        {
+          "startTime": 3.33,
+          "endTime": 5.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/face_image/person_6_100.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_8",
+      "tagTrack": [
+        {
+          "startTime": 20.0,
+          "endTime": 21.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/face_image/person_8_600.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_16",
+      "tagTrack": [
+        {
+          "startTime": 20.0,
+          "endTime": 22.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/face_image/person_16_600.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 32.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_199/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "专注",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "认真",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "投入",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "室内",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军事会议",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "心理辅导",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "团队沟通",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "中景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "平视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事交流",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "团队沟通",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "旁观者视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "围坐讨论",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "记录笔记",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "在一个宽敞的室内空间，几名身着军装的士兵与一位穿西装的女性围坐成圈，均佩戴口罩，进行交流。女性手持记事板，专注记录，士兵们或交谈或倾听，其中一人正用手势表达观点。背景为简约的白色墙壁和长椅，顶部可见工业风格的管道，整体氛围严肃而专注。",
+  "introSummary": "视频展示了一个现代军事环境中，士兵与军方顾问围坐进行严肃讨论的场景。通过中景平视拍摄，呈现了专注、互动的氛围，突出军事交流与团队协作的主题，背景简约，强调纪实写实风格。",
+  "keyPoints": [
+    "军事交流会议: 士兵与军方顾问围坐讨论，体现军事内部沟通场景。",
+    "专业记录行为: 女性顾问手持记事板，专注记录，展现其专业角色。",
+    "互动交流动态: 士兵间有手势互动，体现讨论中的参与与表达。"
+  ],
+  "speakerSummaries": [],
+  "mindMap": "{\n  \"name\": \"军事心理辅导会议场景解析\",\n  \"children\": [\n    {\n      \"name\": \"场景环境与氛围特征\",\n      \"children\": [\n        {\n          \"name\": \"室内空间简约空旷，白色墙壁与木质长椅营造严肃秩序感\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"顶部可见通风管道设施\"\n            },\n            {\n              \"name\": \"整体氛围严肃且有序\"\n            }\n          ]\n        },\n        {\n          \"name\": \"无语音内容干扰，视觉聚焦于人物互动与状态呈现\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"静音环境突出视觉\"\n            },\n            {\n              \"name\": \"专注度普遍较高\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"人物身份与行为细节\",\n      \"children\": [\n        {\n          \"name\": \"职业装女性佩戴口罩，手持剪贴板专注记录关键信息\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"身份疑似心理顾问或官员\"\n            },\n            {\n              \"name\": \"记录动作表明会议正式性\"\n            }\n          ]\n        },\n        {\n          \"name\": \"身着军装士兵围坐成圈，神情专注参与讨论或聆听\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"年轻士兵双手交叠放置\"\n            },\n            {\n              \"name\": \"部分士兵采用半蹲姿态\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"会议性质与潜在议题\",\n      \"children\": [\n        {\n          \"name\": \"视觉呈现正式军事会议或战后心理疏导复原场景\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"采用小组讨论交流形式\"\n            },\n            {\n              \"name\": \"涉及士兵心理健康议题\"\n            }\n          ]\n        },\n        {\n          \"name\": \"围坐交流暗示平等沟通，利于士兵表达内心真实想法\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"全员面向中心人物聆听\"\n            },\n            {\n              \"name\": \"利于建立相互信任感\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [],
+  "textVectors": []
+}

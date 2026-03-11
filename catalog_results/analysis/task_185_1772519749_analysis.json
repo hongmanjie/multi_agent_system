@@ -1,0 +1,378 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 23.0,
+      "duration": 23.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/scene_image/scene_0.jpg",
+      "sceneSummary": "画面首先展示一位女新闻主播，身着灰色西装外套与白色内搭，坐在新闻演播室中，背景为蓝色渐变科技感图形，屏幕左上角显示“CCTV 13 新闻”，右上角标注“高清”，下方滚动新闻条显示日期和时间“4月28日 06:37”。随后画面切换至机场跑道场景，一架中国东方航空的客机正在滑行，机身印有“中国东方航空”字样及品牌标志，背景为远山与机场设施，屏幕下方叠加文字“北京大兴国际机场推出首个航空快线产品‘兴快线’ 航空快线：公交式空中快线”。",
+      "smartRead": "新闻主播在演播室播报关于航空快线的新闻，背景与字幕信息表明该新闻聚焦于北京大兴国际机场推出的“兴快线”产品。画面随后切换至机场实景，展示一架中国东方航空客机在跑道上滑行，配合语音内容提及“每天航班量达到九班以上可称作航空快线”，并举例“东航京沪快线”在首都机场每日提供23个航班，覆盖早7点至晚9点半的16个准点时刻，说明航空快线产品已形成高频次、准点化运营模式，各大航司正积极拓展此类服务。视觉与语音内容共同强化了航空快线作为“公交式空中快线”的高效、便捷特性。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 24.0,
+      "endTime": 44.0,
+      "duration": 20.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/scene_image/scene_1.jpg",
+      "sceneSummary": "画面展示北京大兴国际机场内部，旅客在值机柜台前排队办理登机手续，部分旅客佩戴口罩并拖着行李箱。镜头切换至机场宽敞的航站楼大厅，可见高挑的穹顶设计、清晰的指示牌（如“国内登机”“国内安检”），旅客在大厅内行走或等待，环境整洁有序，显示机场繁忙但井然有序的运营状态。",
+      "smartRead": "画面呈现北京大兴国际机场的繁忙场景，与语音内容相呼应，说明机场已推出“兴快线”航空快线产品，作为“公交式空中快线”，旨在提升旅客换乘效率。语音提到高峰期每半小时一班，方便旅客随时换乘，同时东航、南航等航空公司已在全国开通多条空中快线，计划在五月份进一步增加线路，显示该服务已形成规模并持续扩展。视觉中旅客在柜台前办理手续，大厅内人流有序，印证了“空中快线”提升效率、优化旅客体验的成效。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 45.0,
+      "endTime": 55.0,
+      "duration": 10.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/scene_image/scene_2.jpg",
+      "sceneSummary": "画面首先展示了一位戴眼镜的女性在机场航站楼内接受采访，背景可见中国南方航空的柜台、显示屏及排队办理业务的旅客。随后镜头切换至机场值机柜台区域，多名旅客佩戴口罩在柜台前办理登机手续，工作人员身穿制服协助办理，背景可见指示牌和机场大厅的繁忙景象。",
+      "smartRead": "在机场航站楼内，南航营销委平台运营部副总经理王煦接受采访，介绍北京至广州航线的运力安排。画面显示旅客在值机柜台前有序办理登机手续，工作人员提供服务，背景的显示屏和标识突出“南航快线”及“明珠经济舱”等服务信息。结合语音内容，该航线主要投入波音787和空客A350宽体机型，以实现“随到随走”的便捷服务，视觉场景与语音内容共同印证了南航在该航线上优化运力、提升旅客体验的举措。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 2.0
+        },
+        {
+          "startTime": 4.0,
+          "endTime": 12.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/face_image/person_0_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_15",
+      "tagTrack": [
+        {
+          "startTime": 45.0,
+          "endTime": 47.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/face_image/person_15_1125.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 12.0
+        },
+        {
+          "startTime": 24.0,
+          "endTime": 49.0
+        },
+        {
+          "startTime": 53.0,
+          "endTime": 55.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "airplane",
+      "tagValue": "飞机",
+      "tagTrack": [
+        {
+          "startTime": 13.0,
+          "endTime": 22.0
+        },
+        {
+          "startTime": 50.0,
+          "endTime": 52.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_198/object_image/airplane_325.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "专业",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "高效",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "便捷",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "期待",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "机场航站楼",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "登机柜台",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "旅客排队",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "航空运输",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "民航服务",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面中景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "广角镜头",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "航空快线",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "航班服务",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "新闻报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实风格",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "新闻播报视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "现场实拍视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "旅客办理登机手续",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "航空公司提供快线服务",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "新闻主播在演播室播报新闻，背景为机场跑道和飞机。机场航站楼内，旅客排队办理登机手续，工作人员在柜台提供服务。机场大厅内，旅客戴着口罩在柜台前办理登机手续，背景有指示牌和电子屏幕。",
+  "introSummary": "视频介绍了北京大兴国际机场推出的首个航空快线产品‘兴快线’，并详细说明了航空快线的定义和各大航空公司的服务情况。东航和南航分别展示了其在京沪、京广等航线的航班频次和机型选择，强调了便捷和高效的服务。视频通过新闻播报和现场实拍相结合的方式，展现了现代民航运输的快速发展和旅客的便捷出行体验。",
+  "keyPoints": [
+    "航空快线定义: 每天航班量达到九班以上可称为航空快线。",
+    "东航京沪快线: 每天在首都机场始发23个航班，覆盖早上7点至晚上9点半，高峰期每半小时一班。",
+    "东航空中快线数量: 全国近二十条。",
+    "南航空中快线: 除京广京深快线外，全国四条，计划五月份增开四条。",
+    "航班机型选择: 北京到广州航线主要投入波音787和空客A350宽体机，实现随到随走。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "解释航空快线的定义，并指出自2001年东航开辟航空快线以来，各大航空公司加大了快线产品服务力度。"
+    },
+    {
+      "speaker": "发言人1",
+      "summary": "详细介绍东航京沪快线的航班频次和时间安排，以及东航和南航在全国的空中快线布局。"
+    },
+    {
+      "speaker": "发言人2",
+      "summary": "说明北京到广州航线主要使用宽体机（波音787和空客A350），实现灵活的随到随走服务。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"航空快线服务升级与运营解析\",\n  \"children\": [\n    {\n      \"name\": \"航空快线定义与行业标准\",\n      \"children\": [\n        {\n          \"name\": \"每日航班量达到九班以上即可被称作航空快线\",\n          \"children\": [\n            {\n              \"name\": \"起始时间：二零零一年\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"行业趋势：服务力度加大\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"东航京沪快线运营实况\",\n      \"children\": [\n        {\n          \"name\": \"首都机场始发二十三个航班覆盖早七点至晚九点半\",\n          \"children\": [\n            {\n              \"name\": \"每日始发：二十三个航班\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"运营时段：早七点至晚九点半\",\n              \"collapse\": true\n            }\n          ]\n        },\n        {\n          \"name\": \"十六个准点时刻与七个半点时刻保障高峰期换乘\",\n          \"children\": [\n            {\n              \"name\": \"准点时刻：十六个时段\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"高峰频次：每半小时一班\",\n              \"collapse\": true\n            }\n          ]\n        },\n        {\n          \"name\": \"全国空中快线数量已经增加至近二十条线路\",\n          \"children\": [\n            {\n              \"name\": \"全国规模：近二十条线路\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"南航快线布局与运力投入\",\n      \"children\": [\n        {\n          \"name\": \"除京广京深快线外全国各大机场开设四条线路\",\n          \"children\": [\n            {\n              \"name\": \"新增线路：京广京深快线\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"现有规模：全国四条线路\",\n              \"collapse\": true\n            }\n          ]\n        },\n        {\n          \"name\": \"计划五月份还要增开四条线路持续扩展服务\",\n          \"children\": [\n            {\n              \"name\": \"扩展计划：五月份增开四条\",\n              \"collapse\": true\n            }\n          ]\n        },\n        {\n          \"name\": \"北京到广州航线投入波音七八七和三五零航班\",\n          \"children\": [\n            {\n              \"name\": \"投入机型：波音七八七\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"投入机型：空客三五零\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"服务特点：随到随走便捷\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"视觉呈现与旅客体验场景\",\n      \"children\": [\n        {\n          \"name\": \"北京大兴国际机场推出首个航空快线产品兴快线\",\n          \"children\": [\n            {\n              \"name\": \"首发产品：兴快线产品\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"发布地点：北京大兴机场\",\n              \"collapse\": true\n            }\n          ]\n        },\n        {\n          \"name\": \"旅客在值机柜台前排队办理登机手续井然有序\",\n          \"children\": [\n            {\n              \"name\": \"现场场景：值机柜台排队\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"运营状态：繁忙井然有序\",\n              \"collapse\": true\n            }\n          ]\n        },\n        {\n          \"name\": \"新闻播报背景显示公交式空中快线高效便捷特性\",\n          \"children\": [\n            {\n              \"name\": \"核心定位：公交式空中快线\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"特性标签：高效便捷特性\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.69,
+      "endTime": 1.37,
+      "audioText": "一般来说呢，"
+    },
+    {
+      "startTime": 1.37,
+      "endTime": 3.69,
+      "audioText": "每天航班量达到九班以上，"
+    },
+    {
+      "startTime": 3.69,
+      "endTime": 5.17,
+      "audioText": "就可以称作航空快线。"
+    },
+    {
+      "startTime": 5.43,
+      "endTime": 8.33,
+      "audioText": "从二零零一年东航开辟航空快线以来呢，"
+    },
+    {
+      "startTime": 8.47,
+      "endTime": 11.575,
+      "audioText": "各大航空公司纷纷加大了快线产品的服务力度。"
+    },
+    {
+      "startTime": 13.96,
+      "endTime": 16.1,
+      "audioText": "以东航的京沪快线为例，"
+    },
+    {
+      "startTime": 16.2,
+      "endTime": 19.52,
+      "audioText": "目前每天在首都机场始发有二十三个航班，"
+    },
+    {
+      "startTime": 19.74,
+      "endTime": 23.48,
+      "audioText": "从早上七点到晚上九点半有十六个准点时刻，"
+    },
+    {
+      "startTime": 23.68,
+      "endTime": 29.28,
+      "audioText": "七个半点时刻在高峰期几乎每半个小时就有一班方便旅客随时换乘。"
+    },
+    {
+      "startTime": 29.72,
+      "endTime": 30.12,
+      "audioText": "目前，"
+    },
+    {
+      "startTime": 30.2,
+      "endTime": 33.78,
+      "audioText": "东航在全国的空中快线已经增加至近二十条。"
+    },
+    {
+      "startTime": 34.42,
+      "endTime": 34.9,
+      "audioText": "南航，"
+    },
+    {
+      "startTime": 35.04,
+      "endTime": 37.48,
+      "audioText": "除刚刚开通的京广京深快线。"
+    },
+    {
+      "startTime": 37.72,
+      "endTime": 41.5,
+      "audioText": "目前在全国各大机场开设的空中快线也达四条，"
+    },
+    {
+      "startTime": 41.84,
+      "endTime": 44.2,
+      "audioText": "同时五月份还要增开四条，"
+    },
+    {
+      "startTime": 44.62,
+      "endTime": 46.3,
+      "audioText": "在北京到广州航线上呢，"
+    },
+    {
+      "startTime": 46.3,
+      "endTime": 51.08,
+      "audioText": "我们主入主要是投入了波音七八七和 a 三五零航班呃，"
+    },
+    {
+      "startTime": 51.24,
+      "endTime": 52.34,
+      "audioText": "进行宽体机行。"
+    },
+    {
+      "startTime": 52.42,
+      "endTime": 52.58,
+      "audioText": "呃，"
+    },
+    {
+      "startTime": 52.58,
+      "endTime": 54.915,
+      "audioText": "我们主要体现在可以随绕随走。"
+    }
+  ],
+  "textVectors": []
+}

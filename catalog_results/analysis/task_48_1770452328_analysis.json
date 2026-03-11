@@ -1,0 +1,224 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 32.0,
+      "duration": 32.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/scene_image/task_48_1770452328_scene_0.jpg",
+      "sceneSummary": "视频片段展示了多组不同角度拍摄的军舰航行场景，均呈现现代军舰在广阔海域中的雄壮形象。画面中军舰造型流线型，颜色以浅绿、灰色为主，舰体结构紧凑，配备先进的雷达、武器系统和通信设备。军舰在平静或略带波澜的海面上高速航行，船体划出白色浪花，背景为深蓝海水与灰蓝色天空，整体氛围庄重而威严，体现出海军力量的强大与肃穆。",
+      "smartRead": "视频片段中，军舰在海上高速航行，画面从多个角度展现其外观与装备。首先，镜头展示了一艘浅绿色军舰在平静海面上高速行驶，舰桥上飘扬着红色旗帜，背景为深蓝海水与灰蒙天空，展现出军舰的威严。随后，画面切换至空中俯瞰视角，显示一艘大型灰色战舰，船头尖锐，甲板上布满雷达、天线和武器装备，背景为开阔海洋与灰蓝色天空，云层厚重，气氛庄重。接着，画面从船头视角展示甲板上的白色圆顶结构、炮管状装置以及两侧的橙色防护网，中央有黄色分界线，远处为晴朗的蓝天与蓝色海洋。最后，画面聚焦于船尾，展示雷达天线、导弹发射装置等设备，船尾激起白色浪花，整体环境开阔平静。与此同时，语音内容简短，发言人表示“上级令我舰高速前出战斗”，随后确认“对对对”，最后否定“不用的”，体现出指挥与执行之间的简短交流，暗示军舰正在进行某种战术行动。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 4.0
+        },
+        {
+          "startTime": 6.0,
+          "endTime": 11.0
+        },
+        {
+          "startTime": 19.0,
+          "endTime": 24.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/object_image/task_48_1770452328_ship_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 12.0,
+          "endTime": 15.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/object_image/task_48_1770452328_person_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter",
+      "tagValue": "直升机",
+      "tagTrack": [
+        {
+          "startTime": 19.0,
+          "endTime": 21.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/object_image/task_48_1770452328_helicopter_475.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "威严",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "海上",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军舰",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "海军",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯瞰视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "船头视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事行动",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "海军力量",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "多角度",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "高速航行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "前出战斗",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了多组不同角度拍摄的军舰航行场景，呈现现代军舰在广阔海域中的雄壮形象。军舰造型流线型，颜色以浅绿、灰色为主，舰体结构紧凑，配备先进的雷达、武器系统和通信设备。军舰在平静或略带波澜的海面上高速航行，船体划出白色浪花，背景为深蓝海水与灰蓝色天空，整体氛围庄重而威严，体现出海军力量的强大与肃穆。镜头首先展示了一艘浅绿色军舰在平静海面上高速行驶，舰桥上飘扬着红色旗帜，背景为深蓝海水与灰蒙天空，展现出军舰的威严。随后画面切换至空中俯瞰视角，显示一艘大型灰色战舰，船头尖锐，甲板上布满雷达、天线和武器装备，背景为开阔海洋与灰蓝色天空，云层厚重，气氛庄重。接着画面从船头视角展示甲板上的白色圆顶结构、炮管状装置以及两侧的橙色防护网，中央有黄色分界线，远处为晴朗的蓝天与蓝色海洋。最后画面聚焦于船尾，展示雷达天线、导弹发射装置等设备，船尾激起白色浪花，整体环境开阔平静。",
+  "introSummary": "视频通过多角度展示现代军舰在海上高速航行的场景，突出其雄壮形象与先进装备，营造出庄重威严的氛围。画面中军舰在平静或略带波澜的海面上航行，背景为深蓝海水与灰蓝色天空，整体氛围严肃紧张，体现出海军力量的强大与国家军事实力。视频中语音内容简短，传达了上级命令与执行之间的简短交流，暗示军舰正在进行某种战术行动。",
+  "keyPoints": [
+    "军事行动展示：视频通过多个角度展现军舰在海上高速航行的场景，体现海军力量的现代化和作战能力。",
+    "战争残酷性刻画：画面中军舰配备先进武器系统，暗示可能处于紧张的军事行动环境中。",
+    "海军力量象征：通过军舰的流线型设计、颜色搭配及装备展示，强调海军的威严与国家军事实力。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "传达上级命令，表示舰艇需高速前出战斗，并在后续对话中确认与否定指令，体现指挥与执行之间的简短交流。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [
+    {
+      "startTime": 7.99,
+      "endTime": 17.4,
+      "audioText": "上级令我舰高速前出战斗嗯，"
+    },
+    {
+      "startTime": 17.4,
+      "endTime": 17.71,
+      "audioText": "对对对，"
+    },
+    {
+      "startTime": 21.2,
+      "endTime": 21.77,
+      "audioText": "不用的。"
+    }
+  ],
+  "textVectors": []
+}

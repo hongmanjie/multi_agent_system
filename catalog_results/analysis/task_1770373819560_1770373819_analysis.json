@@ -1,0 +1,503 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 74.17,
+      "duration": 74.17,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_1770373819560_1770373819_scene_0.jpg",
+      "sceneSummary": "视频片段以“哲学的猫”为主题，通过一系列以猫咪为主角的插画风格图片，结合语音解说，探讨了“认知傲慢”这一心理现象。画面中通过不同猫咪的表情、行为和互动，展现了猫群之间的差异与误解，如黑猫的抑郁、蓝猫的焦虑、橘猫的社恐等，同时借助拟人化和幽默手法，揭示了人类在面对他人情绪时的“虚假共识效应”以及“认知吝啬”带来的偏见。整体风格轻松诙谐，融合了哲学思考与网络文化元素，旨在引发观众对自我认知与他人理解的反思。",
+      "smartRead": "视频开头以一张黑色背景的宣传图引出主题——“为什么越自以为清醒的人越容易犯最愚蠢的错”，并指出背后隐藏的“认知傲慢”。随后通过一系列猫咪插画展开讲解，用小猫的视角来类比人类的思维模式。  \n\n第一张图中，一只橘猫吐着舌头，配文“认识我慢”，暗示小猫试图用简单的方式理解复杂的世界。接下来的画面中，一只橘猫“嘲笑”一只黑猫的无奈，而黑猫却因抑郁而无法理解橘猫的“快乐”，表现出不同猫咪之间的情绪隔阂。  \n\n随后，画面中四只灰猫围坐一旁吃食，而一只肌肉发达的柴犬则独自站在一旁，形成“弱小群体被强大个体衬托”的对比，暗喻社会中弱势者常被忽视的现象。接着，一只橙猫表现出忧郁，另一只蓝猫则因焦虑而流泪，小猫试图安慰它们，却始终无法真正理解它们的痛苦。  \n\n视频中反复强调小猫的“认知吝啬”——它总是用自己熟悉的经历去判断他人，比如看到黑影就认为是野兽，而不愿深入探究。这种思维方式正是“认知傲慢”的体现，即用自身经验代替客观事实，导致对他人处境的误判。  \n\n最后，画面中大脑形状的插画配合文字“这是大脑为了节省力气”，进一步解释了认知傲慢的本质：大脑为了省力，倾向于剔除琐碎信息，只用熟悉的经验去判断，从而形成“虚假共识效应”，即认为自己的看法是普遍标准。整个视频通过猫咪的视角，以幽默和拟人化的方式，揭示了人类在认知上的局限"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 75.0,
+      "endTime": 90.83,
+      "duration": 15.829999999999998,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_1770373819560_1770373819_scene_1.jpg",
+      "sceneSummary": "视频片段由两幅画面组成，分别展示了两只不同颜色的猫咪形象。第一幅画面中，一只黑色猫咪站在白色方格背景上，神情略显忧郁，画面右下角标注了“哲子的猫”及“未必是别人的良方”。第二幅画面是一只橘色卡通小猫，表情无辜困惑，前爪抬起仿佛在打招呼或求饶，背景为白色网格，右下角有“去承认我不懂”，右上角标注“哲学的猫”。整体画面风格简洁、富有哲理意味，带有情感与思考的表达。",
+      "smartRead": "视频通过两只猫咪的形象传达出一种哲理性思考。首先，黑色猫咪站在白色背景上，神情忧郁，配合文字“未必是别人的良方”，暗示了每个人的经历和痛苦都是独特的，无法被他人完全理解。随后，橘色小猫以无辜困惑的表情出现，前爪抬起仿佛在寻求理解，配合文字“去承认我不懂”，表达了面对他人困境时，承认自己不了解的必要性。\n\n语音内容进一步强化了这一主题，发言人强调“他不懂痛苦”、“每个人的砝码都不通用”、“你的解药未必是别人的良方”，指出人们常常习惯用自身认知去定义他人的困境，这种“认知傲慢”其实源于大脑的懒惰，不愿放下自我。最后，“我以为去承认我不懂”则是一种反思与自我觉察的表达，呼吁人们在面对他人时，学会承认自己的无知与局限。整个片段通过视觉与语音的结合，传递出对理解与谦逊的深刻思考。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "armored vehicle",
+      "tagValue": "装甲车",
+      "tagTrack": [
+        {
+          "startTime": 75.0,
+          "endTime": 77.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_1770373819560_1770373819_armored vehicle_2250.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "哲学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "轻松诙谐",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "忧郁",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "焦虑",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "困惑",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "猫咪插画",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "黑白背景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "心理学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "认知科学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯视视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "特写镜头",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "认知傲慢",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "虚假共识效应",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "插画",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "拟人化",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "小猫视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "黑猫抑郁",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "蓝猫焦虑",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频以‘哲学的猫’为主题，通过一系列以猫咪为主角的插画风格图片，结合语音解说，探讨‘认知傲慢’这一心理现象。画面中通过不同猫咪的表情、行为和互动，展现了猫群之间的差异与误解，如黑猫的抑郁、蓝猫的焦虑、橘猫的社恐等，同时借助拟人化和幽默手法，揭示了人类在面对他人情绪时的‘虚假共识效应’以及‘认知吝啬’带来的偏见。整体风格轻松诙谐，融合了哲学思考与网络文化元素，旨在引发观众对自我认知与他人理解的反思。视频由两幅画面组成，分别展示了两只不同颜色的猫咪形象。第一幅画面中，一只黑色猫咪站在白色方格背景上，神情略显忧郁，画面右下角标注了‘哲子的猫’及‘未必是别人的良方’。第二幅画面是一只橘色卡通小猫，表情无辜困惑，前爪抬起仿佛在打招呼或求饶，背景为白色网格，右下角有‘去承认我不懂’，右上角标注‘哲学的猫’。整体画面风格简洁、富有哲理意味，带有情感与思考的表达。",
+  "introSummary": "视频以‘哲学的猫’为主题，通过卡通猫咪的插画和语音解说，探讨了‘认知傲慢’这一心理现象。视频通过不同猫咪的表情和行为，展现人类在面对他人情绪时的误解与偏见，尤其是‘虚假共识效应’和‘认知吝啬’。小猫用自身经验判断他人，导致对他人困境的误判，反映出大脑为了节省力气而忽略复杂信息的倾向。视频以轻松诙谐的风格，结合哲学思考，引导观众反思自我认知与他人理解的关系，强调承认自己对他人痛苦的无知的重要性。",
+  "keyPoints": [
+    "认知傲慢：通过小猫的视角类比人类的思维模式，揭示人们常因自身经验而误判他人处境的心理现象。",
+    "虚假共识效应：小猫用自身经验判断他人情绪，导致对他人困境的误解，反映人类在认知上的局限。",
+    "认知吝啬：大脑为了节省力气，倾向于剔除琐碎信息，只用熟悉的经验去判断事物，导致对他人痛苦的无法真正理解。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "spk_0: 通过小猫的视角类比人类的思维模式，揭示‘认知傲慢’的成因，强调人们常因自身经验而误判他人处境，并指出这种现象源于大脑的懒惰，呼吁承认自己对他人困境的无知。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [
+    {
+      "startTime": 0.11,
+      "endTime": 3.03,
+      "audioText": "为什么越自以为清醒的人越容易犯最愚蠢的错，"
+    },
+    {
+      "startTime": 3.13,
+      "endTime": 5.01,
+      "audioText": "这背后藏着最隐蔽的认知傲慢。"
+    },
+    {
+      "startTime": 5.09,
+      "endTime": 6.09,
+      "audioText": "什么是认知傲慢，"
+    },
+    {
+      "startTime": 6.13,
+      "endTime": 7.59,
+      "audioText": "我用小猫给你解释一下，"
+    },
+    {
+      "startTime": 7.73,
+      "endTime": 8.63,
+      "audioText": "小猫从来不懂。"
+    },
+    {
+      "startTime": 8.63,
+      "endTime": 9.33,
+      "audioText": "什么叫烦恼？"
+    },
+    {
+      "startTime": 9.33,
+      "endTime": 10.65,
+      "audioText": "可社区里的其他小猫，"
+    },
+    {
+      "startTime": 10.71,
+      "endTime": 11.91,
+      "audioText": "日子从来都不轻松。"
+    },
+    {
+      "startTime": 11.99,
+      "endTime": 12.87,
+      "audioText": "黑猫患了抑郁，"
+    },
+    {
+      "startTime": 12.95,
+      "endTime": 14.01,
+      "audioText": "整天耷拉着耳朵，"
+    },
+    {
+      "startTime": 14.01,
+      "endTime": 14.91,
+      "audioText": "趴在窝里不动。"
+    },
+    {
+      "startTime": 14.99,
+      "endTime": 16.39,
+      "audioText": "小猫路过总笑着劝它，"
+    },
+    {
+      "startTime": 16.41,
+      "endTime": 18.79,
+      "audioText": "别总板着脸开心点蓝猫满是焦虑，"
+    },
+    {
+      "startTime": 18.79,
+      "endTime": 19.51,
+      "audioText": "整天魂不守，"
+    },
+    {
+      "startTime": 19.51,
+      "endTime": 20.29,
+      "audioText": "舍坐立不安。"
+    },
+    {
+      "startTime": 20.31,
+      "endTime": 22.81,
+      "audioText": "它就说你就是想太多放宽心就没事。"
+    },
+    {
+      "startTime": 22.93,
+      "endTime": 23.95,
+      "audioText": "橘猫严重社恐，"
+    },
+    {
+      "startTime": 24.03,
+      "endTime": 25.39,
+      "audioText": "每次聚会都躲在角落，"
+    },
+    {
+      "startTime": 25.41,
+      "endTime": 26.11,
+      "audioText": "浑身发抖，"
+    },
+    {
+      "startTime": 26.13,
+      "endTime": 26.83,
+      "audioText": "它又凑过去，"
+    },
+    {
+      "startTime": 26.83,
+      "endTime": 27.79,
+      "audioText": "喊你勇敢点，"
+    },
+    {
+      "startTime": 27.81,
+      "endTime": 28.69,
+      "audioText": "有什么好怕的，"
+    },
+    {
+      "startTime": 28.71,
+      "endTime": 30.83,
+      "audioText": "小猫一直不明白自己的好心安慰，"
+    },
+    {
+      "startTime": 30.85,
+      "endTime": 32.03,
+      "audioText": "为什么从来没人听？"
+    },
+    {
+      "startTime": 32.11,
+      "endTime": 33.59,
+      "audioText": "小猫偶尔也会心情不好，"
+    },
+    {
+      "startTime": 33.61,
+      "endTime": 34.67,
+      "audioText": "但睡一觉就好了。"
+    },
+    {
+      "startTime": 34.69,
+      "endTime": 37.31,
+      "audioText": "所以他以为黑猫的低落也能这样轻易缓解，"
+    },
+    {
+      "startTime": 37.35,
+      "endTime": 38.39,
+      "audioText": "他偶尔也会多想，"
+    },
+    {
+      "startTime": 38.45,
+      "endTime": 40.19,
+      "audioText": "但只要转移注意力就会没事。"
+    },
+    {
+      "startTime": 40.27,
+      "endTime": 41.69,
+      "audioText": "所以它不懂蓝猫的焦虑，"
+    },
+    {
+      "startTime": 41.75,
+      "endTime": 44.15,
+      "audioText": "这就是心理学家说的虚假共识效应，"
+    },
+    {
+      "startTime": 44.23,
+      "endTime": 45.21,
+      "audioText": "就像小猫一样，"
+    },
+    {
+      "startTime": 45.27,
+      "endTime": 47.91,
+      "audioText": "总把自己的经验当成全世界的标准答案。"
+    },
+    {
+      "startTime": 47.99,
+      "endTime": 50.79,
+      "audioText": "可为什么小猫始终无法理解其他猫的难呢？"
+    },
+    {
+      "startTime": 50.85,
+      "endTime": 52.71,
+      "audioText": "这背后都是认知吝啬在作怪，"
+    },
+    {
+      "startTime": 52.83,
+      "endTime": 54.15,
+      "audioText": "就像原始时代的小猫，"
+    },
+    {
+      "startTime": 54.17,
+      "endTime": 55.53,
+      "audioText": "看到黑影就立刻逃跑，"
+    },
+    {
+      "startTime": 55.61,
+      "endTime": 56.13,
+      "audioText": "不用细究，"
+    },
+    {
+      "startTime": 56.13,
+      "endTime": 57.03,
+      "audioText": "那是不是野兽？"
+    },
+    {
+      "startTime": 57.09,
+      "endTime": 58.37,
+      "audioText": "这是大脑为了节省力气，"
+    },
+    {
+      "startTime": 58.37,
+      "endTime": 59.935,
+      "audioText": "会刻意剔除琐碎信息，"
+    },
+    {
+      "startTime": 60.2,
+      "endTime": 62.26,
+      "audioText": "只用自己熟悉的经验去判断事情。"
+    },
+    {
+      "startTime": 62.34,
+      "endTime": 63.76,
+      "audioText": "小猫的大脑也是这样，"
+    },
+    {
+      "startTime": 63.78,
+      "endTime": 65.62,
+      "audioText": "它懒得去深究黑猫的低落，"
+    },
+    {
+      "startTime": 65.62,
+      "endTime": 67.3,
+      "audioText": "蓝猫的心慌到底是为什么？"
+    },
+    {
+      "startTime": 67.3,
+      "endTime": 68.68,
+      "audioText": "他也懒得去了解橘猫，"
+    },
+    {
+      "startTime": 68.68,
+      "endTime": 70.64,
+      "audioText": "躲在沙发底时心里有多害怕，"
+    },
+    {
+      "startTime": 70.72,
+      "endTime": 73.16,
+      "audioText": "它只用自己的日常经验轻易下了判断，"
+    },
+    {
+      "startTime": 73.24,
+      "endTime": 74.3,
+      "audioText": "这就是认知傲慢。"
+    },
+    {
+      "startTime": 74.32,
+      "endTime": 75.08,
+      "audioText": "他不懂痛苦，"
+    },
+    {
+      "startTime": 75.08,
+      "endTime": 76.1,
+      "audioText": "是私人定制的秤，"
+    },
+    {
+      "startTime": 76.159,
+      "endTime": 77.58,
+      "audioText": "每个人的砝码都不通用，"
+    },
+    {
+      "startTime": 77.7,
+      "endTime": 79.14,
+      "audioText": "如同落在你头上的导弹，"
+    },
+    {
+      "startTime": 79.22,
+      "endTime": 80.64,
+      "audioText": "不过是别人眼中的流星，"
+    },
+    {
+      "startTime": 80.78,
+      "endTime": 82.62,
+      "audioText": "你的解药未必是别人的良方。"
+    },
+    {
+      "startTime": 82.68,
+      "endTime": 84.28,
+      "audioText": "我们都习惯了用自己的认知，"
+    },
+    {
+      "startTime": 84.36,
+      "endTime": 85.54,
+      "audioText": "去定义别人的困境，"
+    },
+    {
+      "startTime": 85.68,
+      "endTime": 86.28,
+      "audioText": "认知傲慢，"
+    },
+    {
+      "startTime": 86.28,
+      "endTime": 87.16,
+      "audioText": "从来都不是坏，"
+    },
+    {
+      "startTime": 87.24,
+      "endTime": 88.48,
+      "audioText": "而是我们的大脑太懒，"
+    },
+    {
+      "startTime": 88.56,
+      "endTime": 89.8,
+      "audioText": "懒到不愿放下自己的。"
+    },
+    {
+      "startTime": 89.8,
+      "endTime": 91.205,
+      "audioText": "我以为去承认我不懂。"
+    }
+  ],
+  "textVectors": []
+}

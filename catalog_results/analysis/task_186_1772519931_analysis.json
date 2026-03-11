@@ -1,0 +1,437 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 19.0,
+      "duration": 19.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/scene_image/scene_0.jpg",
+      "sceneSummary": "画面中一位男性新闻主播身着深蓝色西装、白色衬衫并系着绿色花纹领带，正坐在新闻播报台前，双手轻放在桌面上，面前放置有麦克风和遥控器等设备。背景为多屏显示墙，展示着各类新闻画面、地图、色彩条等，营造出专业新闻演播室氛围。画面左下角显示“湖南新闻联播”标志，下方滚动字幕显示“落实健康第一教育理念 让孩子‘每天锻炼两小时’”。",
+      "smartRead": "新闻主播在演播室中播报关于落实“健康第一”教育理念的政策内容，重点强调依据《教育强国建设规划纲要（2024-2035年）》要求，湖南各地中小学需确保中小学生每天综合体育活动时间不低于两小时。主播通过专业播报姿态与背景多屏新闻画面，配合字幕内容，强化政策传达的权威性与紧迫性，旨在推动学校探索多样化的运动形式，切实保障学生每日锻炼时间。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 20.0,
+      "endTime": 47.0,
+      "duration": 27.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/scene_image/scene_1.jpg",
+      "sceneSummary": "视频展示了一所小学的体育活动场景。第一帧中，多名学生在室内体育馆内进行篮球活动，部分学生持球准备投篮，一名学生坐在地上，背景可见篮球架和高大窗户。第二帧切换至室外走廊区域，多名学生正在参与跳绳活动，部分学生在跳绳，部分在旁观看或等待，背景可见学校建筑、栏杆和宣传展板。",
+      "smartRead": "郴州市王仙小学动员有专长或基础的学科教师，经培训后为学生提供文体活动课后服务，涵盖球类、跳绳、打陀螺、踢毽子等兴趣小组。学校充分利用走廊架、空层、室内体育馆等空间，合理划分体育特色项目区域，为学生提供充足运动空间。画面中学生积极参与跳绳等体育活动，体现“每天锻炼两小时”的健康教育理念，学生表示“有很多活动项目可以选择”，反映出活动丰富、参与度高。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 48.0,
+      "endTime": 69.0,
+      "duration": 21.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/scene_image/scene_2.jpg",
+      "sceneSummary": "画面首先展示了一位身穿校服、佩戴红领巾的小学生，背景为户外操场，周围有其他学生在活动。随后镜头切换至俯拍视角，呈现大量学生在操场上整齐排列，进行跳绳等集体体育活动，场面规模宏大，秩序井然。",
+      "smartRead": "视频通过学生和校方的发言，结合画面中学生积极参与户外文体活动的场景，传达出学校通过每天两小时的文体活动，不仅提升了学生的身体素质、缓解了学习压力，还让学生有更多机会走出教室、结交朋友，从而促进学生的全面发展。画面中学生们整齐划一地跳绳，配合校方聘请专业教练指导的背景，体现了学校对体育教育的重视与系统化推进。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 19.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/face_image/person_0_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_4",
+      "tagTrack": [
+        {
+          "startTime": 45.0,
+          "endTime": 47.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/face_image/person_4_1125.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_15",
+      "tagTrack": [
+        {
+          "startTime": 48.0,
+          "endTime": 51.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/face_image/person_15_1200.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_16",
+      "tagTrack": [
+        {
+          "startTime": 57.0,
+          "endTime": 63.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/face_image/person_16_1425.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 22.0
+        },
+        {
+          "startTime": 24.0,
+          "endTime": 35.0
+        },
+        {
+          "startTime": 38.0,
+          "endTime": 44.0
+        },
+        {
+          "startTime": 48.0,
+          "endTime": 69.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_197/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "积极",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "活力",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "开心",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "好玩",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "校园",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "操场",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "走廊",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "体育馆",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "教育",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "体育",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "课后服务",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "2024-2035",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "体育锻炼",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "学生健康",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "新闻报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "跳绳",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "踢毽子",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "打陀螺",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "新闻主播在演播室播报关于落实中小学生每天锻炼两小时的政策。郴州市王仙小学的学生们在校园内进行体育活动，穿着不同颜色的背心。大量学生在操场上整齐地跳绳，场面壮观，显示出学校对体育活动的重视。学生在走廊和室内体育馆等区域进行各种体育活动，空间利用合理。",
+  "introSummary": "视频报道了湖南各地中小学落实‘每天锻炼两小时’政策的举措，通过丰富多样的体育活动，提升学生身体素质并缓解学习压力。学校动员教师提供课后体育服务，充分利用校园空间，学生积极参与，体验乐趣并结交朋友。专业教练的指导使运动成为兴趣爱好，助力学生全面发展。",
+  "keyPoints": [
+    "政策落实: 落实教育强国建设规划纲要，确保中小学生每天体育锻炼时间不低于两小时。",
+    "教师参与: 学校动员学科教师参与课后体育服务，提供多样化的运动项目。",
+    "场地利用: 充分利用走廊、空层、室内体育馆等场所划分体育区域。",
+    "学生反馈: 学生表示活动有趣，能交到新朋友，每天在学校很开心。",
+    "专业指导: 聘请专业教练指导，将运动转化为兴趣爱好，增强体质并缓解学习压力。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "强调落实教育强国规划纲要，要求各地中小学确保学生每天体育锻炼时间。"
+    },
+    {
+      "speaker": "发言人1",
+      "summary": "介绍学校如何动员教师提供课后体育服务，合理利用场地资源。"
+    },
+    {
+      "speaker": "发言人2",
+      "summary": "表达学生对体育活动的喜爱和积极体验，认为活动丰富且有助于社交。"
+    },
+    {
+      "speaker": "发言人3",
+      "summary": "强调专业教练指导的重要性，通过体育活动增强学生体质并缓解压力。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"湖南落实每日两小时校园体育\",\n  \"children\": [\n    {\n      \"name\": \"教育强国政策背景与目标\",\n      \"children\": [\n        {\n          \"name\": \"依据教育强国规划纲要，确保学生每日综合体育活动不低于两小时\",\n          \"children\": [\n            { \"name\": \"纲要时间：2024 至 2035 年\" },\n            { \"name\": \"核心理念：健康第一教育理念\" },\n            { \"name\": \"覆盖范围：湖南各地中小学\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"学校体育实施具体举措方案\",\n      \"children\": [\n        {\n          \"name\": \"郴州市王仙小学动员教师培训，提供多样文体课后服务\",\n          \"children\": [\n            { \"name\": \"师资来源：学科教师经培训\" },\n            { \"name\": \"专业支持：聘请专业教练指导\" },\n            { \"name\": \"活动项目：球类跳绳陀螺毽子\" }\n          ]\n        },\n        {\n          \"name\": \"充分利用校园空间资源，合理划分体育特色项目区域\",\n          \"children\": [\n            { \"name\": \"空间利用：走廊架空层室内馆\" },\n            { \"name\": \"目的：提供充足运动空间\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"学生参与反馈与实际成效\",\n      \"children\": [\n        {\n          \"name\": \"学生表示活动好玩选择多，走出教室结交新朋友\",\n          \"children\": [\n            { \"name\": \"心理感受：每天在学校很开心\" },\n            { \"name\": \"社交变化：有机会交到新朋友\" }\n          ]\n        },\n        {\n          \"name\": \"增强学生体质缓解压力，助力学生全方位成长\",\n          \"children\": [\n            { \"name\": \"身体素质：有效得到增强\" },\n            { \"name\": \"学习压力：得到有效缓解\" },\n            { \"name\": \"成长目标：助力全方位发展\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"新闻视觉呈现与现场氛围\",\n      \"children\": [\n        {\n          \"name\": \"新闻演播室专业播报，配合字幕强化政策权威性\",\n          \"children\": [\n            { \"name\": \"场景：湖南新闻联播演播室\" },\n            { \"name\": \"人物：男性新闻主播着装专业\" }\n          ]\n        },\n        {\n          \"name\": \"实拍学生体育活动场景，展现大规模有序集体运动\",\n          \"children\": [\n            { \"name\": \"内容：篮球跳绳集体活动\" },\n            { \"name\": \"状态：秩序井然且参与度高\" }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.58,
+      "endTime": 10.16,
+      "audioText": "贯彻落实教育强国建设规划纲要二零二四至二零三五年提出的中小学生每天综合体育活动时间不低于两小时，"
+    },
+    {
+      "startTime": 10.16,
+      "endTime": 15.08,
+      "audioText": "要求湖南各地中小学正通过探索丰富多样的运动形式，"
+    },
+    {
+      "startTime": 15.3,
+      "endTime": 18.495,
+      "audioText": "确保学生每天综合体育锻炼时间。"
+    },
+    {
+      "startTime": 19.46,
+      "endTime": 23.48,
+      "audioText": "郴州市王仙小学动员了一批有专长或基础的学科教师。"
+    },
+    {
+      "startTime": 23.7,
+      "endTime": 24.62,
+      "audioText": "经过培训后，"
+    },
+    {
+      "startTime": 24.68,
+      "endTime": 27.56,
+      "audioText": "为孩子们提供文体活动方面的课后服务，"
+    },
+    {
+      "startTime": 27.84,
+      "endTime": 29.54,
+      "audioText": "学生们可以加入球类、"
+    },
+    {
+      "startTime": 29.64,
+      "endTime": 30.08,
+      "audioText": "跳绳、"
+    },
+    {
+      "startTime": 30.22,
+      "endTime": 30.86,
+      "audioText": "打陀螺、"
+    },
+    {
+      "startTime": 30.96,
+      "endTime": 32.64,
+      "audioText": "踢毽子等兴趣小组。"
+    },
+    {
+      "startTime": 32.94,
+      "endTime": 33.34,
+      "audioText": "同时，"
+    },
+    {
+      "startTime": 33.34,
+      "endTime": 35.04,
+      "audioText": "学校充分利用走廊架、"
+    },
+    {
+      "startTime": 35.04,
+      "endTime": 35.46,
+      "audioText": "空层、"
+    },
+    {
+      "startTime": 35.68,
+      "endTime": 39.6,
+      "audioText": "室内体育馆等场所合理划分体育特色项目区域，"
+    },
+    {
+      "startTime": 39.68,
+      "endTime": 41.94,
+      "audioText": "为学生提供充足的运科空间。"
+    },
+    {
+      "startTime": 42.52,
+      "endTime": 43.72,
+      "audioText": "我觉得很好玩。"
+    },
+    {
+      "startTime": 44.24,
+      "endTime": 46.9,
+      "audioText": "因为有很多活动项目可以选择，"
+    },
+    {
+      "startTime": 47.56,
+      "endTime": 50.14,
+      "audioText": "这让我有更多时间走出教室，"
+    },
+    {
+      "startTime": 50.62,
+      "endTime": 51.94,
+      "audioText": "交到新的朋友，"
+    },
+    {
+      "startTime": 52.18,
+      "endTime": 54.64,
+      "audioText": "我每天在学校都很开心，"
+    },
+    {
+      "startTime": 55.22,
+      "endTime": 56.92,
+      "audioText": "我们聘请了专业的教练，"
+    },
+    {
+      "startTime": 57.0,
+      "endTime": 58.28,
+      "audioText": "对学生进行指导，"
+    },
+    {
+      "startTime": 58.48,
+      "endTime": 60.38,
+      "audioText": "把运动就变成了兴趣爱好。"
+    },
+    {
+      "startTime": 60.98,
+      "endTime": 63.02,
+      "audioText": "通过每天两个小时的文体活动，"
+    },
+    {
+      "startTime": 63.02,
+      "endTime": 63.26,
+      "audioText": "啊，"
+    },
+    {
+      "startTime": 63.48,
+      "endTime": 65.24,
+      "audioText": "增强了学生的身体素质，"
+    },
+    {
+      "startTime": 65.48,
+      "endTime": 67.1,
+      "audioText": "也缓解了他们的学习压力，"
+    },
+    {
+      "startTime": 67.32,
+      "endTime": 69.285,
+      "audioText": "助力学生全方位成长。"
+    }
+  ],
+  "textVectors": []
+}

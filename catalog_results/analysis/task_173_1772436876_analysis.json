@@ -1,0 +1,573 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 19.0,
+      "duration": 19.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/scene_image/scene_0.jpg",
+      "sceneSummary": "画面中为一名男性新闻主播，身着深蓝色西装、白色衬衫并系有深色花纹领带，正坐在新闻演播室内面向镜头播报。背景为多屏幕组成的虚拟演播墙，显示着模糊的新闻画面与色彩，整体色调偏暗，以红色和紫色为主。画面左上角显示“CCTV 4 中文国际”，右上角有“央视新闻”标识，右下角有“中国新闻”及日期“7月24日”字样，底部滚动条显示新闻简讯文字。",
+      "smartRead": "新闻主播在演播室内播报国际时事，根据语音内容，他正在传达伊朗伊斯兰革命卫队的声明：当地时间1号夜间，伊朗对以色列全境及美国在该地区的军事目标发动了第九轮“真实承诺四”军事行动，同时称美军“亚伯拉罕·林肯号”航母遭到四枚弹道导弹袭击。主播表情严肃，背景屏幕与字幕强化了新闻的紧迫感与国际性，配合底部滚动新闻，凸显事件的严肃性和时效性。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 20.0,
+      "endTime": 48.0,
+      "duration": 28.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/scene_image/scene_1.jpg",
+      "sceneSummary": "画面首先展示了一队身着迷彩服、头戴头盔的伊朗军人列队行进，背景为荒芜的野外环境，部分士兵携带装备，远处可见停放的军用摩托车。随后场景切换至美国“林肯号”航母甲板，多名身穿绿色或黄色工作服、头戴头盔的航母工作人员正在甲板上活动，背景可见舰载战斗机和航母舰岛结构，天气晴朗，海面平静。",
+      "smartRead": "画面呈现伊朗武装力量与美国航母的视觉对比，配合语音内容，反映伊朗伊斯兰革命卫队声称对“林肯号”航母发射四枚导弹的事件。伊朗方面称已进入对敌方军事力量的“新阶段”，强调陆海将成为“侵略者坟场”。美国军方则回应称航母未遭袭击，伊朗导弹未接近目标。画面中伊朗军人列队的严肃氛围与航母甲板上有序运作的美军人员形成对照，视觉上强化了双方军事对峙的紧张感，同时通过航母场景暗示美国军事存在，呼应语音中关于“导弹未接近航母”的美方声明。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 49.0,
+      "endTime": 127.0,
+      "duration": 78.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/scene_image/scene_2.jpg",
+      "sceneSummary": "画面首先展示了一架无人机在城市上空飞行的俯拍视角，画面中带有绿色十字准星和红色方框标记，背景为密集的建筑物。随后切换至特拉维夫城市全景，高楼林立，天空晴朗，画面下方有红色字幕显示“特拉维夫遭袭 至少40栋建筑受损”。",
+      "smartRead": "画面配合语音内容，呈现了伊朗防空系统击落美国MQ-9无人机的场景，随后转至以色列特拉维夫遭受袭击后的城市景象，字幕强调当地至少40栋建筑受损。语音内容进一步说明，伊朗方面称其防空系统成功拦截并摧毁无人机，而以色列国防军则宣称打击了伊朗军事指挥官，包括在德黑兰的高层领导。同时，以色列多座城市拉响防空警报，特拉维夫市中心发生爆炸，卫生部门已启动最高警戒状态，将患者和医疗设备转移至地下掩体，以应对伊朗导弹袭击。画面与语音共同传达了中东地区紧张的军事冲突态势。"
+    },
+    {
+      "sceneId": 3,
+      "startTime": 128.0,
+      "endTime": 142.0,
+      "duration": 14.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/scene_image/scene_3.jpg",
+      "sceneSummary": "画面展示了一片遭受严重破坏的城镇区域，多栋建筑物倒塌或严重损毁，瓦砾遍地。救援人员身着橙色和黄色安全背心、头戴安全帽，在废墟中进行搜救工作，部分人员使用工具清理障碍物。现场拉有红色警戒线，划分出救援区域。另有画面显示一名消防员正在扑灭燃烧的火焰，浓烟滚滚，背景可见受损的房屋和散落的车辆残骸。",
+      "smartRead": "根据语音内容，伊朗导弹袭击贝特谢梅什造成至少20人死亡，现场多处房屋损毁、车辆被炸毁，且燃起大火。视觉画面中，救援人员在废墟中紧张作业，与语音所述“房屋损毁”“车辆被炸毁”“燃起大火”完全吻合，印证了袭击造成的严重破坏。消防员扑救火焰的场景也与“现场燃起大火”相呼应，整体画面呈现了袭击后的混乱与救援行动的紧迫性。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 19.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/face_image/person_0_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_7",
+      "tagTrack": [
+        {
+          "startTime": 64.0,
+          "endTime": 66.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/face_image/person_7_1600.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 29.0
+        },
+        {
+          "startTime": 34.0,
+          "endTime": 40.0
+        },
+        {
+          "startTime": 63.0,
+          "endTime": 66.0
+        },
+        {
+          "startTime": 128.0,
+          "endTime": 133.0
+        },
+        {
+          "startTime": 138.0,
+          "endTime": 140.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "airplane",
+      "tagValue": "飞机",
+      "tagTrack": [
+        {
+          "startTime": 32.0,
+          "endTime": 39.0
+        },
+        {
+          "startTime": 42.0,
+          "endTime": 61.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/object_image/airplane_800.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 34.0,
+          "endTime": 36.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_193/object_image/ship_850.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "危机",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "恐惧",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "震惊",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "新闻演播室",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "爆炸现场",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "街道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "医院",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "城市",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "政治",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "国际关系",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "新闻报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "航拍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "地面拍摄",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "新闻演播室",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事冲突",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "导弹袭击",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "防空系统",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "战争后果",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "新闻报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实风格",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "新闻播报视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "导弹袭击",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "防空拦截",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "军事打击",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "人员疏散",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "医疗响应",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "新闻主播在演播室播报新闻，背景为多屏幕显示的军事画面。航拍画面显示城市区域发生大规模爆炸，浓烟滚滚。街道上救护车和医疗人员紧急响应，背景有烟雾和树木。新闻字幕显示“伊朗称发射4枚导弹袭击‘林肯’号航母”和“以军称打死40名伊朗军事指挥官”等信息。",
+  "introSummary": "视频报道了伊朗与以色列之间的军事冲突升级，伊朗宣称对以色列及美国目标发动第九轮打击，声称击中‘林肯’号航母，但美国否认袭击。同时，伊朗防空系统击落一架美国MQ-9无人机，以色列则击毙40名伊朗军事指挥官。以色列城市遭受导弹袭击，导致建筑损毁和人员伤亡，医疗系统紧急应对。整个视频以新闻报道形式呈现，通过航拍、地面拍摄和演播室播报，展现了战争的紧张氛围和残酷后果。",
+  "keyPoints": [
+    "军事冲突升级: 伊朗伊斯兰革命卫队宣布对以色列及美国目标发动第九轮打击，声称击中‘林肯’号航母。",
+    "美国军方否认袭击: 美国称‘林肯’号航母未遭袭击，伊朗导弹未接近目标。",
+    "伊朗防空系统击落无人机: 伊朗宣称其防空系统击落一架美国MQ-9无人机。",
+    "以色列打击伊朗高层: 以色列空军击毙40名伊朗军事指挥官，包括总参谋长穆萨维。",
+    "伊朗防空系统被削弱: 伊朗西部和中部防空系统被摧毁，为在德黑兰建立空中优势铺平道路。",
+    "以色列城市遭受袭击: 特拉维夫拉响防空警报，市中心发生爆炸，至少40栋建筑受损，200人疏散。",
+    "医疗系统进入紧急状态: 以色列医院将患者和设备转移至地下掩体，应对导弹袭击。",
+    "伊朗导弹袭击造成伤亡: 伊朗导弹袭击贝特谢梅什，造成至少20人死亡，现场房屋损毁、车辆被炸、大火蔓延。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "通报伊朗对以色列及美国目标发动第九轮打击，声称‘林肯’号航母遭四枚导弹袭击。"
+    },
+    {
+      "speaker": "发言人1",
+      "summary": "详细报道伊朗与以色列的军事行动，包括伊朗防空系统击落无人机、以色列击毙伊朗指挥官、以色列城市遭受袭击及医疗系统应对措施。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"伊朗以色列军事冲突全面升级\",\n  \"children\": [\n    {\n      \"name\": \"伊朗革命卫队行动声明\",\n      \"children\": [\n        {\n          \"name\": \"宣布第九轮真实承诺行动开始，声称打击以色列全境及美国目标\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"行动代号：真实承诺四\"\n            },\n            {\n              \"name\": \"打击范围：以色列全境\"\n            }\n          ]\n        },\n        {\n          \"name\": \"宣称四枚弹道导弹袭击美军亚伯拉罕林肯号航母\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"声称击中：四枚弹道导弹\"\n            },\n            {\n              \"name\": \"攻击目标：林肯号航母\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"美国军方回应与对峙态势\",\n      \"children\": [\n        {\n          \"name\": \"美方否认航母遭袭击，称伊朗导弹甚至没有接近航母\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"美方回应：导弹未接近目标\"\n            },\n            {\n              \"name\": \"对峙状态：军事力量抗衡\"\n            }\n          ]\n        },\n        {\n          \"name\": \"确认一架美国军队 MQ 九无人机在伊朗南部被摧毁\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"无人机战果：MQ 九被摧毁\"\n            },\n            {\n              \"name\": \"发生地点：伊朗南部地区\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"以色列受损情况及应对措施\",\n      \"children\": [\n        {\n          \"name\": \"特拉维夫至少四十栋建筑受损，超过两百名居民被疏散\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"建筑损毁：至少四十栋受损\"\n            },\n            {\n              \"name\": \"人员疏散：超过两百居民\"\n            }\n          ]\n        },\n        {\n          \"name\": \"卫生部指示全国医院进入最高警戒状态转移至地下\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"医疗应对：转移患者至地下掩体\"\n            },\n            {\n              \"name\": \"警戒级别：全国最高状态\"\n            }\n          ]\n        },\n        {\n          \"name\": \"贝特谢梅什袭击造成至少二十人死亡现场燃起大火\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"人员伤亡：贝特谢梅什二十人死亡\"\n            },\n            {\n              \"name\": \"现场状况：车辆炸毁燃大火\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"新闻视觉画面与现场证据\",\n      \"children\": [\n        {\n          \"name\": \"新闻主播播报配合虚拟演播墙，显示模糊新闻画面与色彩\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"视觉场景：新闻演播室严肃播报\"\n            },\n            {\n              \"name\": \"背景元素：多屏幕虚拟演播墙\"\n            }\n          ]\n        },\n        {\n          \"name\": \"展示伊朗军人列队与航母甲板，呈现双方军事对峙紧张感\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"军事画面：伊朗军人列队行进\"\n            },\n            {\n              \"name\": \"视觉场景：废墟救援与火灾现场\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.6,
+      "endTime": 2.1,
+      "audioText": "当地时间一号夜间，"
+    },
+    {
+      "startTime": 2.2,
+      "endTime": 4.06,
+      "audioText": "伊朗伊斯兰革命卫队宣布，"
+    },
+    {
+      "startTime": 4.28,
+      "endTime": 10.555,
+      "audioText": "针对以色列全境及该地区美国目标的第九轮真实承诺四行动已开始。"
+    },
+    {
+      "startTime": 11.44,
+      "endTime": 13.22,
+      "audioText": "伊斯兰革命卫队当天称，"
+    },
+    {
+      "startTime": 13.3,
+      "endTime": 17.975,
+      "audioText": "美军亚伯拉罕林肯号航母遭到伊朗四枚弹道导弹袭击。"
+    },
+    {
+      "startTime": 20.01,
+      "endTime": 22.67,
+      "audioText": "伊朗伊斯兰革命卫队一号发布的公告称，"
+    },
+    {
+      "startTime": 22.97,
+      "endTime": 26.61,
+      "audioText": "伊朗武装部队对敌方军事力量的强力打击，"
+    },
+    {
+      "startTime": 26.63,
+      "endTime": 27.63,
+      "audioText": "已进入新阶段，"
+    },
+    {
+      "startTime": 27.91,
+      "endTime": 31.23,
+      "audioText": "陆地和海洋都将日益成为侵略者的坟场。"
+    },
+    {
+      "startTime": 31.77,
+      "endTime": 32.89,
+      "audioText": "对于伊朗方面称，"
+    },
+    {
+      "startTime": 33.03,
+      "endTime": 36.61,
+      "audioText": "林肯号航母遭到伊朗四枚弹道导弹袭击一事。"
+    },
+    {
+      "startTime": 36.77,
+      "endTime": 38.15,
+      "audioText": "美国军方当天表示，"
+    },
+    {
+      "startTime": 38.35,
+      "endTime": 40.61,
+      "audioText": "林肯号航母未遭伊朗袭击，"
+    },
+    {
+      "startTime": 40.81,
+      "endTime": 43.935,
+      "audioText": "并称伊朗发射的导弹甚至没有接近航母。"
+    },
+    {
+      "startTime": 44.55,
+      "endTime": 45.07,
+      "audioText": "同一天，"
+    },
+    {
+      "startTime": 45.23,
+      "endTime": 54.05,
+      "audioText": "伊朗伊斯兰革命卫队宣布革命卫队防空系统在伊朗南部地区利用一体化防空网络控制下的防御系统锁定，"
+    },
+    {
+      "startTime": 54.11,
+      "endTime": 57.27,
+      "audioText": "并摧毁了一架美国军队的 MQ 九无人机。"
+    },
+    {
+      "startTime": 57.69,
+      "endTime": 61.59,
+      "audioText": "伊朗方面一号公布了击中美国 MQ 九无人机的画面，"
+    },
+    {
+      "startTime": 62.31,
+      "endTime": 66.31,
+      "audioText": "以色列国防军当天称已打死四十名伊朗军事指挥官，"
+    },
+    {
+      "startTime": 66.61,
+      "endTime": 69.31,
+      "audioText": "伊朗政权国防领导层已被消灭。"
+    },
+    {
+      "startTime": 69.71,
+      "endTime": 70.99,
+      "audioText": "伊军发表声明说，"
+    },
+    {
+      "startTime": 71.13,
+      "endTime": 73.75,
+      "audioText": "作为二月二十八号首轮打击的一部分，"
+    },
+    {
+      "startTime": 73.97,
+      "endTime": 76.91,
+      "audioText": "以色列空军在情报部门的指引下袭击，"
+    },
+    {
+      "startTime": 76.91,
+      "endTime": 82.19,
+      "audioText": "并打死在德黑兰多个地点聚集的七名伊朗最高安全领导层成员，"
+    },
+    {
+      "startTime": 82.51,
+      "endTime": 87.31,
+      "audioText": "其中包括伊朗武装部队总参谋长穆萨维声明称，"
+    },
+    {
+      "startTime": 87.51,
+      "endTime": 95.165,
+      "audioText": "伊军已瓦解伊朗西部和中部的大部分防空系统为在德黑兰上空建立空中优势铺平道路，"
+    },
+    {
+      "startTime": 95.93,
+      "endTime": 98.59,
+      "audioText": "以色列多座城市一号拉响防空警报，"
+    },
+    {
+      "startTime": 98.83,
+      "endTime": 101.53,
+      "audioText": "特拉维夫附近有防空拦截弹升空。"
+    },
+    {
+      "startTime": 101.89,
+      "endTime": 103.69,
+      "audioText": "以色列军方电台一号称，"
+    },
+    {
+      "startTime": 103.91,
+      "endTime": 105.73,
+      "audioText": "特拉维夫市中心发生爆炸。"
+    },
+    {
+      "startTime": 106.11,
+      "endTime": 108.01,
+      "audioText": "据特拉维夫市政府统计，"
+    },
+    {
+      "startTime": 108.17,
+      "endTime": 112.01,
+      "audioText": "目前当地至少有四十栋建筑遭到不同程度的损坏，"
+    },
+    {
+      "startTime": 112.25,
+      "endTime": 115.07,
+      "audioText": "超过两百名居民被疏散到其他地点。"
+    },
+    {
+      "startTime": 115.55,
+      "endTime": 119.43,
+      "audioText": "以色列卫生部已指示全国医院进入最高警戒状态，"
+    },
+    {
+      "startTime": 119.59,
+      "endTime": 122.01,
+      "audioText": "将患者和医疗设备转移到地下，"
+    },
+    {
+      "startTime": 122.29,
+      "endTime": 125.59,
+      "audioText": "包括医院地下停车场和地下掩体区域，"
+    },
+    {
+      "startTime": 125.59,
+      "endTime": 127.65,
+      "audioText": "已躲避伊朗的导弹袭击。"
+    },
+    {
+      "startTime": 127.869,
+      "endTime": 129.73,
+      "audioText": "以色列时报网站一号报道说，"
+    },
+    {
+      "startTime": 129.95,
+      "endTime": 133.99,
+      "audioText": "伊朗导弹袭击贝特谢梅什造成至少二十人死亡。"
+    },
+    {
+      "startTime": 134.41,
+      "endTime": 136.27,
+      "audioText": "以色列媒体发布的画面显示，"
+    },
+    {
+      "startTime": 136.51,
+      "endTime": 139.15,
+      "audioText": "现场多处房屋出现不同程度损毁，"
+    },
+    {
+      "startTime": 139.31,
+      "endTime": 140.35,
+      "audioText": "车辆被炸毁，"
+    },
+    {
+      "startTime": 140.51,
+      "endTime": 142.025,
+      "audioText": "现场燃起大火。"
+    }
+  ],
+  "textVectors": []
+}

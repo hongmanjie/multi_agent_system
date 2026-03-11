@@ -1,0 +1,700 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 101.67,
+      "duration": 101.67,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/scene_image/scene_0.jpg",
+      "sceneSummary": "视频开头展示一名身穿深色西装、内搭白色T恤的男性站在国防科技大学校门前，背景是刻有“国防科技大学”字样的大型石质校门，门顶有红色五角星标志，校门前有修剪整齐的绿植和红色花卉。随后画面切换至航拍视角，展示校园整体建筑群，包括现代化的圆形主楼和对称排列的教学楼，周围有道路、绿化带和路灯，呈现校园的宏伟与秩序感。",
+      "smartRead": "视频中，男性讲解者站在国防科技大学校门前，介绍该校是中国最顶尖的军中大学，被誉为“军中清华”，是唯一一所“九八五军校”，强调其特殊地位与严格选拔标准。他提到该校学生毕业后即拥有军衔（少尉），无需支付学费、住宿费，且发放工资，工龄与军龄从入学起计算，就业无忧。同时，他指出考入该校需三代人“干净”的政治审查，难度远超清华北大，需“三辈人的共同努力”。画面随后切换至航拍镜头，展示校园建筑群的宏伟规模，强化该校作为神秘、顶尖军校的视觉印象，并提及该校前身“哈军工”的历史沿革与分流情况，为观众呈现其深厚底蕴与历史传承。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 102.5,
+      "endTime": 140.83,
+      "duration": 38.33000000000001,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/scene_image/scene_1.jpg",
+      "sceneSummary": "画面中一名身穿深色西装、内搭白色T恤的男性站在一座大型建筑前，建筑上方有红色五角星标志和“国防科技大学”字样。他手持麦克风，面向镜头讲话，背景有修剪整齐的绿植和红色花卉，环境整洁庄重。画面中未出现其他人物或动态变化，整体氛围正式。",
+      "smartRead": "该男性正在介绍国防科技大学的历史沿革，从其前身机构（如重庆工业大学学院、长沙工学院）的组建，到1999年整合长沙多所军事院校，再到2017年更名，同时强调其历史地位——首任校长为开国大将陈赓，凸显其权威性与重要性。画面背景中的“国防科技大学”建筑与讲解内容高度契合，强化了该机构的官方性和历史厚重感，视觉与语音内容相互印证，共同构建出对这所顶尖军事院校的权威介绍。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 141.67,
+      "endTime": 203.33,
+      "duration": 61.660000000000025,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/scene_image/scene_2.jpg",
+      "sceneSummary": "一名身穿深色格纹西装、内搭白色T恤的男性站在一座大型建筑前，建筑上方有“国防科技大学”字样和一颗红色五角星标志。他双手自然摆动，配合讲话做出手势。背景中可见修剪整齐的绿色灌木和红色花卉，地面为灰色石砖与黄色标线相间，整体环境整洁庄重，光线为自然日光，画面稳定，无明显镜头移动。",
+      "smartRead": "该男性站在国防科技大学校门前，以庄重而自信的姿态向观众介绍该校的卓越成就。他提到该校学生分为“军级”与“非军级”两类，强调其科研成果在全球范围内具有顶尖水平，如“天河”系列超级计算机、“北斗”卫星导航系统等，这些系统在军事与民用领域发挥关键作用，尤其在战争中可实现精确打击。他还指出该校对“两弹一星”、航天航空及载人系统有重大贡献，并提及长沙磁悬浮列车技术源于该校，彰显“中国速度、中国精度、中国高度”。最后，他呼吁观众关注“阿波”，并为祖国点赞，表达出强烈的爱国情怀与对国家科技力量的自豪感。视觉上，校门的庄严与人物的正式着装相得益彰，强化了内容的权威性与使命感。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_1",
+      "tagTrack": [
+        {
+          "startTime": 5.0,
+          "endTime": 6.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/face_image/person_1_150.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_3",
+      "tagTrack": [
+        {
+          "startTime": 10.0,
+          "endTime": 12.5
+        },
+        {
+          "startTime": 14.17,
+          "endTime": 18.33
+        },
+        {
+          "startTime": 34.17,
+          "endTime": 36.67
+        },
+        {
+          "startTime": 40.0,
+          "endTime": 42.5
+        },
+        {
+          "startTime": 47.5,
+          "endTime": 50.83
+        },
+        {
+          "startTime": 53.33,
+          "endTime": 55.0
+        },
+        {
+          "startTime": 56.67,
+          "endTime": 63.33
+        },
+        {
+          "startTime": 70.0,
+          "endTime": 71.67
+        },
+        {
+          "startTime": 105.83,
+          "endTime": 109.17
+        },
+        {
+          "startTime": 153.33,
+          "endTime": 155.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/face_image/person_3_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_4",
+      "tagTrack": [
+        {
+          "startTime": 19.17,
+          "endTime": 20.83
+        },
+        {
+          "startTime": 188.33,
+          "endTime": 190.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/face_image/person_4_575.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_6",
+      "tagTrack": [
+        {
+          "startTime": 168.33,
+          "endTime": 170.0
+        },
+        {
+          "startTime": 177.5,
+          "endTime": 179.17
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/face_image/person_6_5050.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_8",
+      "tagTrack": [
+        {
+          "startTime": 137.5,
+          "endTime": 140.83
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/face_image/person_8_4125.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 26.67
+        },
+        {
+          "startTime": 30.83,
+          "endTime": 40.0
+        },
+        {
+          "startTime": 41.67,
+          "endTime": 99.17
+        },
+        {
+          "startTime": 102.5,
+          "endTime": 105.83
+        },
+        {
+          "startTime": 108.33,
+          "endTime": 118.33
+        },
+        {
+          "startTime": 120.0,
+          "endTime": 181.67
+        },
+        {
+          "startTime": 186.67,
+          "endTime": 203.33
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_205/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "自豪",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "敬佩",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "向往",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "校门",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "花坛",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "科技",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "当代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "中景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "国防科技大学介绍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事科技成就",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪录片式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "解说式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "介绍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "讲解",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了一位穿着深色西装的男性站在国防科技大学校门前，背景是刻有校名的宏伟建筑和整齐的红色花坛。他面向镜头，做出手势并讲话，传达关于该校的介绍信息。",
+  "introSummary": "视频以国防科技大学校门为背景，由一位讲解者介绍该校的卓越地位、入学条件、优厚待遇、历史沿革及在军事科技领域的重大贡献，强调其作为“军中清华”的顶尖实力和对国家发展的关键作用，激发观众对这所神秘大学的敬佩与向往。",
+  "keyPoints": [
+    "国防科技大学的入学门槛极高，政治审查严格，要求祖上三代清白。",
+    "该校毕业生享有优厚待遇，包括免学费、免住宿费、发工资，并且从入学起即计算工龄和军龄。",
+    "国防科技大学的前身是哈军工，1978年改建为国防科技大学，2017年更名，合并了多个军事院校。",
+    "该校在科研领域成就显著，如研发天河系列超级计算机、北斗导航系统、两弹一星、磁悬浮列车技术等。",
+    "该校被誉为“军中清华”，是我国唯一的“985军校”，培养的是铁骨铮铮的军人。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "介绍国防科技大学的历史、优势、待遇和科研成就，强调其在军事科技领域的顶尖地位和对国家的重大贡献。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"国防科技大学核心解析\",\n  \"children\": [\n    {\n      \"name\": \"学校地位与性质定位\",\n      \"children\": [\n        {\n          \"name\": \"军中清华唯一九八五军校，顶尖存在非等闲之辈能考\",\n          \"children\": [\n            { \"name\": \"地图搜索不到的神秘大学\" },\n            { \"name\": \"热血青年梦寐以求院校\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"入学待遇与成长保障\",\n      \"children\": [\n        {\n          \"name\": \"军籍学生免学费住宿，发工资算工龄军龄就业无忧\",\n          \"children\": [\n            { \"name\": \"生活用品全部不用购买\" },\n            { \"name\": \"毕业本科生即军中少尉\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"招生门槛与政审要求\",\n      \"children\": [\n        {\n          \"name\": \"考上需三辈人努力，政治审查严格祖上必须干净\",\n          \"children\": [\n            { \"name\": \"难度超过清华北大院校\" },\n            { \"name\": \"祖上三辈人都要干净才行\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"历史沿革与院校变迁\",\n      \"children\": [\n        {\n          \"name\": \"前身哈军工分流重组，历经多次改建合并最终更名\",\n          \"children\": [\n            { \"name\": \"首任校长开国大将陈赓\" },\n            { \"name\": \"一九七八年改建为大学\" },\n            { \"name\": \"二零一七年正式更名称\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"科研成就与大国重器\",\n      \"children\": [\n        {\n          \"name\": \"科技成果放眼世界神存在，两弹一星航天均有贡献\",\n          \"children\": [\n            { \"name\": \"天河系列超级计算机系统\" },\n            { \"name\": \"北斗卫星导航定位系统\" },\n            { \"name\": \"长沙磁悬浮列车技术来源\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"精神使命与家国情怀\",\n      \"children\": [\n        {\n          \"name\": \"读书即把自己交给国家，承载军人责任心使命精神\",\n          \"children\": [\n            { \"name\": \"中国速度精度与高度展现\" },\n            { \"name\": \"为国奉献使命责任担当\" }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.27,
+      "endTime": 2.87,
+      "audioText": "这里就是中国最牛的军中大学。"
+    },
+    {
+      "startTime": 3.03,
+      "endTime": 4.225,
+      "audioText": "国防科技大学，"
+    },
+    {
+      "startTime": 4.95,
+      "endTime": 6.33,
+      "audioText": "从清华北大走出去的，"
+    },
+    {
+      "startTime": 6.33,
+      "endTime": 7.39,
+      "audioText": "不一定是中国人。"
+    },
+    {
+      "startTime": 7.49,
+      "endTime": 11.755,
+      "audioText": "但是从这里毕业的一定是铁骨铮铮的中国人，"
+    },
+    {
+      "startTime": 12.45,
+      "endTime": 14.63,
+      "audioText": "它是在地图上都搜索不到的大学，"
+    },
+    {
+      "startTime": 14.83,
+      "endTime": 18.63,
+      "audioText": "也是很多热血青年梦寐以求想要考进来的大学。"
+    },
+    {
+      "startTime": 19.01,
+      "endTime": 22.03,
+      "audioText": "国防科技大学究竟有多牛牛在哪？"
+    },
+    {
+      "startTime": 22.43,
+      "endTime": 26.055,
+      "audioText": "今天阿波呢就带你一起来了解这所神秘的大学。"
+    },
+    {
+      "startTime": 26.93,
+      "endTime": 29.39,
+      "audioText": "国防科技大学号称是军中清华，"
+    },
+    {
+      "startTime": 29.69,
+      "endTime": 32.15,
+      "audioText": "也是我国唯一的九八五军校，"
+    },
+    {
+      "startTime": 32.55,
+      "endTime": 35.21,
+      "audioText": "是军校当中最顶尖的一个存在。"
+    },
+    {
+      "startTime": 35.49,
+      "endTime": 37.59,
+      "audioText": "能够考上国防科技大学的学生，"
+    },
+    {
+      "startTime": 37.75,
+      "endTime": 39.27,
+      "audioText": "绝非是等闲之辈。"
+    },
+    {
+      "startTime": 39.63,
+      "endTime": 42.93,
+      "audioText": "但是只要考上这所大学的军级学生，"
+    },
+    {
+      "startTime": 43.23,
+      "endTime": 44.01,
+      "audioText": "不用学费，"
+    },
+    {
+      "startTime": 44.29,
+      "endTime": 45.19,
+      "audioText": "不用住宿费，"
+    },
+    {
+      "startTime": 45.41,
+      "endTime": 46.93,
+      "audioText": "生活用品都不用买，"
+    },
+    {
+      "startTime": 47.05,
+      "endTime": 48.67,
+      "audioText": "而且还给你发工资。"
+    },
+    {
+      "startTime": 48.99,
+      "endTime": 50.17,
+      "audioText": "从开学第一天，"
+    },
+    {
+      "startTime": 50.43,
+      "endTime": 51.85,
+      "audioText": "只要你是军级学生，"
+    },
+    {
+      "startTime": 51.93,
+      "endTime": 54.05,
+      "audioText": "就开始算工龄和军龄，"
+    },
+    {
+      "startTime": 54.47,
+      "endTime": 55.85,
+      "audioText": "毕业后也不用愁，"
+    },
+    {
+      "startTime": 55.87,
+      "endTime": 56.69,
+      "audioText": "找不到工作。"
+    },
+    {
+      "startTime": 56.89,
+      "endTime": 61.335,
+      "audioText": "因为从这里顺利毕业的本科生就是军中少尉级别，"
+    },
+    {
+      "startTime": 62.07,
+      "endTime": 63.65,
+      "audioText": "考上北京清华大学，"
+    },
+    {
+      "startTime": 63.75,
+      "endTime": 65.93,
+      "audioText": "北京大学只需要一辈人的努力，"
+    },
+    {
+      "startTime": 66.09,
+      "endTime": 68.21,
+      "audioText": "但是想要考上国防科技大学，"
+    },
+    {
+      "startTime": 68.45,
+      "endTime": 70.47,
+      "audioText": "需要三辈人的共同努力。"
+    },
+    {
+      "startTime": 70.83,
+      "endTime": 73.89,
+      "audioText": "因为国防科技大学的政治审查非常严格，"
+    },
+    {
+      "startTime": 74.15,
+      "endTime": 77.01,
+      "audioText": "要祖上三辈人都干干净净才行。"
+    },
+    {
+      "startTime": 77.43,
+      "endTime": 78.55,
+      "audioText": "你可能还不知道吧？"
+    },
+    {
+      "startTime": 78.81,
+      "endTime": 80.59,
+      "audioText": "国防科技大学的前身，"
+    },
+    {
+      "startTime": 80.81,
+      "endTime": 83.65,
+      "audioText": "是中国人民解放军军事工程学院。"
+    },
+    {
+      "startTime": 83.93,
+      "endTime": 85.85,
+      "audioText": "因为其校长在哈尔滨，"
+    },
+    {
+      "startTime": 86.09,
+      "endTime": 88.37,
+      "audioText": "因此被俗称为哈军工。"
+    },
+    {
+      "startTime": 88.79,
+      "endTime": 93.735,
+      "audioText": "哈军工的建校初衷就是为了培养更多的军事科技学才。"
+    },
+    {
+      "startTime": 94.37,
+      "endTime": 95.17,
+      "audioText": "一九六九年，"
+    },
+    {
+      "startTime": 95.55,
+      "endTime": 97.31,
+      "audioText": "哈军工呢就开始了分流，"
+    },
+    {
+      "startTime": 97.67,
+      "endTime": 99.63,
+      "audioText": "有些专业分去了西安，"
+    },
+    {
+      "startTime": 99.79,
+      "endTime": 101.405,
+      "audioText": "并入了西北工业大学。"
+    },
+    {
+      "startTime": 101.93,
+      "endTime": 107.56,
+      "audioText": "有些专业呢并去了重庆组建了重庆工业大学学院的主体，"
+    },
+    {
+      "startTime": 107.8,
+      "endTime": 110.66,
+      "audioText": "包括院职领导机关四个系、"
+    },
+    {
+      "startTime": 110.98,
+      "endTime": 111.74,
+      "audioText": "火箭系、"
+    },
+    {
+      "startTime": 111.96,
+      "endTime": 112.64,
+      "audioText": "电子系、"
+    },
+    {
+      "startTime": 112.94,
+      "endTime": 115.34,
+      "audioText": "计算机系等及基层单位，"
+    },
+    {
+      "startTime": 115.44,
+      "endTime": 118.34,
+      "audioText": "迁到长沙组建了长沙工学院，"
+    },
+    {
+      "startTime": 118.7,
+      "endTime": 122.3,
+      "audioText": "二九七八年改建为国防科学技术大学。"
+    },
+    {
+      "startTime": 122.58,
+      "endTime": 123.5,
+      "audioText": "一九九九年，"
+    },
+    {
+      "startTime": 123.7,
+      "endTime": 125.52,
+      "audioText": "将长沙的炮兵学院、"
+    },
+    {
+      "startTime": 125.74,
+      "endTime": 129.06,
+      "audioText": "长沙工程兵学院和长沙政治学院，"
+    },
+    {
+      "startTime": 129.2,
+      "endTime": 131.16,
+      "audioText": "并入国防科技技术大学。"
+    },
+    {
+      "startTime": 131.42,
+      "endTime": 134.22,
+      "audioText": "二零一七年更名为国防科技大学。"
+    },
+    {
+      "startTime": 134.54,
+      "endTime": 139.66,
+      "audioText": "那么国防科技大学究竟有多牛一的第一任校长是开国大将，"
+    },
+    {
+      "startTime": 139.7,
+      "endTime": 143.26,
+      "audioText": "湖南人陈根在这里上学的学生只有两种，"
+    },
+    {
+      "startTime": 143.48,
+      "endTime": 144.58,
+      "audioText": "一种是军级，"
+    },
+    {
+      "startTime": 144.82,
+      "endTime": 146.08,
+      "audioText": "一种是非军级。"
+    },
+    {
+      "startTime": 146.54,
+      "endTime": 148.3,
+      "audioText": "在他们的共同努力下，"
+    },
+    {
+      "startTime": 148.48,
+      "endTime": 150.52,
+      "audioText": "国防科技大学的科技成果，"
+    },
+    {
+      "startTime": 150.7,
+      "endTime": 153.5,
+      "audioText": "放眼全世界都是神一般的存在。"
+    },
+    {
+      "startTime": 153.9,
+      "endTime": 159.44,
+      "audioText": "他们为国家研制出了我国自主设计的天河系列超级计算机系统。"
+    },
+    {
+      "startTime": 159.6,
+      "endTime": 167.75,
+      "audioText": "他有我们比较熟知的北斗卫星导航定位系统能够为全球用户提供全天候高精度的定位。"
+    },
+    {
+      "startTime": 167.99,
+      "endTime": 168.93,
+      "audioText": "如果战争来临，"
+    },
+    {
+      "startTime": 169.19,
+      "endTime": 172.83,
+      "audioText": "这些定位系统可以精确到敌人的坦克船只，"
+    },
+    {
+      "startTime": 173.27,
+      "endTime": 175.17,
+      "audioText": "发现敌人精准出击。"
+    },
+    {
+      "startTime": 175.47,
+      "endTime": 176.19,
+      "audioText": "不仅如此，"
+    },
+    {
+      "startTime": 176.55,
+      "endTime": 181.57,
+      "audioText": "他还为我国的两弹一星航天航空载人系统做出了巨大贡献，"
+    },
+    {
+      "startTime": 181.85,
+      "endTime": 186.35,
+      "audioText": "就连长沙的磁悬浮列车的技术都是来自于国防科技大学。"
+    },
+    {
+      "startTime": 186.69,
+      "endTime": 188.69,
+      "audioText": "他真正做到了中国速度，"
+    },
+    {
+      "startTime": 188.99,
+      "endTime": 189.83,
+      "audioText": "中国精度、"
+    },
+    {
+      "startTime": 190.11,
+      "endTime": 192.75,
+      "audioText": "中国高度能够在这里读书啊，"
+    },
+    {
+      "startTime": 192.75,
+      "endTime": 194.49,
+      "audioText": "就是把自己交给了国家。"
+    },
+    {
+      "startTime": 194.71,
+      "endTime": 199.89,
+      "audioText": "因为他承载的是一名军人的责任心和为国奉献的使命精神，"
+    },
+    {
+      "startTime": 200.37,
+      "endTime": 201.03,
+      "audioText": "关注阿波，"
+    },
+    {
+      "startTime": 201.27,
+      "endTime": 203.905,
+      "audioText": "让我们一起为祖国点赞。"
+    }
+  ],
+  "textVectors": []
+}

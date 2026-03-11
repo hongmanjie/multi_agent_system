@@ -1,0 +1,265 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 31.0,
+      "duration": 31.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_195/scene_image/scene_0.jpg",
+      "sceneSummary": "画面首先展示一名女新闻主播在演播室内播报新闻，背景为蓝色科技感图形与“朝闻天下”标识。随后切换至海上场景，从一艘舰艇的视角拍摄，远处可见两艘舰艇在波涛中航行，画面中可见舰艇的栏杆和部分设备，海面波光粼粼，天气晴朗。",
+      "smartRead": "新闻主播在演播室播报关于美国海军公布伊朗舰艇拦截美军船只的视频事件。画面随后切换至实际海上场景，显示伊朗伊斯兰革命卫队舰艇在波斯湾海域快速驶过美国海军海岸警卫队船只前方，导致美方船只紧急停车。根据语音内容，当天共有四艘伊朗舰艇参与拦截，另一艘美方船只也遭遇相同拦截方式。视觉画面与语音内容相辅相成，直观呈现了事件发生的海上环境和舰艇动态。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 10.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_195/face_image/person_0_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 7.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_195/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ship",
+      "tagValue": "船舶",
+      "tagTrack": [
+        {
+          "startTime": 19.0,
+          "endTime": 22.0
+        },
+        {
+          "startTime": 24.0,
+          "endTime": 31.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_195/object_image/ship_475.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "关切",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "震惊",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "海上",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军舰",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "波斯湾",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "国际关系",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "新闻报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "远景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "航拍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事冲突",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "国际事件",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "新闻播报",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实风格",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第三方视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "拦截",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "紧急停车",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "新闻主播在演播室播报新闻，背景为蓝色科技感图形和'CCTV 13 新闻'标志。地图显示波斯湾区域，标注'Persian Gulf'，并有新闻标题'美国海军公布伊朗舰艇拦截美军船只视频'。海上拍摄画面，远处可见两艘军舰在海面上，一艘为美军舰艇，另一艘为伊朗舰艇，画面模糊但可辨认舰船轮廓。",
+  "introSummary": "该视频为CCTV 13新闻频道播出的新闻报道，主要内容是美国海军公布伊朗伊斯兰革命卫队舰艇在波斯湾海域拦截美军舰艇的视频。事件发生在本月2号，伊朗四艘舰艇参与拦截，导致美军船只紧急停车。视频通过地图和海上实拍画面展示事件地点和过程，整体氛围紧张严肃，体现现代国际军事冲突的纪实风格。",
+  "keyPoints": [
+    "新闻播报: 播报员介绍美国海军公布伊朗舰艇拦截美军船只的视频事件。",
+    "地理定位: 视频事件发生地点为波斯湾海域，地图上明确标注区域。",
+    "拦截行为: 伊朗伊斯兰革命卫队舰艇从美军海岸警卫队船只正前方快速驶过，导致美方船只紧急停车。",
+    "多舰参与: 当天共有四艘伊朗舰艇参与拦截行动，另一艘美军船只也遭遇相同拦截方式。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "详细描述了美国海军公布的伊朗舰艇拦截美军船只的视频事件，包括拦截发生的时间、地点、舰艇数量及拦截方式。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"伊朗舰艇波斯湾拦截美军舰艇事件\",\n  \"children\": [\n    {\n      \"name\": \"事件背景与官方发布渠道\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"美国海军当地时间二十七号正式公布拦截视频\",\n          \"children\": [\n            { \"name\": \"事件发生时间：本月二号\" },\n            { \"name\": \"发布主体：美国海军官方\" },\n            { \"name\": \"事发地点：波斯湾海域\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"拦截行动具体过程描述\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"伊朗舰艇从美军船只正前方快速驶过导致停车\",\n          \"children\": [\n            { \"name\": \"具体拦截动作：快速驶过\" },\n            { \"name\": \"美方船只后果：紧急停车\" },\n            { \"name\": \"拦截方式：正前方拦截\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"参与拦截双方舰艇规模\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"媒体称当天共有四艘伊朗革命卫队舰艇参与行动\",\n          \"children\": [\n            { \"name\": \"伊朗方：四艘革命卫队舰艇\" },\n            { \"name\": \"美方：两艘海岸警卫队船只\" },\n            { \"name\": \"另一艘：遭遇同样拦截方式\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"新闻播报与实拍画面特征\",\n      \"collapse\": true,\n      \"children\": [\n        {\n          \"name\": \"演播室主播播报后切换至海上舰艇视角实拍场景\",\n          \"children\": [\n            { \"name\": \"初始场景：演播室主播播报\" },\n            { \"name\": \"拍摄视角：舰艇第一视角\" },\n            { \"name\": \"海面环境：晴朗波涛涌动\" }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.13,
+      "endTime": 1.15,
+      "audioText": "当地时间二十七号，"
+    },
+    {
+      "startTime": 1.15,
+      "endTime": 7.05,
+      "audioText": "美国海军公布了一段伊朗伊斯兰革命卫队舰艇在波斯湾海域拦截美军舰艇的视频。"
+    },
+    {
+      "startTime": 7.53,
+      "endTime": 8.35,
+      "audioText": "美国海军称，"
+    },
+    {
+      "startTime": 8.49,
+      "endTime": 11.17,
+      "audioText": "这起拦截事件发生在本月二号视频显示，"
+    },
+    {
+      "startTime": 11.35,
+      "endTime": 17.57,
+      "audioText": "其中一艘伊朗伊斯兰革命卫队舰艇从美国海军海岸警卫队船只正前方快速驶过，"
+    },
+    {
+      "startTime": 17.95,
+      "endTime": 19.91,
+      "audioText": "导致美方船只紧急停车。"
+    },
+    {
+      "startTime": 20.71,
+      "endTime": 22.27,
+      "audioText": "那么美国媒体称呢，"
+    },
+    {
+      "startTime": 22.27,
+      "endTime": 26.31,
+      "audioText": "当天共有四艘伊朗伊斯兰革命卫队舰艇参与了拦截行动。"
+    },
+    {
+      "startTime": 26.69,
+      "endTime": 30.475,
+      "audioText": "另外一艘美国海岸警卫队船只也以同样的方式被拦截。"
+    }
+  ],
+  "textVectors": []
+}

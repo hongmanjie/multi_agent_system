@@ -1,0 +1,186 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 74.17,
+      "duration": 74.17,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_1770363562469_1770363844_scene_0.jpg",
+      "sceneSummary": "视频片段以“哲学的猫”为主题，通过多张风格各异的猫咪插画展现不同情境下的猫咪形象与哲思表达。画面包含清醒与迷茫、快乐与无奈、认知与傲慢等主题，结合幽默与哲学元素，传递对自我认知、情绪状态及社会互动的思考。",
+      "smartRead": "视频以“为什么越自以为清醒的人”开篇，随后通过多幅猫咪插画展现不同情绪与哲理，如小猫的困惑、柴犬的反差、大脑的“充电”等，整体传递出对认知傲慢、情绪波动及社会角色差异的幽默反思，风格兼具哲思与趣味。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 75.0,
+      "endTime": 90.83,
+      "duration": 15.829999999999998,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_1770363562469_1770363844_scene_1.jpg",
+      "sceneSummary": "视频片段包含两个画面。第一个画面中，一只黑色小猫站立，表情呆萌，背景为白色方格纸，右下角标注“哲子的猫”，底部字幕为“未必是别人的良方”。第二个画面是一只橘色小猫，睁大眼睛、耳朵竖起，前爪抬起，显得无辜又无奈，背景同样为白色方格纸，右下角标注“哲学的猫”，底部字幕为“去承认我不懂”。整体风格简洁可爱，带有幽默和哲思意味。",
+      "smartRead": "视频通过两只不同颜色的小猫形象，传递出一种生活化的哲理思考。黑色小猫表现出“未必是别人的良方”的无奈，而橘色小猫则以“去承认我不懂”的姿态，展现出一种幽默的自我反思。画面简洁，风格可爱，传达出对知识与理解的调侃与思考。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "armored vehicle",
+      "tagValue": "装甲车",
+      "tagTrack": [
+        {
+          "startTime": 75.0,
+          "endTime": 77.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_1770363562469_1770363844_armored vehicle_2250.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "轻松幽默与哲思并存",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "无奈",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "困惑",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "自我接纳",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "黑白方格纸背景下的猫咪特写",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "哲学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "心理学",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "社会互动",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "当代艺术与社交媒体传播",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面特写，突出猫咪的表情与动作",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "自我认知",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "认知傲慢",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "情绪状态",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "简洁可爱",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "幽默哲思",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称或拟人化视角，赋予猫咪人类情感",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "猫咪的静态表现与字幕文字的结合",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频以‘哲学的猫’为主题，通过多张风格各异的猫咪插画展现不同情境下的猫咪形象与哲思表达。画面分为两个主要场景，第一个场景中，一只黑色小猫站立，表情呆萌，背景为白色方格纸，右下角标注‘哲子的猫’，底部字幕为‘未必是别人的良方’。第二个场景是一只橘色小猫，睁大眼睛、耳朵竖起，前爪抬起，显得无辜又无奈，背景同样为白色方格纸，右下角标注‘哲学的猫’，底部字幕为‘去承认我不懂’。",
+  "introSummary": "该视频以‘哲学的猫’为主题，通过两只不同颜色的猫咪形象，传达出对认知傲慢、情绪波动及社会角色差异的幽默反思。视频画面简洁、风格可爱，结合了哲思与趣味，使观众在轻松的氛围中思考复杂的问题。黑色小猫象征无奈与困惑，橘色小猫象征自我接纳与成长，二者共同表达了对自我认知与社会互动的深刻思考。整体通过视觉与字幕的结合，传递出一种既幽默又富有哲理的艺术表达方式，体现了当代艺术在哲学与大众文化之间的融合。",
+  "keyPoints": [
+    "视频通过猫咪形象传达哲理思考，如‘未必是别人的良方’和‘去承认我不懂’，反映对认知傲慢与自我反思的探讨。",
+    "画面中黑色小猫与橘色小猫分别代表不同的心理状态，黑色小猫象征无奈与困惑，橘色小猫象征无辜与自我接纳。",
+    "整体画面风格简洁、可爱，结合幽默与哲思，使观众在轻松氛围中思考复杂的社会与心理问题。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "哲子的猫：通过‘未必是别人的良方’这一字幕，表达对他人建议的怀疑与无奈，暗示认知的局限性。"
+    },
+    {
+      "speaker": "speaker_1",
+      "summary": "哲学的猫：通过‘去承认我不懂’这一字幕，强调自我认知的谦逊与成长，倡导接受未知与不完美。"
+    },
+    {
+      "speaker": "speaker_2",
+      "summary": "视频整体没有明确说话人，但通过字幕与画面语言传递出对自我认知、情绪状态和社会互动的深刻思考。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [],
+  "textVectors": []
+}

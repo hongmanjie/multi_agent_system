@@ -1,0 +1,229 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 30.0,
+      "duration": 30.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_201/scene_image/scene_0.jpg",
+      "sceneSummary": "一群身着迷彩服的士兵在红色塑胶跑道上列队行进，队伍前方有士兵手持蓝色旗帜，旗帜上有白色五角星图案。背景是一栋米黄色建筑，建筑外悬挂着土耳其国旗和索马里国旗。士兵们步伐整齐，部分士兵肩扛步枪，行进过程中保持肃穆姿态。跑道旁有少量观众或工作人员站立观看，远处可见部分军事装备或车辆。",
+      "smartRead": "尽管画面中士兵们整齐列队、步伐坚定，背景悬挂着索马里与土耳其国旗，暗示可能为两国联合军事活动或索马里军事训练场景，但语音内容却充满情绪化、非军事化的表达，如“我原来跌动的心呀”“只能索马里啊，你的爱”，明显与画面氛围不符。这可能表明语音为非现场录制或后期添加，内容与视觉场景无直接关联，属于情感抒发或艺术化表达，而非对当前军事行进的描述。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 29.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_201/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "混乱",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "情绪化",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军事基地",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "跑道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "建筑背景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "仪式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "平视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "远景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事行进",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "国旗展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "仪式感",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "旁观视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "列队行进",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "举旗",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "一群身着迷彩服的士兵在红色跑道上列队行进，队伍前方有士兵高举蓝底白星旗帜，背景是带有土耳其和索马里国旗的建筑，场面庄严肃穆。",
+  "introSummary": "视频呈现了一场军事仪式，士兵们在红色跑道上整齐行进，背景建筑悬挂土耳其与索马里国旗，显示两国军事合作或联合活动。画面庄重肃穆，拍摄角度为平视远景，突出纪律性和仪式感。同时，语音内容混乱，情绪化表达与视觉内容不符，可能为口误或情绪激动下的无意义语句。整体场景设定在现代白天的军事基地，主题聚焦于军事行进与国旗象征。",
+  "keyPoints": [
+    "士兵行进展示: 士兵们整齐划一地在跑道上行进，体现出军事纪律性和仪式感。",
+    "国旗象征: 前方士兵高举索马里国旗，背景建筑悬挂两国国旗，表明活动涉及两国军事合作或联合仪式。",
+    "场地环境: 红色塑胶跑道、背景建筑和远处的军事装备，暗示该场景为军事基地或训练场。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "说话内容混乱、情绪化，夹杂自我反思与情感表达，涉及对“索马里”和“爱”的提及，但语义不清，可能为口误或情绪激动下的无意义表达。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"视频视听内容深度解析\",\n  \"children\": [\n    {\n      \"name\": \"视觉场景特征深度分析\",\n      \"children\": [\n        {\n          \"name\": \"士兵身着迷彩服列队行进，背景悬挂两国国旗暗示联合活动\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"迷彩服士兵列队\"\n            },\n            {\n              \"name\": \"手持蓝色五角星旗\"\n            },\n            {\n              \"name\": \"土耳其与索马里旗\"\n            },\n            {\n              \"name\": \"肩扛步枪肃穆行进\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"语音内容情感深度解读\",\n      \"children\": [\n        {\n          \"name\": \"语音充满情绪化表达，提及索马里与爱，非军事化指令内容\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"情绪化非军事表达\"\n            },\n            {\n              \"name\": \"提及跌动的心呀\"\n            },\n            {\n              \"name\": \"只能索马里你的爱\"\n            },\n            {\n              \"name\": \"疑似后期添加配音\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"视听匹配矛盾深度分析\",\n      \"children\": [\n        {\n          \"name\": \"画面严肃军事场景与语音情感抒发不符，存在明显视听分离现象\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"画面氛围严肃坚定\"\n            },\n            {\n              \"name\": \"语音内容情感抒发\"\n            },\n            {\n              \"name\": \"两者无直接关联\"\n            },\n            {\n              \"name\": \"属于艺术化表达\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.42,
+      "endTime": 3.98,
+      "audioText": "他说我出去要看起来了啊，"
+    },
+    {
+      "startTime": 3.98,
+      "endTime": 6.165,
+      "audioText": "快点我还是我不对呀，"
+    },
+    {
+      "startTime": 6.82,
+      "endTime": 10.06,
+      "audioText": "不要哥哥，"
+    },
+    {
+      "startTime": 10.06,
+      "endTime": 11.685,
+      "audioText": "我原来跌动的心呀，"
+    },
+    {
+      "startTime": 12.25,
+      "endTime": 13.29,
+      "audioText": "我还说不快，"
+    },
+    {
+      "startTime": 13.29,
+      "endTime": 19.035,
+      "audioText": "要不一想撕下第二天盲流的泪，"
+    },
+    {
+      "startTime": 20.95,
+      "endTime": 22.29,
+      "audioText": "我还是不可以，"
+    },
+    {
+      "startTime": 22.65,
+      "endTime": 24.765,
+      "audioText": "只能索马里啊，"
+    },
+    {
+      "startTime": 25.81,
+      "endTime": 26.4,
+      "audioText": "你的爱。"
+    }
+  ],
+  "textVectors": []
+}

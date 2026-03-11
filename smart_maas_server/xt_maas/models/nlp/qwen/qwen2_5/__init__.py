@@ -1,0 +1,2 @@
+from .qwen2_5_transformer import Qwen2_5_TransformerModel
+from .qwen2_5_vllm import Qwen2_5_VllmModel

@@ -1,0 +1,335 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 20.83,
+      "duration": 20.83,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/scene_image/scene_0.jpg",
+      "sceneSummary": "",
+      "smartRead": ""
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 1.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_0_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_3",
+      "tagTrack": [
+        {
+          "startTime": 7.5,
+          "endTime": 10.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_3_225.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_4",
+      "tagTrack": [
+        {
+          "startTime": 7.5,
+          "endTime": 9.17
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_4_225.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_6",
+      "tagTrack": [
+        {
+          "startTime": 7.5,
+          "endTime": 9.17
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_6_225.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_7",
+      "tagTrack": [
+        {
+          "startTime": 8.33,
+          "endTime": 16.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_7_250.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_10",
+      "tagTrack": [
+        {
+          "startTime": 10.0,
+          "endTime": 12.5
+        },
+        {
+          "startTime": 14.17,
+          "endTime": 19.17
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_10_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_11",
+      "tagTrack": [
+        {
+          "startTime": 10.0,
+          "endTime": 11.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_11_300.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_14",
+      "tagTrack": [
+        {
+          "startTime": 13.33,
+          "endTime": 15.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_14_400.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_15",
+      "tagTrack": [
+        {
+          "startTime": 13.33,
+          "endTime": 17.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_15_400.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_17",
+      "tagTrack": [
+        {
+          "startTime": 17.5,
+          "endTime": 20.83
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_17_525.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_19",
+      "tagTrack": [
+        {
+          "startTime": 18.33,
+          "endTime": 20.83
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/face_image/person_19_550.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 20.83
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_206/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "正式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "权威",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "专业",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "新闻发布会",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军事指挥中心",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "室内会议厅",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "政府",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "媒体",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "2025年",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面平拍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "中景拍摄",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事指挥中心会议",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "官方信息发布",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "官方",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称视角（观众视角）",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "新闻发布会",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "官方发言准备",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了一个正式的新闻发布会场景，背景板上写有“2025年联合指挥中心会议”字样，多位身穿军装的军官站在讲台后，讲台上摆放着多个媒体机构的麦克风，包括伊拉克国家电视台、半岛电视台等。一名身穿蓝色西装的官员站在讲台右侧，似乎正在发言或准备发言，其他军官则站立在讲台两侧或后方，神情严肃。讲台前方有“伊拉克共和国联合行动指挥中心”的标识，背景中悬挂着伊拉克国旗，整个场景庄重、正式。",
+  "introSummary": "该视频记录了伊拉克共和国联合行动指挥中心于2025年举行的一场正式新闻发布会，现场布置庄重，多位高级军官与一名政府官员出席，讲台前聚集了大量媒体机构的麦克风，显示了对此次会议的高度关注。整个场景体现了军事与政府协作的权威性，以及官方信息发布的严肃性，拍摄视角为观众视角，以正面平拍为主，营造出专业、正式的纪实风格。",
+  "keyPoints": [
+    "新闻发布会设置: 讲台前摆放大量媒体麦克风，背景板显示“2025年联合指挥中心会议”，表明这是一个官方军事或政府信息发布场合。",
+    "人物组成: 多名身穿迷彩军装的高级军官与一名穿蓝色西装的官员站在讲台前，显示官方层级和媒体参与的正式性。",
+    "标识与象征: 讲台标有“伊拉克共和国联合行动指挥中心”，背景有伊拉克国旗，体现国家军事指挥体系的权威性。"
+  ],
+  "speakerSummaries": [],
+  "mindMap": "{\n  \"name\": \"视频内容深度分析结果\",\n  \"children\": [\n    {\n      \"name\": \"输入数据完整性检测状态\",\n      \"children\": [\n        {\n          \"name\": \"语音视觉及摘要内容均为空值，无法提取有效信息进行分析\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"语音内容缺失状态确认\"\n            },\n            {\n              \"name\": \"视觉画面数据完全缺失\"\n            },\n            {\n              \"name\": \"摘要文本信息未被提供\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"当前分析任务执行限制\",\n      \"children\": [\n        {\n          \"name\": \"缺乏核心素材导致无法生成具体思维导图分支与逻辑结构\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"无法构建核心逻辑维度\"\n            },\n            {\n              \"name\": \"无法提取关键视频数据\"\n            },\n            {\n              \"name\": \"无法生成层级分明结构\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"后续操作建议与执行方案\",\n      \"children\": [\n        {\n          \"name\": \"建议补充完整视频素材后重新提交进行分析任务以获得结果\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"补充完整语音转录文本\"\n            },\n            {\n              \"name\": \"提供详细视觉画面描述\"\n            },\n            {\n              \"name\": \"上传视频内容摘要信息\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [],
+  "textVectors": []
+}

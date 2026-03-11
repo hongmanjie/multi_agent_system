@@ -1,0 +1,305 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 17.5,
+      "duration": 17.5,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_219/scene_image/scene_0.jpg",
+      "sceneSummary": "视频展示了一架大型军用运输机“运二零”在机场跑道上滑行的场景。飞机从远处缓缓驶近，镜头跟随其移动，观众席上聚集了大量人群，通过护栏观看。飞机机翼从观众头顶划过，场面震撼。画面中飞机细节清晰可见，包括四个发动机、机翼结构和机身涂装，背景为机场建筑和开阔天空。",
+      "smartRead": "运二零运输机在跑道上缓缓滑行，逐渐靠近观众席，机翼从观众头顶掠过，带来震撼的近距离体验。根据语音描述，操作人员通过加大右侧发动机推力实现直角转弯，这一动作在视觉上被清晰呈现。观众席上人群密集，对飞机的近距离经过表现出浓厚兴趣。飞机滑行过程中，机翼划过头顶的瞬间尤为罕见，被形容为“肉眼可见的站立”，同时视频还提到飞机“带着一副滑稽的小表情”，暗示其姿态或动作在观众眼中显得生动有趣。整个过程结合了机械操作与视觉冲击，强化了观众的沉浸感。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 18.33,
+      "endTime": 29.17,
+      "duration": 10.840000000000003,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_219/scene_image/scene_1.jpg",
+      "sceneSummary": "一架大型军用运输机（运20）在机场跑道上缓慢滑行，机身庞大，四台发动机清晰可见，尾部舱门处于关闭状态。飞机正向临时停机位移动，背景为开阔的机场草地与远处的树木，画面中可见地面引导标识。飞机滑行过程中，尾部舱门开始同步向外展开，动作平稳。",
+      "smartRead": "运20飞机带着一副滑稽的小表情（视觉上可能指其机头或机身姿态），缓缓驶向临时停机位。滑行约两分半钟后抵达预定位置，随后开始执行操作——两侧尾舱门同步向外展开，为后续装卸任务做准备。这一过程体现了运20在机场的标准化作业流程，动作协调且高效。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "airplane",
+      "tagValue": "飞机",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 29.17
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_219/object_image/airplane_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.83,
+          "endTime": 3.33
+        },
+        {
+          "startTime": 10.0,
+          "endTime": 15.83
+        },
+        {
+          "startTime": 18.33,
+          "endTime": 20.83
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_219/object_image/person_25.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter armored vehicle",
+      "tagValue": "helicopter armored vehicle",
+      "tagTrack": [
+        {
+          "startTime": 8.33,
+          "endTime": 10.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_219/object_image/helicopter armored vehicle_250.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "热闹",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "兴奋",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "惊叹",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "喜爱",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "机场跑道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "临时停机位",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "观众围观区",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事航空",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "航空运输",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "近距离",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯拍",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "运-20展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事装备巡展",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "科普",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第一人称视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "滑行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "尾舱门展开",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了中国空军运-20大型运输机在机场滑行和停靠的全过程，观众在围栏后近距离观看并拍照。运-20从远处飞来，随后在跑道上缓缓滑行，机翼从观众头顶掠过，最后停靠在临时停机位并展开侧尾门。",
+  "introSummary": "视频以运-20大型运输机在机场滑行和停靠为主线，通过近距离展示和观众互动，突出了其庞大的体积和先进的技术。观众的兴奋和惊叹营造了热烈的氛围，同时通过纪实风格的拍摄，展现了现代军事航空领域的成就。",
+  "keyPoints": [
+    "运-20滑行展示: 运-20在跑道上缓慢滑行，机翼从观众头顶划过，这是罕见的近距离观赏体验。",
+    "观众互动: 大量观众聚集在围栏后，用手机拍摄运-20，表现出浓厚的兴趣和兴奋感。",
+    "尾舱门开启: 运-20抵达停机位后，两侧侧尾门同步向外展开，展示其后勤保障功能。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "详细描述了运-20的滑行过程、观众的反应以及尾舱门开启的细节，强调近距离观赏的罕见性和运-20的庞大体积。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"运二零近距离滑行全过程解析\",\n  \"children\": [\n    {\n      \"name\": \"机动操控与转弯技术解析\",\n      \"children\": [\n        {\n          \"name\": \"飞行员通过加大右侧发动机推力轻松实现直角转弯\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"右侧发动机推力加大操作\"\n            },\n            {\n              \"name\": \"轻松实现直角转弯动作\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"观众视角与视觉冲击体验\",\n      \"children\": [\n        {\n          \"name\": \"观众超近距离观看机翼从头顶划过实属罕见体验\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"肉眼可见的站立震撼感\"\n            },\n            {\n              \"name\": \"滑稽小表情姿态生动有趣\"\n            },\n            {\n              \"name\": \"人群密集护栏近距离观看\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"停机流程与舱门操作演示\",\n      \"children\": [\n        {\n          \"name\": \"滑行两分半后抵达临时停机位随后同步开启舱门\",\n          \"collapse\": true,\n          \"children\": [\n            {\n              \"name\": \"滑行总时长约两分半钟\"\n            },\n            {\n              \"name\": \"两侧侧尾门同步向外展开\"\n            },\n            {\n              \"name\": \"四台发动机细节清晰可见\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.15,
+      "endTime": 1.95,
+      "audioText": "加大右侧发动机的推力，"
+    },
+    {
+      "startTime": 2.01,
+      "endTime": 3.99,
+      "audioText": "即可轻松实现直角转弯。"
+    },
+    {
+      "startTime": 4.29,
+      "endTime": 7.23,
+      "audioText": "很快运二零开始缓缓驶向观众席。"
+    },
+    {
+      "startTime": 7.53,
+      "endTime": 8.17,
+      "audioText": "不得不说，"
+    },
+    {
+      "startTime": 8.35,
+      "endTime": 8.83,
+      "audioText": "如此，"
+    },
+    {
+      "startTime": 8.85,
+      "endTime": 9.97,
+      "audioText": "超近距离观看，"
+    },
+    {
+      "startTime": 9.99,
+      "endTime": 10.87,
+      "audioText": "运二零滑行，"
+    },
+    {
+      "startTime": 11.17,
+      "endTime": 13.63,
+      "audioText": "尤其是运二零机翼从头顶划过，"
+    },
+    {
+      "startTime": 13.79,
+      "endTime": 14.59,
+      "audioText": "实属罕见。"
+    },
+    {
+      "startTime": 14.81,
+      "endTime": 16.07,
+      "audioText": "肉眼可见的站立，"
+    },
+    {
+      "startTime": 16.149,
+      "endTime": 17.39,
+      "audioText": "紧接着运二零，"
+    },
+    {
+      "startTime": 17.41,
+      "endTime": 19.07,
+      "audioText": "带着一副滑稽的小表情，"
+    },
+    {
+      "startTime": 19.31,
+      "endTime": 21.23,
+      "audioText": "缓缓驶向临时停机位，"
+    },
+    {
+      "startTime": 21.53,
+      "endTime": 24.75,
+      "audioText": "滑行两分半后运二零抵达临时停机位，"
+    },
+    {
+      "startTime": 24.93,
+      "endTime": 26.61,
+      "audioText": "随后开始打开尾舱门，"
+    },
+    {
+      "startTime": 26.97,
+      "endTime": 29.515,
+      "audioText": "此时两侧的侧尾门同步向外展。"
+    }
+  ],
+  "textVectors": []
+}

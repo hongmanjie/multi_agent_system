@@ -1,0 +1,303 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 165.83,
+      "duration": 165.83,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_207/scene_image/scene_0.jpg",
+      "sceneSummary": "在户外开阔的绿色场地上，一排身着红色上衣和白色裤子的仪仗队成员整齐列队，手持长枪，保持立正姿势。一名身穿深色服装的指挥官站在队伍前方，面向队员。背景为茂密的树木和部分体育设施，场地地面为灰色水泥地，边缘有草地。整个画面呈现军事或仪仗表演的静态场景。",
+      "smartRead": "视频画面显示仪仗队列队整齐、持枪肃立，与语音内容中提及的“execution in an uniquid or riyval inspection”“the one of the other inspection”等军事检阅或仪式场景相呼应。尽管语音内容存在大量语义不清、错乱或无意义的词汇（如“lilimit feace”“lujill and humaor”“knife was rifle”等），但结合画面中仪仗队的严肃姿态和指挥官的站位，可推测语音可能在描述某种军事装备（如“rifle”）或检阅仪式的特殊性。语音中提及“high position of werepowith design mechanism adjustable for what televiation and wintage”“this knife was rifle”等语句，虽语义混乱，但可能意在强调武器性能或仪式中的技术细节，与画面中仪仗队持枪姿态形成视觉与听觉的关联。整体上，画面与语音虽不完全匹配，但场景氛围与军事检阅主题一致。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 166.67,
+      "endTime": 181.67,
+      "duration": 15.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_207/scene_image/scene_1.jpg",
+      "sceneSummary": "一群身着红色上衣、白色裤子和黑色帽子的仪仗队成员整齐列队站在户外的水泥地面上，每人手持步枪，保持立正姿势。背景是绿色草坪、树木和远处的建筑物，右侧可见带有“#INTRAPAL 2021”字样的标语牌。画面中无明显动作变化，整体氛围庄重、有序。",
+      "smartRead": "尽管画面中仪仗队成员保持静止、庄重的列队姿态，与“今天边没复工”（可能指“今天没复工”）的语音内容在语义上无直接关联，但可推测该语音可能为非正式语境下的随意发言或背景杂音，与视频内容无关。视频场景本身呈现的是正式的仪仗队活动，与“复工”等日常事务无视觉或语义关联。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 181.67
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_207/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "纪律",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "专注",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "户外",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "操场",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "仪仗队",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "礼仪训练",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "远景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "平视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事训练",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "仪仗队展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "正式",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "旁观者视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "列队",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "接受指令",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了一队身着红白制服的仪仗队成员在户外场地上列队站立，背景是绿树成荫的公园和看台，一名指挥官站在前方指挥。画面中仪仗队成员保持整齐划一的姿势，似乎正在进行军事或礼仪训练。",
+  "introSummary": "视频记录了一支仪仗队在户外进行军事或礼仪训练的场景，成员身着统一制服，整齐列队，接受指挥官的引导。画面氛围庄重严肃，拍摄角度为远景平视，背景为公园或学校操场，整体风格纪实且正式。语音内容无法理解，可能为录音错误或干扰。",
+  "keyPoints": [
+    "仪仗队列队训练: 仪仗队成员穿着统一制服，整齐排列在开阔场地上，接受指挥官的指令。",
+    "户外军事训练场景: 训练场地为开阔的水泥地面，周围有绿树和看台，背景显示为公园或学校操场。",
+    "指挥官引导: 一名指挥官站在队伍前方，通过手势或口令指挥队员，维持队列纪律。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "语音内容混乱且包含大量无意义或错误拼写的词语，无法提取实质性观点。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"军事仪仗队检阅场景深度解析\",\n  \"children\": [\n    {\n      \"name\": \"视觉场景核心特征分析\",\n      \"children\": [\n        {\n          \"name\": \"仪仗队成员着装统一整齐，手持步枪列队肃立\",\n          \"collapse\": true,\n          \"children\": [\n            { \"name\": \"红色上衣搭配白色裤子\" },\n            { \"name\": \"黑色帽子配合持枪姿态\" }\n          ]\n        },\n        {\n          \"name\": \"户外场地背景开阔自然，设有特定活动标识牌\",\n          \"collapse\": true,\n          \"children\": [\n            { \"name\": \"灰色水泥地边缘连接草地\" },\n            { \"name\": \"标识牌显示 INTRAPAL 2021 字样\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"语音内容识别与语义推断\",\n      \"children\": [\n        {\n          \"name\": \"语音识别存在大量错乱内容，含军事相关词汇\",\n          \"collapse\": true,\n          \"children\": [\n            { \"name\": \"提及 inspection 与 rifle 词汇\" },\n            { \"name\": \"语义不清难以连贯理解内容\" }\n          ]\n        },\n        {\n          \"name\": \"部分中文字句疑似背景杂音或无关日常对话\",\n          \"collapse\": true,\n          \"children\": [\n            { \"name\": \"没什么问题属于日常用语\" },\n            { \"name\": \"今天边没复工属无关事务\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"视听综合关联与结论总结\",\n      \"children\": [\n        {\n          \"name\": \"画面庄重正式与语音混乱内容形成明显反差\",\n          \"collapse\": true,\n          \"children\": [\n            { \"name\": \"视觉主导军事检阅核心主题\" },\n            { \"name\": \"语音可能为非正式环境录音\" }\n          ]\n        },\n        {\n          \"name\": \"核心信息主要依托视觉画面呈现仪仗队状态\",\n          \"collapse\": true,\n          \"children\": [\n            { \"name\": \"指挥官站位前方进行指挥\" },\n            { \"name\": \"整体氛围有序肃穆且静止\" }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 2.45,
+      "endTime": 4.37,
+      "audioText": " and now leis in journaliy，"
+    },
+    {
+      "startTime": 4.43,
+      "endTime": 11.145,
+      "audioText": " it does order breathin witness the different kind of execution in an uniquid or riyval inspection，"
+    },
+    {
+      "startTime": 22.77,
+      "endTime": 24.205,
+      "audioText": " one life inspecial。"
+    },
+    {
+      "startTime": 24.93,
+      "endTime": 26.15,
+      "audioText": " the one of the other inspection，"
+    },
+    {
+      "startTime": 26.49,
+      "endTime": 29.53,
+      "audioText": " they give more hibal weakness from the vidence of the philippine，"
+    },
+    {
+      "startTime": 29.53,
+      "endTime": 30.35,
+      "audioText": " an of polisy，"
+    },
+    {
+      "startTime": 30.35,
+      "endTime": 43.1,
+      "audioText": " getting it takes a lot of vitience in sacrifice to be able to perform the lilimit feace of the lujill and humaor performs in the 广 ber position in jermany zero。"
+    },
+    {
+      "startTime": 43.2,
+      "endTime": 45.08,
+      "audioText": " and one go and rifle in beer。"
+    },
+    {
+      "startTime": 45.68,
+      "endTime": 47.96,
+      "audioText": " exceptional binning manifests 也没，"
+    },
+    {
+      "startTime": 47.96,
+      "endTime": 48.32,
+      "audioText": "该不行，"
+    },
+    {
+      "startTime": 48.32,
+      "endTime": 49.015,
+      "audioText": "没什么问题。"
+    },
+    {
+      "startTime": 49.85,
+      "endTime": 55.295,
+      "audioText": " this joore in evible bodies show that they can respeend the hurch funder，"
+    },
+    {
+      "startTime": 55.85,
+      "endTime": 58.445,
+      "audioText": " the straliing bird of the heavy y life。"
+    },
+    {
+      "startTime": 70.35,
+      "endTime": 72.87,
+      "audioText": " the US reforgot got a didity ty point one，"
+    },
+    {
+      "startTime": 72.87,
+      "endTime": 73.35,
+      "audioText": " otherwise，"
+    },
+    {
+      "startTime": 73.35,
+      "endTime": 88.945,
+      "audioText": " on a cigarette is especific in venture weweapan against orperate soldier weapon 年度 seming automatic elll feeding and effect of k trunms were in the eticartage is expelled after the last round。"
+    },
+    {
+      "startTime": 89.59,
+      "endTime": 98.23,
+      "audioText": " this ririfle is considered as a high position of werepowith design mechanism adjustable for what televiation and wintage。"
+    },
+    {
+      "startTime": 98.41,
+      "endTime": 102.685,
+      "audioText": " hence this rifle is also nown as this knife was rifle。"
+    },
+    {
+      "startTime": 141.14,
+      "endTime": 142.425,
+      "audioText": " when this drick was five，"
+    },
+    {
+      "startTime": 143.22,
+      "endTime": 146.035,
+      "audioText": " think that it cautiis generaagreenergy in repression，"
+    },
+    {
+      "startTime": 146.52,
+      "endTime": 160.335,
+      "audioText": " ok ty thousand thousand experthday against 应倒是我就是这么说，"
+    },
+    {
+      "startTime": 173.4,
+      "endTime": 176.975,
+      "audioText": " making it guess or breait 今天边没复工。"
+    }
+  ],
+  "textVectors": []
+}

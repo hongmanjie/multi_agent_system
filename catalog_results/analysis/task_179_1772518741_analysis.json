@@ -1,0 +1,396 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 73.0,
+      "duration": 73.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_200/scene_image/scene_0.jpg",
+      "sceneSummary": "视频片段首先展示了一位身穿西装、佩戴眼镜的新闻主播，背景为蓝色渐变图形，屏幕下方显示新闻标题和时间信息。随后画面切换至俄罗斯外交部长拉夫罗夫的采访镜头，他身着深色西装，佩戴领带和胸针，背景为带有花纹的墙面。接着画面切换至莫斯科克里姆林宫的钟楼和城墙，天空晴朗，云层稀薄，建筑在阳光下清晰可见。",
+      "smartRead": "视频内容围绕俄罗斯外交部长拉夫罗夫对当前俄美关系的评论展开。在新闻主播的开场画面中，屏幕文字提示“俄美关系继续下滑的根源在于美国”，随后画面转至拉夫罗夫的采访镜头，他明确表示俄美关系持续恶化，根源在于美国政府的政策延续性。拉夫罗夫指出，尽管奥巴马政府离任前俄美关系已开始恶化，特朗普政府曾表示愿改善关系，但实际却对俄实施多轮制裁。他特别提到，拜登政府上台后，他曾与美国国务卿布林肯通话，结果却是美国对俄实施新一轮制裁，这令俄罗斯方面感到意外。画面最后切换至克里姆林宫钟楼，作为俄罗斯政治权力象征，强化了新闻内容的严肃性和地域背景。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 74.0,
+      "endTime": 98.0,
+      "duration": 24.0,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_200/scene_image/scene_1.jpg",
+      "sceneSummary": "画面首先展示俄罗斯克里姆林宫的红色砖墙和标志性建筑，包括斯巴斯克塔楼和飘扬的俄罗斯国旗，游客在城墙顶部行走观光。随后镜头切换至一栋高大的现代建筑，前方有光秃的树木和一盏复古路灯，建筑外悬挂着美国国旗，画面文字标注“俄罗斯驻美国大使馆”。",
+      "smartRead": "画面展示俄罗斯克里姆林宫及美国驻俄大使馆，与语音内容相呼应，反映美俄两国在外交层面的紧张关系。语音提到美国以俄罗斯网络攻击和干预选举为由实施制裁并驱逐俄外交人员，俄罗斯则以驱逐美外交人员作为回应，画面中两国标志性外交建筑的呈现，强化了当前美俄对抗加剧的背景。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "face",
+      "tagValue": "person_0",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 13.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_200/face_image/person_0_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "face",
+      "tagValue": "person_1",
+      "tagTrack": [
+        {
+          "startTime": 43.0,
+          "endTime": 69.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_200/face_image/person_1_1075.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 13.0
+        },
+        {
+          "startTime": 74.0,
+          "endTime": 76.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_200/object_image/person_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "担忧",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "批判",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "新闻演播室",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "大使馆外景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "国际关系",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "外交政策",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事合作",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "网络安全部门",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "正面",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "远景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "美俄关系恶化",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "外交制裁",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "国际政治冲突",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "新闻报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "严肃纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "新闻播报视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "实施制裁",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "驱逐外交人员",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "新闻主播在演播室播报新闻，背景为蓝色调的城市景观。俄罗斯外交部长拉夫罗夫在室内接受采访，背景为花纹墙纸。美国驻俄罗斯大使馆外景，建筑上有美国国徽，门口设有监控设备和护栏。",
+  "introSummary": "视频主要报道了俄罗斯外交部长拉夫罗夫对当前俄美关系恶化的分析，指出其根源在于美国政策延续，拜登政府上台后未改变对俄立场，反而实施新一轮制裁。美俄在多个领域存在严重分歧，导致关系持续紧张。视频通过新闻播报和相关场景展示，呈现了国际政治冲突的现状。",
+  "keyPoints": [
+    "俄美关系持续下滑，根源在于美国政策延续。",
+    "拜登政府上台后，美俄关系未见改善，反而实施新一轮制裁。",
+    "美俄在军控领域有有限合作，但在乌克兰、网络安全、人权、选举等问题上分歧加剧。",
+    "美国以俄罗斯网络攻击和干预选举为由，对俄实施大规模制裁并驱逐俄外交人员。",
+    "俄罗斯回应驱逐十名美国驻俄外交人员。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "俄罗斯外交部长拉夫罗夫表示，俄美关系下滑的根源在于美国政策延续，拜登政府未改变对俄立场。"
+    },
+    {
+      "speaker": "发言人1",
+      "summary": "拉夫罗夫指出，奥巴马政府后期俄美关系恶化，特朗普政府实施多轮制裁，拜登政府上台后仍延续制裁政策。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"俄美关系持续下滑根源解析\",\n  \"children\": [\n    {\n      \"name\": \"俄外长核心观点阐述\",\n      \"children\": [\n        {\n          \"name\": \"俄罗斯外长明确指出关系下滑根源在于美方政策延续性\",\n          \"children\": [\n            {\n              \"name\": \"拜登政府延续前两届政策\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"奥巴马离任前关系已恶化\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"特朗普执政后实施多轮制裁\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"近期外交互动与制裁\",\n      \"children\": [\n        {\n          \"name\": \"拜登就职后拉夫罗夫通话意外引发美国新一轮制裁\",\n          \"children\": [\n            {\n              \"name\": \"美指控俄网络袭击干预选举\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"美驱逐十名俄外交人员\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"俄驱逐十名美外交人员回应\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"双方分歧与合作领域\",\n      \"children\": [\n        {\n          \"name\": \"双方在军控领域实现有限合作但多处存在明显分歧\",\n          \"children\": [\n            {\n              \"name\": \"乌克兰问题上存在分歧\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"网络安全领域存在争议\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"人权与干预选举问题\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"视觉符号与场景隐喻\",\n      \"children\": [\n        {\n          \"name\": \"克里姆林宫与大使馆画面强化双方外交对抗背景\",\n          \"children\": [\n            {\n              \"name\": \"新闻主播蓝色背景开场\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"拉夫罗夫采访镜头展示\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"克里姆林宫钟楼象征\",\n              \"collapse\": true\n            },\n            {\n              \"name\": \"俄罗斯驻美国大使馆\",\n              \"collapse\": true\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.44,
+      "endTime": 4.42,
+      "audioText": "二十七号俄罗斯外交部长拉夫罗夫接受俄新社采访时表示，"
+    },
+    {
+      "startTime": 4.7,
+      "endTime": 6.44,
+      "audioText": "俄美关系仍在继续下滑，"
+    },
+    {
+      "startTime": 6.58,
+      "endTime": 7.82,
+      "audioText": "其根源在于美方，"
+    },
+    {
+      "startTime": 8.2,
+      "endTime": 12.055,
+      "audioText": "因为拜登政府仍在延续前两届美国政府的对俄政策。"
+    },
+    {
+      "startTime": 14.6,
+      "endTime": 15.4,
+      "audioText": "拉夫罗夫说，"
+    },
+    {
+      "startTime": 15.7,
+      "endTime": 19.58,
+      "audioText": "俄美关系在奥巴马政府即将离任之前就开始恶化。"
+    },
+    {
+      "startTime": 20.02,
+      "endTime": 23.22,
+      "audioText": "而当时特朗普团队表示愿意改善俄美关系。"
+    },
+    {
+      "startTime": 23.58,
+      "endTime": 25.36,
+      "audioText": "但是在特朗普政府执政后，"
+    },
+    {
+      "startTime": 25.52,
+      "endTime": 28.325,
+      "audioText": "俄罗斯等到的却是一轮又一轮的制裁。"
+    },
+    {
+      "startTime": 29.11,
+      "endTime": 29.87,
+      "audioText": "拉夫罗夫说，"
+    },
+    {
+      "startTime": 30.15,
+      "endTime": 32.23,
+      "audioText": "在拜登政府宣誓就职之后，"
+    },
+    {
+      "startTime": 32.41,
+      "endTime": 36.99,
+      "audioText": "他曾和美国国务卿布林肯通电话令俄罗斯方面意外的是，"
+    },
+    {
+      "startTime": 37.21,
+      "endTime": 48.64,
+      "audioText": "这次通话的结果就是美国实施新一轮对俄罗斯的制裁 namscazelin an asmeddicanski e because i used so II new II would ded i city yours in the absorbat nshinney。"
+    },
+    {
+      "startTime": 48.64,
+      "endTime": 50.96,
+      "audioText": " so i see you like she do，"
+    },
+    {
+      "startTime": 50.96,
+      "endTime": 53.675,
+      "audioText": " which that we talk about about what was get worof nonobious i you ban yet。"
+    },
+    {
+      "startTime": 54.18,
+      "endTime": 54.3,
+      "audioText": " no，"
+    },
+    {
+      "startTime": 54.3,
+      "endTime": 55.74,
+      "audioText": " i talk about about about to go over of stulling。"
+    },
+    {
+      "startTime": 55.74,
+      "endTime": 55.86,
+      "audioText": " no，"
+    },
+    {
+      "startTime": 55.86,
+      "endTime": 57.56,
+      "audioText": " why sancit got with lutionally？"
+    },
+    {
+      "startTime": 58.02,
+      "endTime": 60.14,
+      "audioText": " he can yeyes not as night and ccatalm。"
+    },
+    {
+      "startTime": 60.14,
+      "endTime": 69.69,
+      "audioText": " the winner ws nearby activity was raare 美。"
+    },
+    {
+      "startTime": 69.69,
+      "endTime": 72.99,
+      "audioText": "俄关系近来持续紧张拜登政府上台以来，"
+    },
+    {
+      "startTime": 73.11,
+      "endTime": 75.73,
+      "audioText": "双方在军控领域实现有限合作，"
+    },
+    {
+      "startTime": 76.03,
+      "endTime": 77.81,
+      "audioText": "但在乌克兰网络安全、"
+    },
+    {
+      "startTime": 78.05,
+      "endTime": 80.93,
+      "audioText": "人权干预选举等问题上分歧明显，"
+    },
+    {
+      "startTime": 81.13,
+      "endTime": 82.095,
+      "audioText": "对抗加剧。"
+    },
+    {
+      "startTime": 82.83,
+      "endTime": 85.87,
+      "audioText": "美国政府十五号以俄罗斯进行网络袭击，"
+    },
+    {
+      "startTime": 86.03,
+      "endTime": 88.25,
+      "audioText": "干预美国选举等恶意活动为由，"
+    },
+    {
+      "startTime": 88.39,
+      "endTime": 90.47,
+      "audioText": "对俄罗斯实施大规模制裁，"
+    },
+    {
+      "startTime": 90.59,
+      "endTime": 92.61,
+      "audioText": "并驱逐十名俄外交人员。"
+    },
+    {
+      "startTime": 93.23,
+      "endTime": 98.675,
+      "audioText": "俄罗斯外交部二十一号宣布驱逐十名美国驻俄外交人员作为回应。"
+    }
+  ],
+  "textVectors": []
+}

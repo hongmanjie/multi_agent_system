@@ -1,0 +1,300 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 9.0,
+      "duration": 9.0,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_23_1770262330_scene_0.jpg",
+      "sceneSummary": "视频片段展示一架军用飞机的底部视角，机身呈深绿色，可见起落架和机翼结构。画面左上角有红色五角星标志，下方为“央视军事”字样，背景为浅灰色天空，整体突出飞机飞行时的细节与军事氛围。",
+      "smartRead": "视频画面为一架军用飞机的底部视角，机身深绿，可见起落架和机翼结构，左上角有红色五角星标志，下方标注“央视军事”，背景为浅灰天空，整体展现飞机飞行状态下的细节，突出军事题材的视觉呈现。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 10.0,
+      "endTime": 29.0,
+      "duration": 19.0,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_23_1770262330_scene_1.jpg",
+      "sceneSummary": "视频片段显示两架灰色隐形战斗机在空中编队飞行，机翼和机身带有迷彩涂装，背景为灰蒙蒙的天空。画面左上角有红色五角星和“央视军事”字样，表明内容为央视军事频道拍摄的军事展示或演习画面，整体呈现军事力量展示的氛围。",
+      "smartRead": "视频中两架灰色隐形战斗机以编队形式在空中飞行，机翼和机身带有迷彩涂装，背景为灰白色天空，画面左上角标注“央视军事”，显示为央视拍摄的军事展示或演习画面，整体氛围紧张而壮观。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 30.0,
+      "endTime": 42.0,
+      "duration": 12.0,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_23_1770262330_scene_2.jpg",
+      "sceneSummary": "视频片段展现一架战斗机在空中倾斜飞行，尾部喷出白色尾焰，充满动感与力量感。画面左上角有红色五角星标志和“央视军事”字样，背景为浅灰色天空，突出战斗机作为视觉焦点，呈现军事题材的震撼氛围。",
+      "smartRead": "视频中一架战斗机以倾斜姿态飞行，尾焰清晰可见，展现飞行动态与力量感。画面左上角标注“央视军事”，表明内容来源，整体呈现军事题材的视觉冲击力，配合央视官方标识，强化权威性与专业性。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "airplane",
+      "tagValue": "飞机",
+      "tagTrack": [
+        {
+          "startTime": 0.0,
+          "endTime": 41.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_23_1770262330_airplane_0.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "helicopter",
+      "tagValue": "直升机",
+      "tagTrack": [
+        {
+          "startTime": 10.0,
+          "endTime": 19.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_23_1770262330_helicopter_250.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "权威",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "震撼",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "庄重",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "飞行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "编队",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "倾斜飞行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "空军",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "国防",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "高科技",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "信息化",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "底部视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "高空视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "倾斜视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "军事展示",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "国防力量",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "空军实力",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "专业",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "权威",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "科技感",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "官方",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "央视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "军事视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "飞行",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "编队",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "喷射尾焰",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频片段以底部视角展示一架军用飞机，机身呈深绿色，可见起落架和机翼结构，画面左上角有红色五角星标志和‘央视军事’字样，背景为浅灰色天空，整体突出飞机飞行时的细节与军事氛围。",
+  "introSummary": "该视频通过多个镜头展示了中国空军的现代化装备和飞行姿态，突出了军事力量的科技感与专业性。视频以央视军事频道为背景，强调了官方权威性和军事展示的严肃氛围。画面中战斗机多采用迷彩涂装和编队飞行，展现出现代战争中的隐身技术和集体作战能力，同时通过动态飞行和尾焰效果增强了视觉冲击力。视频整体呈现出一种紧张、庄重且震撼的氛围，旨在展示中国空军的实力与科技水平，强化国防形象。",
+  "keyPoints": [
+    "视频通过多个视角展现了不同类型的军用飞机，突出了军事题材的视觉冲击力和专业性。",
+    "画面中多次出现‘央视军事’标识和红色五角星标志，强调了内容的权威性和官方性质。",
+    "视频中的战斗机多采用迷彩涂装和编队飞行方式，表现出现代军事力量的科技感和组织性。",
+    "画面背景多为灰白色或浅灰色天空，营造出冷静、严肃的氛围，增强军事题材的表现力。",
+    "战斗机飞行姿态多样，如倾斜飞行、喷射尾焰等，增强了动态感和视觉张力。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "央视军事频道通过镜头语言和画面设计，展示中国空军的现代化装备和战术动作，传递出国家军事力量的强大与专业。"
+    },
+    {
+      "speaker": "speaker_1",
+      "summary": "视频中通过战斗机的编队飞行和迷彩涂装，体现出现代战争中隐身技术和集体作战的重要性，强调军事科技的发展。"
+    },
+    {
+      "speaker": "speaker_2",
+      "summary": "画面中战斗机的动态飞行和尾焰效果，展示了空军在实战或演习中的高速、高机动性，强化了军事力量的震撼力。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [],
+  "textVectors": []
+}

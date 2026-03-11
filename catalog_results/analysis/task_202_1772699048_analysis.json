@@ -1,0 +1,253 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 23.33,
+      "duration": 23.33,
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_223/scene_image/scene_0.jpg",
+      "sceneSummary": "画面呈现军事演习场景，多辆军用车辆在尘土飞扬的野外环境中高速行进，车体扬起大量尘土，背景为开阔的荒地或训练场。镜头视角从一辆军车的驾驶舱或炮塔位置拍摄，前方可见另一辆装甲车在尘雾中行驶，整体画面充满动态感和战场氛围。",
+      "smartRead": "根据语音内容，演习模拟恐怖武装无人机飞临作战地域上空进行战术侦察，联合反恐部队在指挥部指挥下，电子战部队对敌方无人机通信信道实施电磁压制，掩护地面部队展开行动。画面中军用车辆在尘土弥漫的野外高速机动，与语音描述的“火力打击、阵地防御和战术反击”等作战阶段相呼应，体现无人机持续威胁下地面部队的协同作战与机动部署，强化了实战对抗氛围。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "tank",
+      "tagValue": "坦克",
+      "tagTrack": [
+        {
+          "startTime": 0.83,
+          "endTime": 2.5
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_223/object_image/tank_25.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "airplane",
+      "tagValue": "飞机",
+      "tagTrack": [
+        {
+          "startTime": 3.33,
+          "endTime": 5.0
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_223/object_image/airplane_100.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 7.5,
+          "endTime": 13.33
+        }
+      ],
+      "imageUrl": "http://192.168.86.113:9900/video-lake/catalog_data_v3/resource_223/object_image/person_225.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "紧张",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "实战化",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "严肃",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "专注",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "军事演习",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "野外战场",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "军事",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "反恐作战",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "现代",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "远景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "中景",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "联合反恐",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "反无人机作战",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "纪实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "军事报道",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "第三方旁观视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "战术侦察",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "电磁压制",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "火力打击",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频展示了军事演习的场景，首先呈现的是军事人员在帐篷内进行战术讨论，随后切换到沙尘弥漫的野外，多辆装甲车和坦克在尘土飞扬的环境中快速行进，场面紧张有序。",
+  "introSummary": "该视频报道了“和平使命-2021”上合组织联合反恐军事演习中的第三次实弹合练，重点展示了反无人机作战的全过程。演习中，恐怖武装无人机在作战地域上空实施侦察，电子战部队立即对其进行电磁压制，掩护地面部队展开行动。整个过程在白天进行，拍摄角度涵盖远景和中景，营造出紧张、严肃的实战氛围，突出现代军事反恐作战中的高科技对抗和多阶段协同作战。",
+  "keyPoints": [
+    "无人机战术侦察: 恐怖武装无人机飞临作战地域上空执行战术侦察任务。",
+    "电子战压制: 电子战部队对敌方无人机通信信道实施电磁压制，掩护地面部队。",
+    "多阶段作战: 火力打击、阵地防御和战术反击等阶段中，无人机持续存在并干扰作战进程。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "发言人0",
+      "summary": "描述了无人机在演习中实施侦察、电子战部队进行压制、以及地面部队在多个作战阶段应对无人机威胁的全过程。"
+    }
+  ],
+  "mindMap": "{\n  \"name\": \"联合反恐演习实战解析\",\n  \"children\": [\n    {\n      \"name\": \"演习背景与威胁模拟\",\n      \"children\": [\n        {\n          \"name\": \"恐怖武装无人机飞临作战地域上空实施战术侦察\",\n          \"children\": [\n            { \"name\": \"威胁来源：恐怖武装无人机\" },\n            { \"name\": \"行动目的：实施战术侦察\" },\n            { \"name\": \"持续状态：始终如影随形\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"指挥控制与电子对抗\",\n      \"children\": [\n        {\n          \"name\": \"联合反恐战役集群指挥部指挥电子战部队实施电磁压制\",\n          \"children\": [\n            { \"name\": \"指挥主体：联合反恐战役集群\" },\n            { \"name\": \"对抗手段：电磁压制通信信道\" },\n            { \"name\": \"战术目标：掩护地面部队展开\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"地面作战与机动部署\",\n      \"children\": [\n        {\n          \"name\": \"军用车辆在尘土飞扬的野外环境中高速行进展开行动\",\n          \"children\": [\n            { \"name\": \"作战阶段：火力打击与阵地防御\" },\n            { \"name\": \"战术动作：战术反击与机动部署\" },\n            { \"name\": \"视觉特征：尘土飞扬高速行进\" }\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"实战氛围与协同作战\",\n      \"children\": [\n        {\n          \"name\": \"无人机持续威胁下地面部队协同作战强化实战对抗氛围\",\n          \"children\": [\n            { \"name\": \"核心关系：空地协同作战\" },\n            { \"name\": \"环境氛围：动态感战场氛围\" },\n            { \"name\": \"拍摄视角：驾驶舱或炮塔位置\" }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "audioSegments": [
+    {
+      "startTime": 0.27,
+      "endTime": 5.13,
+      "audioText": "演练开始恐怖武装无人机飞临作战地域上空实施战术侦察。"
+    },
+    {
+      "startTime": 5.51,
+      "endTime": 8.35,
+      "audioText": "在联合反恐战役集群指挥部的指挥下，"
+    },
+    {
+      "startTime": 8.49,
+      "endTime": 12.71,
+      "audioText": "部署在阵地后方的电子战部队立即对敌无人机通信信道，"
+    },
+    {
+      "startTime": 12.77,
+      "endTime": 13.91,
+      "audioText": "实施电磁压制，"
+    },
+    {
+      "startTime": 14.11,
+      "endTime": 15.53,
+      "audioText": "掩护地面部队展开。"
+    },
+    {
+      "startTime": 16.11,
+      "endTime": 17.69,
+      "audioText": "在接下来的火力打击、"
+    },
+    {
+      "startTime": 17.75,
+      "endTime": 18.07,
+      "audioText": "阵地、"
+    },
+    {
+      "startTime": 18.07,
+      "endTime": 20.61,
+      "audioText": "防御和战术反击等各个作战阶段，"
+    },
+    {
+      "startTime": 20.99,
+      "endTime": 23.635,
+      "audioText": "恐怖武装无人机始终如影随形。"
+    }
+  ],
+  "textVectors": []
+}

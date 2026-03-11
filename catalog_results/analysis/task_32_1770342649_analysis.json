@@ -1,0 +1,345 @@
+{
+  "sceneSegments": [
+    {
+      "sceneId": 0,
+      "startTime": 0.0,
+      "endTime": 31.52,
+      "duration": 31.52,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_scene_0.jpg",
+      "sceneSummary": "视频片段展现了一个铁路场站的多个场景，时间跨度从2025年7月13日至18日。画面中均有平行或交错的铁轨，碎石道床，部分区域有红色道砟，背景包含白色围墙、低矮建筑物、绿植及树木。场景整体安静、空旷，似为铁路维护或停放区域，人物活动较少，环境较为荒凉。",
+      "smartRead": "视频展示了铁路场站的三个不同时间点的画面。各画面均显示铁轨、碎石道床及周围建筑，环境安静，有围墙、绿植和老旧建筑。人物仅在部分画面中出现，如穿深色衣服或黑色衣物的男子沿铁轨或水泥路行走。整体场景为空旷的铁路区域，未见明显人员活动，氛围沉静。"
+    },
+    {
+      "sceneId": 1,
+      "startTime": 32.61,
+      "endTime": 48.91,
+      "duration": 16.299999999999997,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_scene_1.jpg",
+      "sceneSummary": "视频片段展现了一个铁路场站的日常景象。画面中有规整的铁轨、碎石道床，以及右侧行人正在人行横道上行走。背景包括低矮建筑、绿植、白色建筑墙面的红色装饰线，天空晴朗，远处有树木和电线杆。整体氛围宁静，充满工业感与自然光线的明亮感。",
+      "smartRead": "视频片段呈现一个铁路场站的静态画面，展示规整的铁轨、碎石道床及右侧行人行走的情景。背景中有低矮建筑、绿植和白色建筑的红色装饰线，天空晴朗，远处可见树木和电线杆。整个场景安静有序，展现出典型的铁路场站日常风貌。"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 50.0,
+      "endTime": 73.91,
+      "duration": 23.909999999999997,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_scene_2.jpg",
+      "sceneSummary": "视频片段展现了一个铁路场站的静态场景。画面中央有多条铁轨交错延伸，地面铺设碎石和水泥，轨道间有铁轨接缝和枕木痕迹。左侧有行人行走，背景有白色围墙、绿植、浅色平房及杂物。天空晴朗，时间为2025年7月18日17:44至17:45。整体环境安静，似非繁忙时段的铁路作业区或维修场地。",
+      "smartRead": "视频片段呈现一个铁路场站的静态画面，中央多条铁轨交错，地面有碎石和水泥，轨道旁有红色消防栓，背景有白色围墙、绿植及老旧建筑，周围散落杂物。时间显示为2025年7月18日17:44至17:45，天空晴朗，整体环境安静，似非繁忙时段的铁路作业区。"
+    },
+    {
+      "sceneId": 3,
+      "startTime": 75.0,
+      "endTime": 272.83,
+      "duration": 197.82999999999998,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_scene_3.jpg",
+      "sceneSummary": "视频片段呈现多个铁路场站或道口的静态画面，时间集中在2025年7月18日下午5点45分至5点48分31秒之间。画面中普遍出现多条平行或交错的铁轨、碎石铺装的轨道床、白色围墙、老旧建筑、绿植、电线杆等元素，整体环境安静、空旷，光线明亮，呈现出典型的铁路货运或客运场站日常景象。",
+      "smartRead": "视频片段展示了多个铁路场站的静态场景，时间跨度从下午5点45分至5点48分31秒。画面中包含多条铁轨、碎石轨道、白色围墙、老旧建筑及绿植，整体环境安静、光线明亮，呈现出铁路场站的日常风貌，未见人员或车辆活动，气氛沉静而有序。"
+    },
+    {
+      "sceneId": 4,
+      "startTime": 273.91,
+      "endTime": 360.87,
+      "duration": 86.95999999999998,
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_scene_4.jpg",
+      "sceneSummary": "视频片段展现了一个位于2025年7月18日的铁路场站场景，画面中有多条铁轨交错延伸，轨道旁有碎石和枕木，地面为水泥路基。右侧有建筑物和植被，背景有围墙、树木和电线杆，整体环境安静、开阔，光线明亮，呈现出一个略显老旧但仍在运行的铁路站点。",
+      "smartRead": "视频中描绘了一个铁路场站的静态画面，时间集中在2025年7月18日下午，多个镜头显示铁轨、碎石、围墙、建筑及植被等元素，整体氛围安静，没有人员或车辆活动，展现出一个较为荒凉但仍在运作的铁路站点景象。"
+    }
+  ],
+  "tags": [
+    {
+      "tagCode": "person",
+      "tagValue": "人",
+      "tagTrack": [
+        {
+          "startTime": 1.09,
+          "endTime": 18.48
+        },
+        {
+          "startTime": 23.91,
+          "endTime": 27.17
+        },
+        {
+          "startTime": 43.48,
+          "endTime": 46.74
+        },
+        {
+          "startTime": 50.0,
+          "endTime": 54.35
+        },
+        {
+          "startTime": 75.0,
+          "endTime": 88.04
+        },
+        {
+          "startTime": 273.91,
+          "endTime": 282.61
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_person_25.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "armored vehicle",
+      "tagValue": "装甲车",
+      "tagTrack": [
+        {
+          "startTime": 32.61,
+          "endTime": 34.78
+        }
+      ],
+      "imageUrl": "http://192.168.86.113/images/object_image/task_32_1770342649_armored vehicle_750.jpg",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "安静",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "空旷",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ATMOSPHERE",
+      "tagValue": "宁静",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "沉静",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "冷清",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EMOTION",
+      "tagValue": "有序",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "铁路场站",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "铁轨",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "碎石道床",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "围墙",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "绿植",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SCENE",
+      "tagValue": "老旧建筑",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "铁路运输",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "工业设施",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "DOMAIN",
+      "tagValue": "维护作业",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "ERA",
+      "tagValue": "2025年",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "俯视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "平视",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "SHOOTING_ANGLE",
+      "tagValue": "侧面",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "铁路场站",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "工业景观",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "THEME",
+      "tagValue": "时间流逝",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "写实",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "静谧",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "STYLE",
+      "tagValue": "工业风",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "客观",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "中性",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "VIEWING_ANGLE",
+      "tagValue": "旁观者视角",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "行人行走",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "铁轨维护",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "EVENT",
+      "tagValue": "静态拍摄",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    },
+    {
+      "tagCode": "TIME_SLOT",
+      "tagValue": "白天",
+      "tagTrack": [],
+      "imageUrl": "",
+      "vector": []
+    }
+  ],
+  "visionSummary": "视频以铁路场站为主要场景，时间跨度从2025年7月13日至18日，画面中多次出现平行或交错的铁轨、碎石道床，部分区域有红色道砟，背景包括白色围墙、低矮建筑、绿植及树木，整体环境安静、空旷。    画面中展现了铁路场站的日常景象，铁轨规整，碎石道床清晰可见，右侧有行人行走于人行横道上，背景有低矮建筑、绿植、白色建筑墙面的红色装饰线，天空晴朗，远处有树木和电线杆，整体氛围宁静且充满工业感。    视频中呈现了铁路场站的静态场景，中央有多条铁轨交错延伸，地面铺设碎石和水泥，轨道间有铁轨接缝和枕木痕迹，左侧有行人行走，背景有白色围墙、绿植、浅色平房及杂物，天空晴朗，时间为2025年7月18日17:44至17:45，整体环境安静，似非繁忙时段的铁路作业区或维修场地。    视频片段呈现多个铁路场站或道口的静态画面，时间集中在2025年7月18日下午5点45分至5点48分31秒之间，画面中普遍出现多条平行或交错的铁轨、碎石铺装的轨道床、白色围墙、老旧建筑、绿植、电线杆等元素，整体环境安静、空旷，光线明亮，呈现出典型的铁路货运或客运场站日常景象。    视频中描绘了一个位于2025年7月18日的铁路场站场景，画面中有多条铁轨交错延伸，轨道旁有碎石和枕木，地面为水泥路基，右侧有建筑物和植被，背景有围墙、树木和电线杆，整体环境安静、开阔，光线明亮，呈现出一个略显老旧但仍在运行的铁路站点。",
+  "introSummary": "暂无总结分析",
+  "keyPoints": [
+    "视频展现了铁路场站在不同时间段内的静态场景，时间跨度从2025年7月13日至18日，主要集中在7月18日下午。",
+    "场景中多次出现铁轨、碎石道床、白色围墙、绿植、老旧建筑等元素，整体氛围安静、空旷，光线明亮，展现出铁路场站的工业感和自然光线的和谐结合。",
+    "虽然部分画面中出现了行人，但整体环境较为荒凉，人物活动较少，未见明显车辆或大规模人员流动，体现出铁路场站非繁忙时段的景象。",
+    "画面中存在一些细节，如红色道砟、红色装饰线、消防栓等，暗示了铁路场站的维护状态和历史感。",
+    "铁路场站的场景在不同时间点被多次拍摄，表现出其作为铁路运营区域的稳定性和持续性，同时也反映出其逐渐老化和无人管理的状态。"
+  ],
+  "speakerSummaries": [
+    {
+      "speaker": "speaker_0",
+      "summary": "说话人1认为铁路场站是一个安静、空旷的区域，适合进行维护或停放，可能为非繁忙时段的作业区或维修场地。"
+    },
+    {
+      "speaker": "speaker_1",
+      "summary": "说话人2指出铁路场站的日常景象是规整的铁轨、碎石道床和行人行走，背景中有建筑、绿植和电线杆，整体环境宁静有序。"
+    },
+    {
+      "speaker": "speaker_2",
+      "summary": "说话人3强调铁路场站的时间点集中在2025年7月18日下午，场景中出现了铁轨交错、碎石和水泥地面，背景有围墙、绿植和杂物，环境安静且光线明亮。"
+    }
+  ],
+  "mindMap": "flowchart LR\nKaTex-->A[标记 Accents]\nA-->撇,估计,均值,向量等写于符号上下的标记\nKaTex--> A2[分隔符_Delimiters]\n A2 --> 小中大括号,竖杠,绝对值等分隔符的反斜杠写法\n A2-->A22[\"`分开多行\n line 2\n line 3`\"]\nKaTex--> 公式组_Enviroments\n公式组_Enviroments-->B(.....)\nKaTex-->C(想要写中文标点,需要将内容放置在英文引号内部)",
+  "audioSegments": [],
+  "textVectors": []
+}
